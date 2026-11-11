@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,region,sales_channel,category,product,quantity,unit_price_lkr,discount_rate,revenue_lkr,cost_lkr,profit_lkr,payment_method
+ORD00001,2024-03-06,CUST0250,Kurunegala,Online,Home & Kitchen,Cookware Set,4,7910.87,0.05,30061.31,25633.34,4427.97,Cash
+ORD00002,2025-07-19,CUST0177,Colombo,In-store,Fashion,T-Shirt,5,2247.7,0.05,10676.57,9123.98,1552.59,Digital Wallet
+ORD00003,2025-04-23,CUST0204,Kurunegala,In-store,Fashion,Sneakers,4,8981.3,0.0,35925.2,20156.04,15769.16,Digital Wallet
+ORD00004,2024-11-16,CUST0392,Jaffna,Online,Home & Kitchen,Cookware Set,2,7131.94,0.1,12837.49,8171.79,4665.7,Bank Transfer
+ORD00005,2024-11-12,CUST0148,Colombo,Online,Stationery,Pen Set,5,590.29,0.0,2951.45,1662.1,1289.35,Digital Wallet
+ORD00006,2025-09-19,CUST0347,Kilinochchi,Online,Fashion,Handbag,1,5100.84,0.1,4590.76,2872.9,1717.86,Cash
+ORD00007,2024-03-03,CUST0304,Kandy,Online,Stationery,Pen Set,1,658.59,0.05,625.66,367.49,258.17,Bank Transfer
+ORD00008,2025-05-24,CUST0342,Kurunegala,In-store,Electronics,Power Bank,3,6347.68,0.1,17138.74,12010.73,5128.01,Bank Transfer
+ORD00009,2024-05-27,CUST0180,Kurunegala,Online,Electronics,Power Bank,5,6118.26,0.0,30591.3,19649.41,10941.89,Bank Transfer
+ORD00010,2024-03-09,CUST0164,Kilinochchi,In-store,Home & Kitchen,Cookware Set,4,6696.72,0.05,25447.54,21947.74,3499.8,Bank Transfer
+ORD00011,2025-01-19,CUST0033,Colombo,In-store,Home & Kitchen,Blender,5,9891.35,0.0,49456.75,32080.23,17376.52,Bank Transfer
+ORD00012,2025-12-14,CUST0254,Kilinochchi,In-store,Home & Kitchen,Rice Cooker,5,14145.1,0.0,70725.5,57215.97,13509.53,Digital Wallet
+ORD00013,2025-06-21,CUST0123,Galle,Online,Home & Kitchen,Blender,5,9326.87,0.0,46634.35,37095.18,9539.17,Cash
+ORD00014,2025-07-10,CUST0120,Kandy,In-store,Fashion,Handbag,1,4574.89,0.0,4574.89,2708.19,1866.7,Digital Wallet
+ORD00015,2025-06-08,CUST0380,Kilinochchi,Online,Fashion,Jeans,4,6970.87,0.0,27883.48,18921.44,8962.04,Card
+ORD00016,2025-07-28,CUST0316,Kandy,Online,Stationery,Desk Organizer,2,1505.18,0.05,2859.84,1738.52,1121.32,Bank Transfer
+ORD00017,2025-01-10,CUST0118,Colombo,In-store,Home & Kitchen,Cookware Set,3,6536.77,0.15,16668.76,11331.05,5337.71,Bank Transfer
+ORD00018,2024-04-03,CUST0207,,In-store,Home & Kitchen,Rice Cooker,2,14047.1,0.0,28094.2,16298.35,11795.85,Card
+ORD00019,2025-09-05,CUST0061,Colombo,In-store,Fashion,Jeans,2,6281.96,0.0,12563.92,8323.4,4240.52,Card
+ORD00020,2024-11-25,CUST0204,Galle,Online,Electronics,Keyboard,1,5239.99,0.0,5239.99,3492.23,1747.76,Digital Wallet
+ORD00021,2024-12-31,CUST0134,Jaffna,In-store,Electronics,Headphones,2,8103.44,0.0,16206.88,11903.63,4303.25,Cash
+ORD00022,2024-09-28,CUST0185,Jaffna,Online,Electronics,Keyboard,3,5494.02,0.0,16482.06,9275.95,7206.11,Cash
+ORD00023,2024-05-13,CUST0191,Jaffna,In-store,Electronics,Keyboard,1,4715.79,0.0,4715.79,3383.3,1332.49,Cash
+ORD00024,2025-11-08,CUST0002,Kilinochchi,Online,Stationery,Backpack,3,4133.42,0.05,11780.25,7365.02,4415.23,Digital Wallet
+ORD00025,2025-07-25,CUST0032,Kandy,Online,Electronics,Headphones,5,8499.84,0.05,40374.24,34673.2,5701.04,Cash
+ORD00026,2025-04-15,CUST0241,Kurunegala,In-store,Fashion,Jeans,1,6159.39,0.0,6159.39,3915.9,2243.49,Cash
+ORD00027,2024-10-21,CUST0121,Kurunegala,In-store,Home & Kitchen,Blender,1,9176.79,0.05,8717.95,6801.7,1916.25,Cash
+ORD00028,2025-08-24,CUST0051,Kurunegala,Online,Fashion,Sneakers,2,8570.89,0.05,16284.69,10228.41,6056.28,Bank Transfer
+ORD00029,2025-02-02,CUST0230,Kilinochchi,Online,Electronics,Keyboard,1,5816.09,0.05,5525.29,3398.14,2127.15,Card
+ORD00030,2024-11-20,CUST0110,Kandy,Online,Fashion,Handbag,1,4373.35,0.05,4154.68,2753.39,1401.29,Bank Transfer
+ORD00031,2024-11-25,CUST0248,Galle,In-store,Electronics,Headphones,3,8082.49,0.1,21822.72,14996.8,6825.92,Bank Transfer
+ORD00032,2024-06-15,CUST0291,Colombo,In-store,Fashion,Jeans,3,6660.72,0.1,17983.94,16295.9,1688.04,Card
+ORD00033,2024-03-08,CUST0309,Kilinochchi,In-store,Electronics,Headphones,4,8622.83,0.0,34491.32,19846.29,14645.03,Cash
+ORD00034,2025-02-09,CUST0385,Kilinochchi,In-store,Electronics,Power Bank,2,6105.17,0.0,12210.34,9547.57,2662.77,Digital Wallet
+ORD00035,2025-10-11,CUST0036,Kurunegala,Online,Home & Kitchen,Cookware Set,4,7871.33,0.0,31485.32,21712.13,9773.19,Bank Transfer
+ORD00036,2024-02-16,CUST0042,Galle,In-store,Fashion,Sneakers,3,10109.64,0.1,27296.03,23216.37,4079.66,Cash
+ORD00037,2025-09-19,CUST0373,Kilinochchi,In-store,Fashion,Jeans,1,7250.29,0.0,7250.29,5395.77,1854.52,Bank Transfer
+ORD00038,2025-08-27,CUST0233,Galle,In-store,Fashion,Jeans,3,6435.07,0.05,18339.95,15493.45,2846.5,Card
+ORD00039,2024-07-21,CUST0019,Kandy,Online,Home & Kitchen,Blender,2,9102.67,0.0,18205.34,13377.86,4827.48,Bank Transfer
+ORD00040,2025-04-06,CUST0302,Kilinochchi,In-store,Electronics,Headphones,3,9297.54,0.0,27892.62,16862.87,11029.75,Cash
+ORD00041,2024-04-30,CUST0098,Galle,In-store,Home & Kitchen,Blender,2,8917.39,0.0,17834.78,14428.69,3406.09,Digital Wallet
+ORD00042,2025-07-08,CUST0118,Colombo,Online,Electronics,Headphones,1,9080.18,0.1,8172.16,7204.61,967.55,Digital Wallet
+ORD00043,2025-05-27,CUST0171,Colombo,Online,Stationery,Backpack,1,3535.2,0.0,3535.2,2472.1,1063.1,Bank Transfer
+ORD00044,2024-09-16,CUST0067,Kandy,Online,Home & Kitchen,Water Bottle,3,1720.29,0.0,5160.87,4025.59,1135.28,Bank Transfer
+ORD00045,2024-02-19,CUST0018,Jaffna,Online,Home & Kitchen,Cookware Set,2,7121.29,0.1,12818.32,10803.5,2014.82,Card
+ORD00046,2025-12-10,CUST0041,Galle,In-store,Stationery,Notebook,4,431.19,0.1,1552.28,1032.2,520.08,Card
+ORD00047,2024-11-21,CUST0214,Galle,In-store,Electronics,Keyboard,4,5653.93,0.1,20354.15,14510.63,5843.52,Card
+ORD00048,2025-10-14,CUST0377,Jaffna,In-store,Electronics,Headphones,1,9310.54,0.1,8379.49,6422.12,1957.37,Card
+ORD00049,2025-05-10,CUST0036,Kandy,Online,Home & Kitchen,Cookware Set,3,6688.7,0.0,20066.1,16195.5,3870.6,Cash
+ORD00050,2025-07-22,CUST0084,Colombo,In-store,Fashion,T-Shirt,5,2102.54,0.0,10512.7,6119.63,4393.07,Digital Wallet
+ORD00051,2025-07-09,CUST0336,Kilinochchi,Online,Fashion,T-Shirt,3,2173.82,0.0,6521.46,3916.49,2604.97,Digital Wallet
+ORD00052,2024-05-22,CUST0062,Kilinochchi,Online,Home & Kitchen,Water Bottle,5,1984.58,0.0,9922.9,5591.84,4331.06,Card
+ORD00053,2024-09-23,CUST0213,Kandy,Online,Fashion,T-Shirt,4,2364.12,,9456.48,7559.71,1896.77,Digital Wallet
+ORD00054,2024-12-07,CUST0113,Kandy,Online,Stationery,Notebook,2,411.14,0.0,822.28,480.9,341.38,Cash
+ORD00055,2024-12-29,CUST0122,Galle,In-store,Home & Kitchen,Rice Cooker,5,14068.11,0.05,66823.52,47444.48,19379.04,Cash
+ORD00056,2024-02-02,CUST0138,Galle,In-store,Stationery,Pen Set,3,610.34,0.05,1739.47,1425.31,314.16,Cash
+ORD00057,2025-02-03,CUST0069,Jaffna,Online,Stationery,Backpack,4,4249.15,0.0,16996.6,12376.9,4619.7,Bank Transfer
+ORD00058,2024-04-22,CUST0162,Kurunegala,In-store,Fashion,Jeans,2,6653.4,0.05,12641.46,9147.26,3494.2,Digital Wallet
+ORD00059,2025-06-27,CUST0331,Colombo,Online,Fashion,Jeans,2,6433.66,0.0,12867.32,7514.1,5353.22,Cash
+ORD00060,2025-05-14,CUST0008,Kilinochchi,In-store,Fashion,Handbag,2,4664.83,0.0,9329.66,7091.48,2238.18,Digital Wallet
+ORD00061,2025-11-05,CUST0113,Kurunegala,Online,Fashion,T-Shirt,1,2113.17,0.0,2113.17,1324.01,789.16,Bank Transfer
+ORD00062,2025-06-28,CUST0281,Jaffna,In-store,Home & Kitchen,Rice Cooker,3,16089.82,0.05,45855.99,29872.95,15983.04,Bank Transfer
+ORD00063,2024-09-25,CUST0281,Kilinochchi,In-store,Stationery,Backpack,2,3993.02,0.0,7986.04,5254.95,2731.09,Card
+ORD00064,2025-12-08,CUST0342,Kandy,In-store,Stationery,Pen Set,5,631.08,0.0,3155.4,2152.78,1002.62,Bank Transfer
+ORD00065,2024-10-27,CUST0009,Kurunegala,Online,Electronics,Wireless Mouse,5,3530.41,0.1,15886.84,14370.8,1516.04,Cash
+ORD00066,2024-08-26,CUST0183,Jaffna,In-store,Home & Kitchen,Cookware Set,4,6860.52,0.05,26069.98,17236.82,8833.16,Card
+ORD00067,2025-10-23,CUST0147,Colombo,In-store,Home & Kitchen,Blender,2,10579.42,0.1,19042.96,12595.41,6447.55,Card
+ORD00068,2024-09-27,CUST0056,Kandy,In-store,Stationery,Desk Organizer,2,1712.57,0.0,3425.14,2244.55,1180.59,Digital Wallet
+ORD00069,2024-02-25,CUST0254,Colombo,In-store,Electronics,Headphones,3,8808.78,0.15,22462.39,21532.76,929.63,Bank Transfer
+ORD00070,2024-12-09,CUST0354,Galle,In-store,Electronics,Keyboard,3,5438.99,0.0,16316.97,12642.11,3674.86,Cash
+ORD00071,2025-08-04,CUST0010,Kilinochchi,In-store,Fashion,T-Shirt,3,2312.1,0.05,6589.48,5672.86,916.62,Cash
+ORD00072,2024-05-18,CUST0391,Jaffna,Online,Fashion,T-Shirt,1,2134.07,0.0,2134.07,1418.49,715.58,Cash
+ORD00073,2024-12-04,CUST0158,Jaffna,Online,Home & Kitchen,Blender,4,10614.05,0.1,38210.58,28127.22,10083.36,Bank Transfer
+ORD00074,2024-04-04,CUST0358,Jaffna,In-store,Home & Kitchen,Cookware Set,2,6707.95,0.1,12074.31,7726.83,4347.48,Cash
+ORD00075,2025-05-16,CUST0040,Colombo,Online,Electronics,Power Bank,1,5850.74,0.0,5850.74,4441.58,1409.16,Bank Transfer
+ORD00076,2024-12-13,CUST0059,Kandy,In-store,Electronics,Keyboard,1,5664.76,0.1,5098.28,3939.92,1158.36,Digital Wallet
+ORD00077,2024-08-29,CUST0216,Kurunegala,In-store,Home & Kitchen,Water Bottle,4,1721.95,0.1,6199.02,4725.91,1473.11,Card
+ORD00078,2024-06-14,CUST0084,Kandy,In-store,Electronics,Wireless Mouse,4,3409.05,0.0,13636.2,7816.48,5819.72,Cash
+ORD00079,2025-02-16,CUST0072,Kandy,In-store,Stationery,Notebook,2,503.05,0.0,1006.1,730.89,275.21,Cash
+ORD00080,2025-05-04,CUST0350,Kilinochchi,Online,Stationery,Desk Organizer,5,1507.69,0.0,7538.45,5481.51,2056.94,Card
+ORD00081,2025-11-18,CUST0213,Colombo,In-store,Fashion,Handbag,3,5194.95,0.05,14805.61,8683.5,6122.11,Card
+ORD00082,2024-11-15,CUST0168,Colombo,In-store,Electronics,Wireless Mouse,2,3413.57,0.1,6144.43,4789.45,1354.98,Card
+ORD00083,2024-04-27,CUST0145,Colombo,In-store,Home & Kitchen,Rice Cooker,2,14849.46,0.05,28213.97,16864.28,11349.69,Bank Transfer
+ORD00084,2025-08-31,CUST0069,Kilinochchi,In-store,Fashion,Sneakers,4,10081.89,0.0,40327.56,27364.06,12963.5,Digital Wallet
+ORD00085,2025-04-05,CUST0357,Colombo,In-store,Electronics,Wireless Mouse,3,3017.62,0.05,8600.22,5502.37,3097.85,Cash
+ORD00086,2025-05-26,CUST0054,Jaffna,In-store,Electronics,Wireless Mouse,1,3485.64,0.0,3485.64,2256.62,1229.02,Cash
+ORD00087,2024-03-12,CUST0280,Colombo,In-store,Electronics,Keyboard,4,4914.97,0.1,17693.89,15747.76,1946.13,Cash
+ORD00088,2024-08-16,CUST0049,Kurunegala,Online,Fashion,T-Shirt,3,2392.55,0.1,6459.89,5536.47,923.42,Bank Transfer
+ORD00089,2025-07-15,CUST0367,Kurunegala,In-store,Electronics,Headphones,3,8255.76,0.15,21052.19,17479.57,3572.62,Digital Wallet
+ORD00090,2025-08-31,CUST0198,Kurunegala,In-store,Home & Kitchen,Cookware Set,3,8017.88,0.0,24053.64,15811.22,8242.42,Bank Transfer
+ORD00091,2024-11-14,CUST0231,Kandy,In-store,Home & Kitchen,Rice Cooker,1,13379.47,0.1,12041.52,9487.64,2553.88,Card
+ORD00092,2025-08-11,CUST0371,Jaffna,In-store,Fashion,Jeans,2,7183.87,0.0,14367.74,9179.56,5188.18,Card
+ORD00093,2025-09-07,CUST0029,Kandy,In-store,Home & Kitchen,Blender,4,10015.28,0.0,40061.12,25773.21,14287.91,Card
+ORD00094,2024-10-10,CUST0156,Galle,Online,Fashion,T-Shirt,5,2083.84,0.05,9898.24,7856.03,2042.21,Card
+ORD00095,2025-10-18,CUST0339,Kandy,Online,Stationery,Notebook,3,471.23,0.0,1413.69,1138.43,275.26,Digital Wallet
+ORD00096,2024-07-29,CUST0016,Kandy,Online,Electronics,Power Bank,4,6823.0,0.05,25927.4,15206.11,10721.29,Bank Transfer
+ORD00097,2024-06-24,CUST0353,Kilinochchi,In-store,Home & Kitchen,Rice Cooker,3,13067.46,0.1,35282.14,25061.82,10220.32,Digital Wallet
+ORD00098,2025-05-13,CUST0065,Jaffna,Online,Electronics,Power Bank,4,6958.12,0.0,27832.48,19339.45,8493.03,Digital Wallet
+ORD00099,2025-04-10,CUST0047,Colombo,Online,Stationery,Desk Organizer,1,1649.18,0.1,1484.26,1073.79,410.47,Bank Transfer
+ORD00100,2024-04-12,CUST0393,Colombo,In-store,Fashion,Jeans,4,6718.31,0.0,26873.24,17464.81,9408.43,Card
+ORD00101,2025-08-31,CUST0027,Colombo,In-store,Fashion,T-Shirt,5,2117.65,0.0,10588.25,8323.11,2265.14,Bank Transfer
+ORD00102,2024-05-26,CUST0066,Colombo,In-store,Fashion,Jeans,3,6805.71,0.0,20417.13,14640.16,5776.97,Cash
+ORD00103,2025-08-11,CUST0075,Colombo,Online,Home & Kitchen,Cookware Set,2,6701.16,0.0,13402.32,8616.59,4785.73,Cash
+ORD00104,2024-01-06,CUST0390,Kilinochchi,In-store,Stationery,Pen Set,3,596.55,0.05,1700.17,1405.38,294.79,Bank Transfer
+ORD00105,2025-08-05,CUST0265,Colombo,Online,Home & Kitchen,Blender,1,9972.6,0.15,8476.71,8066.35,410.36,Bank Transfer
+ORD00106,2025-07-29,CUST0019,Jaffna,Online,Stationery,Pen Set,2,718.83,0.1,1293.89,836.32,457.57,Cash
+ORD00107,2025-07-24,CUST0318,Kandy,In-store,Electronics,Power Bank,3,7159.52,0.05,20404.63,14116.85,6287.78,Cash
+ORD00108,2025-05-01,CUST0076,Kurunegala,Online,Home & Kitchen,Cookware Set,4,6933.1,0.15,23572.54,15958.81,7613.73,Digital Wallet
+ORD00109,2024-12-10,CUST0370,Kurunegala,In-store,Stationery,Notebook,5,488.37,0.15,2075.57,1426.71,648.86,Card
+ORD00110,2025-05-30,CUST0389,Kilinochchi,In-store,Stationery,Backpack,2,4009.24,0.0,8018.48,5398.27,2620.21,Card
+ORD00111,2024-07-21,CUST0078,Kilinochchi,In-store,Home & Kitchen,Rice Cooker,1,13297.02,0.1,11967.32,8914.85,3052.47,Cash
+ORD00112,2025-07-24,CUST0083,Galle,Online,Electronics,Headphones,5,9474.63,0.0,47373.15,32652.13,14721.02,Digital Wallet
+ORD00113,2025-02-10,CUST0060,Galle,Online,Electronics,Power Bank,1,6069.65,0.0,6069.65,3658.08,2411.57,Card
+ORD00114,2024-12-01,CUST0081,Galle,In-store,Fashion,Handbag,4,5165.42,0.05,19628.6,16184.64,3443.96,Digital Wallet
+ORD00115,2025-01-04,CUST0131,Kurunegala,In-store,Electronics,Wireless Mouse,2,3188.24,0.15,5420.01,4158.38,1261.63,Card
+ORD00116,2025-02-19,CUST0262,Kurunegala,In-store,Home & Kitchen,Rice Cooker,1,15196.4,0.0,15196.4,9296.16,5900.24,Bank Transfer
+ORD00117,2024-01-28,CUST0013,Galle,In-store,Stationery,Desk Organizer,1,1477.77,0.0,1477.77,1020.07,457.7,Card
+ORD00118,2024-04-12,CUST0192,Jaffna,Online,Home & Kitchen,Cookware Set,3,7148.08,0.0,21444.24,15227.52,6216.72,Cash
+ORD00119,2024-06-28,CUST0287,Colombo,Online,Electronics,Power Bank,5,6520.68,0.1,29343.06,22118.2,7224.86,Bank Transfer
+ORD00120,2024-03-24,CUST0172,Jaffna,Online,Fashion,Handbag,5,4993.66,0.1,22471.47,17986.86,4484.61,Card
+ORD00121,2024-11-17,CUST0148,Galle,Online,Fashion,Sneakers,5,9030.73,0.0,45153.65,34735.49,10418.16,Card
+ORD00122,2025-05-03,CUST0299,Colombo,Online,Electronics,Wireless Mouse,3,2972.33,0.0,8916.99,6413.48,2503.51,Bank Transfer
+ORD00123,2025-04-23,CUST0159,Jaffna,In-store,Electronics,Power Bank,1,7217.15,0.0,7217.15,4354.61,2862.54,Cash
+ORD00124,2024-12-10,CUST0284,Kurunegala,In-store,Fashion,Sneakers,1,8634.57,0.0,8634.57,5864.34,2770.23,Cash
+ORD00125,2025-09-17,CUST0170,Kandy,Online,Home & Kitchen,Blender,1,10006.32,0.05,9506.0,5692.41,3813.59,Bank Transfer
+ORD00126,2025-02-17,CUST0180,Jaffna,In-store,Stationery,Backpack,2,4105.99,0.0,8211.98,5316.59,2895.39,Cash
+ORD00127,2024-02-27,CUST0147,Colombo,In-store,Home & Kitchen,Water Bottle,2,1917.71,0.0,3835.42,2391.99,1443.43,Bank Transfer
+ORD00128,2025-07-13,CUST0095,Galle,Online,Home & Kitchen,Blender,5,10465.36,0.15,44477.78,35814.64,8663.14,Bank Transfer
+ORD00129,2025-02-24,CUST0144,Kandy,In-store,Stationery,Pen Set,4,712.24,0.1,2564.06,2175.73,388.33,Bank Transfer
+ORD00130,2025-04-08,CUST0198,Galle,In-store,Home & Kitchen,Rice Cooker,3,14349.49,0.05,40896.05,30094.49,10801.56,Digital Wallet
+ORD00131,2025-02-17,CUST0048,Kilinochchi,In-store,Electronics,Headphones,4,9235.45,0.15,31400.53,29024.66,2375.87,Cash
+ORD00132,2025-02-08,CUST0243,Galle,In-store,Electronics,Wireless Mouse,5,3540.92,0.0,17704.6,12400.13,5304.47,Card
+ORD00133,2024-03-07,CUST0002,Kurunegala,In-store,Electronics,Power Bank,1,7207.49,0.0,7207.49,5587.34,1620.15,Bank Transfer
+ORD00134,2025-02-12,CUST0106,Kilinochchi,In-store,Stationery,Notebook,5,495.42,0.0,2477.1,1815.67,661.43,Digital Wallet
+ORD00135,2025-08-04,CUST0280,Jaffna,Online,Electronics,Wireless Mouse,5,3066.28,0.0,15331.4,10222.66,5108.74,Bank Transfer
+ORD00136,2024-08-10,CUST0335,Kandy,In-store,Home & Kitchen,Cookware Set,4,6817.51,0.0,27270.04,19203.98,8066.06,Digital Wallet
+ORD00137,2025-03-16,CUST0136,Kurunegala,In-store,Electronics,Keyboard,3,5606.57,0.0,16819.71,11045.73,5773.98,Cash
+ORD00138,2024-01-23,CUST0165,Kurunegala,Online,Electronics,Headphones,3,8546.51,0.1,23075.58,18547.85,4527.73,Bank Transfer
+ORD00139,2024-09-11,CUST0035,Kurunegala,In-store,Home & Kitchen,Water Bottle,3,1985.65,0.0,5956.95,4450.14,1506.81,Card
+ORD00140,2024-11-15,CUST0075,Jaffna,Online,Electronics,Wireless Mouse,1,3206.53,0.0,3206.53,2452.79,753.74,Digital Wallet
+ORD00141,2025-12-19,CUST0206,Kandy,In-store,Electronics,Power Bank,2,6214.26,0.0,12428.52,10002.79,2425.73,Card
+ORD00142,2024-06-05,CUST0015,Colombo,Online,Home & Kitchen,Cookware Set,2,6736.52,0.05,12799.39,10258.16,2541.23,Cash
+ORD00143,2024-07-21,CUST0217,Jaffna,In-store,Stationery,Notebook,5,427.54,0.0,2137.7,1676.39,461.31,Bank Transfer
+ORD00144,2024-10-25,CUST0313,Colombo,In-store,Electronics,Keyboard,1,5753.66,0.05,5465.98,3849.95,1616.03,Digital Wallet
+ORD00145,2025-12-26,CUST0395,Jaffna,In-store,Fashion,T-Shirt,5,2342.69,0.0,11713.45,6815.09,4898.36,Bank Transfer
+ORD00146,2025-09-15,CUST0159,Kurunegala,Online,Fashion,Handbag,5,5150.96,0.1,23179.32,15880.82,7298.5,Bank Transfer
+ORD00147,2024-01-26,CUST0326,Kilinochchi,Online,Home & Kitchen,Cookware Set,1,7739.65,0.15,6578.7,5765.23,813.47,Card
+ORD00148,2024-06-20,CUST0190,Galle,In-store,Fashion,Jeans,4,7260.88,0.0,29043.52,19207.68,9835.84,Digital Wallet
+ORD00149,2025-08-23,CUST0100,Kurunegala,In-store,Fashion,Handbag,2,5354.86,0.1,9638.75,6761.65,2877.1,Cash
+ORD00150,2024-02-12,CUST0332,Jaffna,In-store,Fashion,Handbag,5,4345.82,0.0,21729.1,16127.72,5601.38,Bank Transfer
+ORD00151,2025-09-17,CUST0167,Kilinochchi,In-store,Electronics,Wireless Mouse,2,3489.03,0.0,6978.06,4584.85,2393.21,Card
+ORD00152,2024-07-24,CUST0347,Galle,Online,Electronics,Power Bank,3,6916.88,0.1,18675.58,12622.61,6052.97,Bank Transfer
+ORD00153,2025-11-01,CUST0044,Galle,Online,Electronics,Keyboard,2,4711.1,0.15,8008.87,6988.49,1020.38,Digital Wallet
+ORD00154,2024-08-02,CUST0180,Kilinochchi,In-store,Home & Kitchen,Water Bottle,1,1873.61,0.0,1873.61,1479.73,393.88,Digital Wallet
+ORD00155,2024-11-13,CUST0331,Jaffna,In-store,Fashion,T-Shirt,1,2450.62,0.1,2205.56,1957.83,247.73,Card
+ORD00156,2025-04-28,CUST0049,Colombo,Online,Electronics,Headphones,1,7783.34,0.15,6615.84,4436.47,2179.37,Cash
+ORD00157,2024-04-02,CUST0176,Galle,Online,Fashion,T-Shirt,4,2285.36,0.1,8227.3,6603.65,1623.65,Card
+ORD00158,2025-02-11,CUST0188,Kandy,In-store,Home & Kitchen,Blender,1,9185.9,0.1,8267.31,5698.84,2568.47,Cash
+ORD00159,2025-01-04,CUST0353,Kurunegala,In-store,Stationery,Backpack,2,3993.54,0.1,7188.37,4560.55,2627.82,Digital Wallet
+ORD00160,2025-07-27,CUST0364,Kandy,Online,Fashion,T-Shirt,4,2122.79,0.05,8066.6,5334.62,2731.98,Bank Transfer
+ORD00161,2025-12-29,CUST0224,Kurunegala,In-store,Fashion,T-Shirt,4,2045.38,0.05,7772.44,5990.37,1782.07,Digital Wallet
+ORD00162,2025-04-30,CUST0035,Kurunegala,Online,Home & Kitchen,Blender,3,9299.43,0.0,27898.29,20940.03,6958.26,Cash
+ORD00163,2024-10-26,CUST0289,Kilinochchi,In-store,Home & Kitchen,Rice Cooker,4,14557.45,0.0,58229.8,41769.65,16460.15,Digital Wallet
+ORD00164,2024-10-24,CUST0296,Galle,In-store,Fashion,Handbag,5,4395.87,0.0,21979.35,14946.61,7032.74,Digital Wallet
+ORD00165,2024-11-01,CUST0058,Colombo,In-store,Home & Kitchen,Cookware Set,5,7193.71,0.0,35968.55,21889.29,14079.26,Bank Transfer
+ORD00166,2025-08-18,CUST0294,Colombo,In-store,Fashion,Jeans,3,5895.97,0.05,16803.51,10465.17,6338.34,Digital Wallet
+ORD00167,2024-08-22,CUST0062,Jaffna,Online,Fashion,T-Shirt,2,2290.52,0.0,4581.04,3459.16,1121.88,Digital Wallet
+ORD00168,2024-05-02,CUST0340,Kandy,In-store,Fashion,Handbag,3,5374.76,0.0,16124.28,10117.36,6006.92,Card
+ORD00169,2024-09-01,CUST0289,Kilinochchi,Online,Fashion,Sneakers,5,10284.32,0.0,51421.6,37154.03,14267.57,Card
+ORD00170,2024-01-17,CUST0334,Kandy,Online,Home & Kitchen,Rice Cooker,4,14017.21,0.0,56068.84,45758.77,10310.07,Digital Wallet
+ORD00171,2024-03-18,CUST0070,Galle,Online,Fashion,Sneakers,2,8929.4,0.0,17858.8,12526.34,5332.46,Card
+ORD00172,2024-03-06,CUST0134,Galle,In-store,Fashion,Jeans,5,6322.87,0.0,31614.35,18998.72,12615.63,Digital Wallet
+ORD00173,2025-07-18,CUST0045,Jaffna,Online,Electronics,Headphones,4,8685.94,0.0,34743.76,22076.8,12666.96,Digital Wallet
+ORD00174,2025-06-12,CUST0022,Colombo,In-store,Electronics,Wireless Mouse,1,3289.54,0.0,3289.54,2563.12,726.42,Cash
+ORD00175,2025-05-24,CUST0051,Colombo,In-store,Home & Kitchen,Water Bottle,3,1648.43,0.1,4450.76,3912.34,538.42,Bank Transfer
+ORD00176,2024-12-03,CUST0061,Jaffna,Online,Home & Kitchen,Cookware Set,4,6801.22,0.05,25844.64,20286.69,5557.95,Bank Transfer
+ORD00177,2025-06-08,CUST0294,Colombo,In-store,Home & Kitchen,Water Bottle,2,1808.98,0.0,3617.96,2209.1,1408.86,Card
+ORD00178,2024-04-27,CUST0176,Galle,Online,Electronics,Power Bank,2,6770.93,0.05,12864.77,10287.68,2577.09,Digital Wallet
+ORD00179,2025-10-20,CUST0346,Jaffna,In-store,Electronics,Keyboard,3,5370.3,0.0,16110.9,9046.09,7064.81,Cash
+ORD00180,2025-01-01,CUST0330,Galle,Online,Electronics,Wireless Mouse,1,3531.68,0.0,3531.68,2828.82,702.86,Cash
+ORD00181,2025-11-16,CUST0094,Kilinochchi,In-store,Stationery,Backpack,1,4057.88,0.15,3449.2,3224.37,224.83,Digital Wallet
+ORD00182,2024-04-21,CUST0246,Galle,Online,Stationery,Notebook,1,465.86,0.0,465.86,328.15,137.71,Cash
+ORD00183,2024-12-29,CUST0218,Jaffna,Online,Electronics,Power Bank,4,7064.04,0.0,28256.16,19430.47,8825.69,Cash
+ORD00184,2025-05-24,CUST0070,Galle,In-store,Home & Kitchen,Water Bottle,5,1706.95,0.0,8534.75,6866.15,1668.6,Bank Transfer
+ORD00185,2024-12-28,CUST0191,Kilinochchi,In-store,Stationery,Backpack,2,4132.04,0.0,8264.08,5925.66,2338.42,Cash
+ORD00186,2024-11-22,CUST0061,Jaffna,In-store,Stationery,Backpack,3,3493.9,0.05,9957.61,6726.41,3231.2,Cash
+ORD00187,2024-05-01,CUST0127,Kilinochchi,In-store,Fashion,T-Shirt,2,2142.16,0.1,3855.89,2957.98,897.91,Digital Wallet
+ORD00188,2024-10-05,CUST0047,Jaffna,Online,Fashion,Sneakers,1,10071.43,0.0,10071.43,5924.44,4146.99,Cash
+ORD00189,2024-06-23,CUST0217,Galle,In-store,Electronics,Power Bank,2,6049.9,0.0,12099.8,8008.56,4091.24,Card
+ORD00190,2024-08-08,CUST0150,Kandy,In-store,Fashion,T-Shirt,2,2295.25,0.0,4590.5,2541.85,2048.65,Cash
+ORD00191,2025-05-14,CUST0058,Colombo,In-store,Home & Kitchen,Cookware Set,5,7078.49,0.0,35392.45,25137.46,10254.99,Digital Wallet
+ORD00192,2025-04-05,CUST0041,Kilinochchi,Online,Home & Kitchen,Blender,4,10507.76,0.15,35726.38,23369.79,12356.59,Bank Transfer
+ORD00193,2025-03-19,CUST0295,Colombo,In-store,Home & Kitchen,Cookware Set,4,7481.65,0.1,26933.94,24386.33,2547.61,Digital Wallet
+ORD00194,2024-09-21,CUST0135,Colombo,In-store,Electronics,Power Bank,4,7262.34,0.0,29049.36,19526.32,9523.04,Digital Wallet
+ORD00195,2025-12-02,CUST0291,Kilinochchi,In-store,Home & Kitchen,Rice Cooker,5,14564.86,0.0,72824.3,41070.34,31753.96,Digital Wallet
+ORD00196,2024-03-05,CUST0170,Kilinochchi,In-store,Electronics,Power Bank,3,7180.05,0.0,21540.15,17495.05,4045.1,Card
+ORD00197,2024-09-07,CUST0132,Galle,Online,Stationery,Notebook,3,432.67,0.1,1168.21,850.55,317.66,Cash
+ORD00198,2024-03-27,CUST0013,Kandy,Online,Home & Kitchen,Rice Cooker,1,14299.96,0.0,14299.96,10490.59,3809.37,Cash
+ORD00199,2024-09-04,CUST0262,Kandy,Online,Electronics,Power Bank,2,6348.87,0.05,12062.85,8583.13,3479.72,Cash
+ORD00200,2025-12-04,CUST0361,Galle,In-store,Electronics,Power Bank,1,6339.99,0.0,6339.99,4333.65,2006.34,Cash
+ORD00201,2024-09-24,CUST0061,Kurunegala,Online,Fashion,Jeans,1,7003.93,0.15,5953.34,4999.15,954.19,Bank Transfer
+ORD00202,2025-10-26,CUST0066,Kandy,In-store,Home & Kitchen,Cookware Set,3,7302.36,0.0,21907.08,13101.23,8805.85,Bank Transfer
+ORD00203,2024-12-27,CUST0135,Jaffna,In-store,Stationery,Backpack,2,3453.07,0.0,6906.14,4246.36,2659.78,Card
+ORD00204,2025-05-26,CUST0152,,In-store,Electronics,Wireless Mouse,5,3151.16,0.0,15755.8,10060.7,5695.1,Cash
+ORD00205,2024-11-30,CUST0320,Galle,In-store,Electronics,Wireless Mouse,4,3577.53,0.1,12879.11,9818.73,3060.38,Cash
+ORD00206,2024-07-13,CUST0338,Kurunegala,In-store,Fashion,Sneakers,4,10092.5,0.0,40370.0,30562.37,9807.63,Digital Wallet
+ORD00207,2025-07-12,CUST0111,Galle,In-store,Stationery,Pen Set,1,727.18,0.1,654.46,418.26,236.2,Bank Transfer
+ORD00208,2025-12-09,CUST0241,Kilinochchi,In-store,Fashion,Sneakers,5,10014.29,0.0,50071.45,31269.59,18801.86,Card
+ORD00209,2024-07-11,CUST0075,Jaffna,Online,Home & Kitchen,Blender,2,9666.74,0.0,19333.48,15223.98,4109.5,Digital Wallet
+ORD00210,2025-07-23,CUST0202,Colombo,In-store,Home & Kitchen,Blender,4,9720.65,0.0,38882.6,26662.71,12219.89,Cash
+ORD00211,2024-07-09,CUST0004,Kurunegala,Online,Fashion,Handbag,3,5190.05,0.0,15570.15,12640.44,2929.71,Bank Transfer
+ORD00212,2025-06-08,CUST0211,Jaffna,Online,Electronics,Keyboard,5,4874.46,0.1,21935.07,17248.86,4686.21,Card
+ORD00213,2025-07-30,CUST0073,Kurunegala,In-store,Electronics,Wireless Mouse,3,3387.61,0.0,10162.83,7230.05,2932.78,Bank Transfer
+ORD00214,2024-11-24,CUST0266,Jaffna,In-store,Electronics,Power Bank,1,6019.71,0.15,5116.75,4765.06,351.69,Cash
+ORD00215,2025-06-22,CUST0289,Kilinochchi,In-store,Fashion,Jeans,4,6483.0,0.0,25932.0,14991.83,10940.17,Card
+ORD00216,2024-07-18,CUST0369,Galle,In-store,Home & Kitchen,Cookware Set,4,6619.01,0.0,26476.04,21207.33,5268.71,Digital Wallet
+ORD00217,2024-02-27,CUST0344,Jaffna,Online,Home & Kitchen,Water Bottle,3,1784.8,0.0,5354.4,4243.69,1110.71,Bank Transfer
+ORD00218,2024-03-11,CUST0262,Kurunegala,Online,Electronics,Headphones,1,8283.96,0.05,7869.76,4766.47,3103.29,Digital Wallet
+ORD00219,2024-11-22,CUST0187,Jaffna,In-store,Stationery,Pen Set,1,630.78,0.0,630.78,438.42,192.36,Card
+ORD00220,2025-10-21,CUST0155,Jaffna,In-store,Electronics,Wireless Mouse,4,3018.66,0.0,12074.64,8685.01,3389.63,Card
+ORD00221,2024-04-03,CUST0120,Galle,Online,Home & Kitchen,Cookware Set,4,7080.13,0.05,26904.49,22964.39,3940.1,Digital Wallet
+ORD00222,2024-11-29,CUST0172,Colombo,In-store,Electronics,Keyboard,4,5478.88,0.15,18628.19,14765.84,3862.35,Cash
+ORD00223,2025-05-29,CUST0240,Galle,In-store,Electronics,Power Bank,4,6575.98,0.05,24988.72,20641.41,4347.31,Card
+ORD00224,2024-05-27,CUST0348,Colombo,Online,Stationery,Desk Organizer,3,1452.82,0.05,4140.54,2651.66,1488.88,Digital Wallet
+ORD00225,2025-06-11,CUST0277,Colombo,Online,Home & Kitchen,Rice Cooker,1,14131.49,0.05,13424.92,8552.05,4872.87,Bank Transfer
+ORD00226,2024-08-11,CUST0117,Jaffna,In-store,Electronics,Keyboard,2,5792.05,0.05,11004.9,8280.79,2724.11,Card
+ORD00227,2025-08-14,CUST0396,Kilinochchi,Online,Electronics,Headphones,4,7730.74,0.0,30922.96,23098.33,7824.63,Cash
+ORD00228,2025-02-27,CUST0175,Jaffna,Online,Home & Kitchen,Blender,5,9519.93,0.0,47599.65,31720.92,15878.73,Bank Transfer
+ORD00229,2025-02-03,CUST0060,Jaffna,In-store,Stationery,Desk Organizer,1,1575.41,0.0,1575.41,1016.25,559.16,Cash
+ORD00230,2024-05-09,CUST0368,Kurunegala,In-store,Home & Kitchen,Cookware Set,4,6531.63,0.0,26126.52,17214.34,8912.18,Cash
+ORD00231,2024-12-04,CUST0333,Galle,In-store,Stationery,Pen Set,2,613.33,0.05,1165.33,839.6,325.73,Card
+ORD00232,2025-09-18,CUST0172,Galle,In-store,Electronics,Keyboard,4,5469.09,0.1,19688.72,14214.92,5473.8,Bank Transfer
+ORD00233,2024-01-15,CUST0001,Colombo,Online,Electronics,Power Bank,1,6890.87,0.0,6890.87,5136.53,1754.34,Bank Transfer
+ORD00234,2025-07-08,CUST0010,Kandy,In-store,Electronics,Keyboard,2,4744.39,0.1,8539.9,5820.13,2719.77,Bank Transfer
+ORD00235,2024-12-26,CUST0229,Kurunegala,In-store,Fashion,Sneakers,3,9293.34,0.15,23698.02,16464.13,7233.89,Card
+ORD00236,2025-06-09,CUST0267,Colombo,In-store,Stationery,Pen Set,1,682.99,0.0,682.99,452.83,230.16,Card
+ORD00237,2025-04-29,CUST0017,Colombo,Online,Home & Kitchen,Blender,2,9478.62,0.0,18957.24,12294.96,6662.28,Cash
+ORD00238,2024-11-11,CUST0278,Galle,In-store,Electronics,Power Bank,3,7062.16,0.0,21186.48,12514.05,8672.43,Cash
+ORD00239,2024-08-13,CUST0340,Galle,Online,Fashion,T-Shirt,5,2001.72,0.05,9508.17,5698.92,3809.25,Digital Wallet
+ORD00240,2025-04-03,CUST0239,Galle,In-store,Electronics,Wireless Mouse,2,3577.84,0.0,7155.68,4301.73,2853.95,Cash
+ORD00241,2024-04-12,CUST0082,Jaffna,In-store,Fashion,T-Shirt,4,2344.49,0.1,8440.16,7198.13,1242.03,Bank Transfer
+ORD00242,2025-03-02,CUST0373,Jaffna,In-store,Home & Kitchen,Blender,3,10290.17,0.15,26239.93,20453.76,5786.17,Bank Transfer
+ORD00243,2024-03-10,CUST0306,Colombo,In-store,Electronics,Wireless Mouse,2,3251.46,0.0,6502.92,5212.06,1290.86,Digital Wallet
+ORD00244,2025-04-20,CUST0361,Kilinochchi,Online,Electronics,Keyboard,1,5510.2,0.0,5510.2,4059.91,1450.29,Bank Transfer
+ORD00245,2025-04-04,CUST0077,Kilinochchi,In-store,Stationery,Desk Organizer,4,1646.33,0.0,6585.32,4861.7,1723.62,Cash
+ORD00246,2024-03-02,CUST0303,Kurunegala,In-store,Home & Kitchen,Water Bottle,4,2015.08,0.0,8060.32,4873.67,3186.65,Bank Transfer
+ORD00247,2025-07-07,CUST0139,Galle,Online,Fashion,T-Shirt,1,2175.67,0.05,2066.89,1540.38,526.51,Cash
+ORD00248,2024-10-30,CUST0250,Colombo,In-store,Fashion,Handbag,4,4887.61,0.05,18572.92,11286.9,7286.02,Card
+ORD00249,2025-07-29,CUST0006,Kurunegala,Online,Stationery,Backpack,4,3495.58,0.05,13283.2,8527.39,4755.81,Card
+ORD00250,2024-01-31,CUST0136,Kandy,In-store,Fashion,Handbag,2,4791.24,0.1,8624.23,7141.79,1482.44,Bank Transfer
+ORD00251,2024-05-11,CUST0153,Galle,In-store,Electronics,Keyboard,1,4900.82,0.0,4900.82,3944.76,956.06,Digital Wallet
+ORD00252,2024-12-27,CUST0327,Galle,In-store,Home & Kitchen,Rice Cooker,1,14272.86,0.1,12845.57,10943.43,1902.14,Cash
+ORD00253,2024-05-17,CUST0260,Galle,In-store,Stationery,Notebook,3,410.04,0.1,1107.11,970.06,137.05,Bank Transfer
+ORD00254,2024-08-29,CUST0200,Kandy,In-store,Stationery,Notebook,4,408.35,0.05,1551.73,1317.56,234.17,Digital Wallet
+ORD00255,2025-04-27,CUST0353,Kandy,In-store,Electronics,Power Bank,5,7190.0,0.0,35950.0,26007.15,9942.85,Digital Wallet
+ORD00256,2024-04-15,CUST0094,Kilinochchi,In-store,Electronics,Headphones,4,9214.52,0.0,36858.08,22527.98,14330.1,Bank Transfer
+ORD00257,2025-05-10,CUST0174,Colombo,Online,Electronics,Wireless Mouse,3,3139.14,0.05,8946.55,7499.05,1447.5,Cash
+ORD00258,2024-03-16,CUST0253,Galle,Online,Stationery,Desk Organizer,2,1658.29,0.05,3150.75,2442.44,708.31,Cash
+ORD00259,2024-05-08,CUST0127,Galle,In-store,Fashion,T-Shirt,4,2162.6,0.0,8650.4,5948.26,2702.14,Bank Transfer
+ORD00260,2025-03-05,CUST0212,Galle,In-store,Electronics,Wireless Mouse,1,3144.2,0.15,2672.57,1876.11,796.46,Card
+ORD00261,2025-08-03,CUST0220,Kurunegala,In-store,Home & Kitchen,Rice Cooker,3,15103.53,0.15,38514.0,28410.18,10103.82,Cash
+ORD00262,2024-05-04,CUST0013,Jaffna,In-store,Home & Kitchen,Blender,5,10151.7,0.05,48220.57,38150.98,10069.59,Bank Transfer
+ORD00263,2024-08-07,CUST0151,Colombo,In-store,Home & Kitchen,Blender,1,9035.5,0.05,8583.73,7398.27,1185.46,Bank Transfer
+ORD00264,2025-11-07,CUST0219,Kilinochchi,Online,Stationery,Desk Organizer,2,1658.21,0.05,3150.6,2593.18,557.42,Cash
+ORD00265,2025-12-24,CUST0241,Kandy,In-store,Electronics,Wireless Mouse,5,2934.03,0.0,14670.15,8084.01,6586.14,Cash
+ORD00266,2025-02-28,CUST0161,Kilinochchi,In-store,Home & Kitchen,Rice Cooker,1,15498.84,0.1,13948.96,11255.15,2693.81,Cash
+ORD00267,2024-11-22,CUST0175,Kandy,Online,Stationery,Pen Set,1,643.18,0.15,546.7,518.84,27.86,Bank Transfer
+ORD00268,2024-09-10,CUST0013,Kurunegala,In-store,Fashion,Jeans,3,6056.14,0.05,17260.0,11133.41,6126.59,Bank Transfer
+ORD00269,2025-03-23,CUST0055,Kandy,In-store,Stationery,Desk Organizer,5,1613.48,0.1,7260.66,5027.66,2233.0,Card
+ORD00270,2025-03-07,CUST0361,Galle,In-store,Stationery,Desk Organizer,5,1748.87,0.15,7432.7,5348.49,2084.21,Digital Wallet
+ORD00271,2024-08-03,CUST0398,Colombo,In-store,Home & Kitchen,Water Bottle,3,1755.67,0.0,5267.01,3240.03,2026.98,Digital Wallet
+ORD00272,2024-01-17,CUST0209,Jaffna,In-store,Fashion,Sneakers,4,9147.47,0.0,36589.88,22191.94,14397.94,Digital Wallet
+ORD00273,2024-04-20,CUST0332,Kilinochchi,Online,Fashion,Sneakers,4,9443.53,0.1,33996.71,23744.19,10252.52,Digital Wallet
+ORD00274,2025-12-01,CUST0339,Kandy,In-store,Fashion,Sneakers,1,10290.03,0.0,10290.03,7920.83,2369.2,Bank Transfer
+ORD00275,2024-11-01,CUST0126,Kilinochchi,In-store,Stationery,Notebook,2,460.98,0.0,921.96,563.28,358.68,Digital Wallet
+ORD00276,2024-12-18,CUST0197,Kurunegala,In-store,Electronics,Wireless Mouse,1,3447.3,0.1,3102.57,1961.28,1141.29,Bank Transfer
+ORD00277,2024-12-07,CUST0091,Galle,In-store,Fashion,Handbag,3,4740.97,0.0,14222.91,10057.59,4165.32,Digital Wallet
+ORD00278,2025-07-26,CUST0137,Colombo,In-store,Fashion,Sneakers,1,9900.37,0.1,8910.33,5855.5,3054.83,Bank Transfer
+ORD00279,2024-02-17,CUST0067,Kilinochchi,In-store,Fashion,Jeans,2,6810.11,0.0,13620.22,9370.83,4249.39,Cash
+ORD00280,2024-03-01,CUST0350,Kilinochchi,Online,Stationery,Desk Organizer,3,1498.38,0.1,4045.63,2511.35,1534.28,Card
+ORD00281,2024-07-20,CUST0009,Kandy,Online,Fashion,Handbag,3,4729.58,0.1,12769.87,10522.1,2247.77,Card
+ORD00282,2024-12-21,CUST0258,Kurunegala,Online,Electronics,Headphones,3,9467.63,0.0,28402.89,17536.26,10866.63,Cash
+ORD00283,2025-05-05,CUST0207,Galle,Online,Electronics,Wireless Mouse,3,3577.57,0.0,10732.71,7515.59,3217.12,Card
+ORD00284,2024-12-24,CUST0068,Colombo,Online,Home & Kitchen,Blender,3,10417.2,0.1,28126.44,18341.54,9784.9,Card
+ORD00285,2024-11-18,CUST0238,Kandy,In-store,Electronics,Power Bank,2,6643.71,0.0,13287.42,8284.07,5003.35,Cash
+ORD00286,2025-11-16,CUST0231,Jaffna,In-store,Fashion,Handbag,1,4418.32,0.1,3976.49,2638.82,1337.67,Digital Wallet
+ORD00287,2024-04-27,CUST0379,Jaffna,Online,Fashion,T-Shirt,2,2070.34,0.0,4140.68,2314.2,1826.48,Bank Transfer
+ORD00288,2025-02-21,CUST0353,Galle,In-store,Electronics,Keyboard,3,5592.36,0.1,15099.37,12391.14,2708.23,Bank Transfer
+ORD00289,2025-01-31,CUST0237,Kilinochchi,In-store,Fashion,Sneakers,5,8483.46,0.0,42417.3,24159.32,18257.98,Cash
+ORD00290,2024-12-12,CUST0397,Colombo,Online,Stationery,Backpack,5,3555.25,0.1,15998.62,14036.2,1962.42,Cash
+ORD00291,2025-08-13,CUST0191,Colombo,In-store,Home & Kitchen,Water Bottle,4,1823.56,0.0,7294.24,4278.14,3016.1,Cash
+ORD00292,2024-07-14,CUST0087,Galle,In-store,Home & Kitchen,Water Bottle,2,1893.99,0.05,3598.58,2634.83,963.75,Digital Wallet
+ORD00293,2025-11-28,CUST0033,Galle,Online,Stationery,Backpack,1,4038.5,0.15,3432.72,3144.3,288.42,Digital Wallet
+ORD00294,2024-08-30,CUST0309,Kandy,In-store,Fashion,Jeans,4,7277.47,0.0,29109.88,16492.26,12617.62,Bank Transfer
+ORD00295,2025-02-02,CUST0009,Colombo,Online,Electronics,Power Bank,2,6895.37,0.0,13790.74,8202.09,5588.65,Cash
+ORD00296,2025-01-15,CUST0012,Jaffna,Online,Electronics,Power Bank,3,6648.9,0.0,19946.7,14184.42,5762.28,Card
+ORD00297,2025-09-13,CUST0372,Kurunegala,In-store,Home & Kitchen,Water Bottle,4,1641.41,0.15,5580.79,5349.71,231.08,Cash
+ORD00298,2024-11-16,CUST0295,Jaffna,Online,Stationery,Notebook,3,426.97,0.0,1280.91,864.56,416.35,Digital Wallet
+ORD00299,2024-07-27,CUST0077,Kurunegala,In-store,Fashion,Sneakers,4,8827.43,0.0,35309.72,19855.67,15454.05,Bank Transfer
+ORD00300,2024-01-16,CUST0084,Colombo,In-store,Electronics,Wireless Mouse,4,3293.83,0.0,13175.32,7474.84,5700.48,Digital Wallet
+ORD00301,2024-09-22,CUST0110,Kilinochchi,Online,Home & Kitchen,Blender,3,10577.24,0.0,31731.72,23946.97,7784.75,Digital Wallet
+ORD00302,2025-08-27,CUST0184,Galle,In-store,Fashion,Jeans,1,6442.63,0.0,6442.63,4096.13,2346.5,Cash
+ORD00303,2024-01-08,CUST0301,Galle,In-store,Electronics,Keyboard,3,5317.13,0.15,13558.68,8929.27,4629.41,Cash
+ORD00304,2025-10-17,CUST0048,Jaffna,In-store,Electronics,Headphones,5,8055.41,0.0,40277.05,26516.51,13760.54,Bank Transfer
+ORD00305,2025-01-31,CUST0133,Jaffna,In-store,Electronics,Headphones,1,8677.89,0.0,8677.89,6057.75,2620.14,Card
+ORD00306,2024-04-12,CUST0051,Galle,Online,Electronics,Keyboard,4,4847.65,0.15,16482.01,13898.57,2583.44,Bank Transfer
+ORD00307,2024-08-08,CUST0050,Kandy,Online,Electronics,Wireless Mouse,5,3023.63,0.05,14362.24,10029.72,4332.52,Card
+ORD00308,2025-02-09,CUST0152,Kandy,In-store,Stationery,Notebook,3,469.23,0.15,1196.54,796.12,400.42,Digital Wallet
+ORD00309,2024-08-18,CUST0133,Colombo,In-store,Fashion,Sneakers,1,9359.58,0.05,8891.6,6300.75,2590.85,Card
+ORD00310,2024-03-20,CUST0284,Colombo,In-store,Electronics,Keyboard,2,5823.3,0.0,11646.6,6912.05,4734.55,Bank Transfer
+ORD00311,2025-05-01,CUST0206,Galle,In-store,Fashion,Jeans,4,6691.05,0.0,26764.2,19759.1,7005.1,Digital Wallet
+ORD00312,2025-05-06,CUST0267,Kilinochchi,In-store,Stationery,Backpack,5,3814.42,0.0,19072.1,10931.92,8140.18,Cash
+ORD00313,2024-03-27,CUST0298,Kandy,In-store,Stationery,Desk Organizer,2,1726.84,0.0,3453.68,2163.98,1289.7,Bank Transfer
+ORD00314,2024-07-24,CUST0351,Kandy,In-store,Stationery,Desk Organizer,4,1494.06,0.1,5378.62,3525.66,1852.96,Digital Wallet
+ORD00315,2024-06-27,CUST0059,Kurunegala,Online,Home & Kitchen,Water Bottle,1,1624.68,0.0,1624.68,1294.52,330.16,Digital Wallet
+ORD00316,2025-04-27,CUST0103,Colombo,In-store,Fashion,T-Shirt,1,2242.78,0.0,2242.78,1405.18,837.6,Bank Transfer
+ORD00317,2025-06-17,CUST0161,Kurunegala,Online,Home & Kitchen,Rice Cooker,4,13458.9,0.15,45760.26,36960.6,8799.66,Bank Transfer
+ORD00318,2025-06-15,CUST0351,Kurunegala,In-store,Fashion,Handbag,4,4967.97,0.0,19871.88,11463.44,8408.44,Bank Transfer
+ORD00319,2025-11-17,CUST0242,Kurunegala,Online,Electronics,Wireless Mouse,1,3266.42,0.0,3266.42,2334.87,931.55,Cash
+ORD00320,2025-07-15,CUST0226,Kilinochchi,In-store,Home & Kitchen,Blender,5,9839.54,0.05,46737.82,29849.4,16888.42,Digital Wallet
+ORD00321,2024-08-22,CUST0159,Kurunegala,In-store,Stationery,Backpack,3,3624.7,0.05,10330.39,6228.79,4101.6,Bank Transfer
+ORD00322,2024-03-19,CUST0301,Kandy,In-store,Electronics,Headphones,4,8197.79,0.1,29512.04,24782.24,4729.8,Bank Transfer
+ORD00323,2025-03-25,CUST0160,Kandy,Online,Fashion,Sneakers,5,8465.32,0.0,42326.6,25961.51,16365.09,Bank Transfer
+ORD00324,2025-10-31,CUST0126,Colombo,In-store,Fashion,Jeans,1,6052.04,0.0,6052.04,4733.38,1318.66,Bank Transfer
+ORD00325,2025-12-13,CUST0052,Kurunegala,In-store,Fashion,Jeans,1,6213.06,0.0,6213.06,5070.16,1142.9,Digital Wallet
+ORD00326,2024-06-17,CUST0255,Kandy,Online,Electronics,Headphones,3,8360.08,0.1,22572.22,18972.59,3599.63,Card
+ORD00327,2024-06-21,CUST0083,Kilinochchi,In-store,Stationery,Notebook,3,468.61,0.1,1265.25,867.6,397.65,Digital Wallet
+ORD00328,2024-01-28,CUST0246,Kilinochchi,In-store,Fashion,Handbag,4,4843.28,0.05,18404.46,11448.53,6955.93,Cash
+ORD00329,2024-04-13,CUST0029,Kandy,In-store,Fashion,Sneakers,3,8774.82,0.1,23692.01,17136.14,6555.87,Bank Transfer
+ORD00330,2025-02-09,CUST0180,Galle,Online,Fashion,T-Shirt,1,1987.87,0.15,1689.69,1531.17,158.52,Bank Transfer
+ORD00331,2025-02-03,CUST0096,Jaffna,In-store,Stationery,Backpack,2,3930.76,0.05,7468.44,4891.21,2577.23,Cash
+ORD00332,2024-09-28,CUST0305,Kurunegala,Online,Fashion,Handbag,5,4653.99,0.0,23269.95,15648.48,7621.47,Bank Transfer
+ORD00333,2024-08-14,CUST0361,Colombo,In-store,Stationery,Notebook,5,489.18,0.15,2079.01,1652.66,426.35,Card
+ORD00334,2025-08-29,CUST0068,Kurunegala,Online,Electronics,Wireless Mouse,1,3551.06,0.0,3551.06,2872.92,678.14,Digital Wallet
+ORD00335,2024-12-02,CUST0113,Jaffna,In-store,Fashion,Handbag,2,5002.63,0.0,10005.26,8036.03,1969.23,Card
+ORD00336,2025-08-13,CUST0181,Kurunegala,In-store,Fashion,Handbag,1,4987.86,0.0,4987.86,3650.11,1337.75,Card
+ORD00337,2025-12-05,CUST0274,Jaffna,In-store,Electronics,Keyboard,2,5058.95,0.0,10117.9,6085.04,4032.86,Card
+ORD00338,2024-08-19,CUST0378,Kurunegala,Online,Fashion,T-Shirt,4,2186.57,0.1,7871.65,5042.63,2829.02,Cash
+ORD00339,2024-05-28,CUST0007,Jaffna,In-store,Fashion,Handbag,5,4380.0,0.1,19710.0,14271.47,5438.53,Card
+ORD00340,2025-11-27,CUST0331,Colombo,In-store,Electronics,Keyboard,2,5411.58,0.05,10282.0,8032.56,2249.44,Digital Wallet
+ORD00341,2025-04-09,CUST0194,Jaffna,In-store,Electronics,Headphones,3,8311.72,0.0,24935.16,14967.52,9967.64,Digital Wallet
+ORD00342,2024-07-31,CUST0125,Colombo,In-store,Stationery,Notebook,3,502.24,0.15,1280.71,886.7,394.01,Bank Transfer
+ORD00343,2025-03-30,CUST0119,Kilinochchi,Online,Fashion,T-Shirt,1,2071.26,0.0,2071.26,1477.05,594.21,Cash
+ORD00344,2025-01-11,CUST0272,Kurunegala,In-store,Stationery,Backpack,3,3453.59,0.1,9324.69,6718.58,2606.11,Cash
+ORD00345,2025-10-23,CUST0397,Colombo,Online,Stationery,Desk Organizer,2,1613.01,0.0,3226.02,1824.56,1401.46,Cash
+ORD00346,2024-07-06,CUST0116,Kandy,Online,Electronics,Keyboard,3,4903.11,0.0,14709.33,10288.09,4421.24,Bank Transfer
+ORD00347,2025-12-25,CUST0215,Kurunegala,Online,Home & Kitchen,Blender,3,9022.88,0.0,27068.64,21697.8,5370.84,Digital Wallet
+ORD00348,2025-11-15,CUST0372,Jaffna,In-store,Fashion,Sneakers,3,9123.41,0.0,27370.23,15516.02,11854.21,Cash
+ORD00349,2024-05-12,CUST0341,Kurunegala,In-store,Home & Kitchen,Rice Cooker,4,15572.17,0.05,59174.25,36721.53,22452.72,Bank Transfer
+ORD00350,2024-04-30,CUST0133,Jaffna,In-store,Home & Kitchen,Rice Cooker,1,13924.84,0.1,12532.36,10515.76,2016.6,Bank Transfer
+ORD00351,2025-01-24,CUST0068,Kandy,In-store,Stationery,Desk Organizer,4,1508.58,0.05,5732.6,4106.65,1625.95,Cash
+ORD00352,2024-02-02,CUST0066,Jaffna,In-store,Electronics,Power Bank,3,6039.54,0.15,15400.83,11358.81,4042.02,Card
+ORD00353,2024-08-06,CUST0353,Galle,In-store,Stationery,Desk Organizer,3,1763.54,0.0,5290.62,3073.88,2216.74,Card
+ORD00354,2024-11-14,CUST0190,Kilinochchi,In-store,Stationery,Desk Organizer,2,1781.92,0.05,3385.65,2220.8,1164.85,Card
+ORD00355,2025-12-09,CUST0002,Colombo,Online,Stationery,Notebook,1,435.57,0.05,413.79,244.62,169.17,Card
+ORD00356,2025-12-26,CUST0136,Kandy,In-store,Home & Kitchen,Rice Cooker,5,13777.57,0.0,68887.85,52087.55,16800.3,Digital Wallet
+ORD00357,2024-04-20,CUST0223,Kurunegala,In-store,Stationery,Pen Set,3,676.76,0.05,1928.77,1502.63,426.14,Card
+ORD00358,2025-10-13,CUST0043,Colombo,In-store,Home & Kitchen,Water Bottle,5,1883.2,0.0,9416.0,5879.55,3536.45,Cash
+ORD00359,2024-03-07,CUST0186,Kandy,Online,Fashion,T-Shirt,4,2183.79,0.0,8735.16,5826.45,2908.71,Bank Transfer
+ORD00360,2025-07-01,CUST0195,Kilinochchi,In-store,Home & Kitchen,Water Bottle,2,2002.65,0.1,3604.77,2740.36,864.41,Card
+ORD00361,2025-09-10,CUST0135,Colombo,In-store,Stationery,Pen Set,2,621.6,0.15,1056.72,925.0,131.72,Cash
+ORD00362,2025-10-13,CUST0029,Kurunegala,In-store,Fashion,T-Shirt,2,2431.76,0.15,4133.99,3391.99,742.0,Bank Transfer
+ORD00363,2024-06-12,CUST0131,Colombo,In-store,Electronics,Headphones,4,7840.34,0.0,31361.36,19884.05,11477.31,Digital Wallet
+ORD00364,2025-10-15,CUST0242,Kilinochchi,In-store,Stationery,Backpack,3,4127.99,0.0,12383.97,9649.2,2734.77,Bank Transfer
+ORD00365,2024-03-25,CUST0075,Kandy,In-store,Stationery,Pen Set,2,588.75,0.0,1177.5,764.2,413.3,Bank Transfer
+ORD00366,2025-01-14,CUST0209,Jaffna,In-store,Home & Kitchen,Cookware Set,5,7018.78,0.1,31584.51,20794.97,10789.54,Cash
+ORD00367,2024-12-09,CUST0357,Colombo,In-store,Fashion,Sneakers,4,9473.4,0.1,34104.24,24859.4,9244.84,Digital Wallet
+ORD00368,2024-08-18,CUST0199,Galle,Online,Home & Kitchen,Rice Cooker,2,14186.65,0.05,26954.63,19287.16,7667.47,Bank Transfer
+ORD00369,2024-01-17,CUST0276,Jaffna,Online,Home & Kitchen,Rice Cooker,2,14916.62,0.05,28341.58,18943.18,9398.4,Card
+ORD00370,2025-07-18,CUST0177,Colombo,In-store,Electronics,Power Bank,2,7126.57,0.0,14253.14,11130.2,3122.94,Cash
+ORD00371,2024-09-02,CUST0014,Jaffna,Online,Home & Kitchen,Water Bottle,1,1982.5,0.0,1982.5,1601.17,381.33,Card
+ORD00372,2025-04-28,CUST0082,Galle,In-store,Fashion,Sneakers,3,9666.94,0.0,29000.82,23346.33,5654.49,Card
+ORD00373,2024-10-26,CUST0346,Kilinochchi,In-store,Electronics,Wireless Mouse,4,3565.77,0.0,14263.08,10696.17,3566.91,Bank Transfer
+ORD00374,2024-09-30,CUST0260,Kandy,Online,Fashion,T-Shirt,3,2013.31,0.1,5435.94,4175.55,1260.39,Digital Wallet
+ORD00375,2025-10-09,CUST0316,Galle,In-store,Stationery,Pen Set,3,620.99,0.0,1862.97,1075.34,787.63,Bank Transfer
+ORD00376,2024-03-10,CUST0120,Kurunegala,Online,Electronics,Power Bank,3,6181.88,0.05,17618.36,14139.8,3478.56,Cash
+ORD00377,2025-06-22,CUST0142,Galle,In-store,Stationery,Pen Set,2,679.24,0.0,1358.48,803.72,554.76,Digital Wallet
+ORD00378,2025-06-29,CUST0329,Kandy,In-store,Stationery,Desk Organizer,3,1638.01,0.05,4668.33,4009.08,659.25,Cash
+ORD00379,2024-10-04,CUST0127,Jaffna,In-store,Fashion,Sneakers,2,8932.41,0.0,17864.82,12701.61,5163.21,Cash
+ORD00380,2024-07-10,CUST0352,Jaffna,Online,Home & Kitchen,Rice Cooker,1,14123.98,0.05,13417.78,10653.26,2764.52,Card
+ORD00381,2024-01-04,CUST0254,Kurunegala,Online,Fashion,Sneakers,3,8282.01,0.0,24846.03,20312.47,4533.56,Cash
+ORD00382,2025-11-15,CUST0317,Kandy,Online,Electronics,Keyboard,1,5196.11,0.1,4676.5,2867.28,1809.22,Card
+ORD00383,2025-11-23,CUST0327,Kandy,In-store,Fashion,T-Shirt,4,2125.81,0.0,8503.24,6896.35,1606.89,Digital Wallet
+ORD00384,2024-06-25,CUST0222,Jaffna,In-store,Home & Kitchen,Water Bottle,2,1791.2,0.1,3224.16,2849.6,374.56,Digital Wallet
+ORD00385,2024-01-24,CUST0080,Kurunegala,Online,Home & Kitchen,Blender,4,10627.43,0.05,40384.23,31414.47,8969.76,Card
+ORD00386,2024-03-30,CUST0200,Galle,In-store,Electronics,Power Bank,4,6691.22,0.0,26764.88,20906.31,5858.57,Bank Transfer
+ORD00387,2024-02-19,CUST0361,Kandy,In-store,Stationery,Notebook,4,480.07,0.0,1920.28,1499.04,421.24,Card
+ORD00388,2025-08-30,CUST0288,Galle,In-store,Fashion,T-Shirt,5,2254.48,0.0,11272.4,8664.9,2607.5,Bank Transfer
+ORD00389,2025-10-13,CUST0357,Kurunegala,In-store,Stationery,Backpack,4,4245.92,0.15,14436.13,13554.77,881.36,Digital Wallet
+ORD00390,2024-04-22,CUST0307,Galle,In-store,Home & Kitchen,Rice Cooker,5,14711.53,0.1,66201.89,42634.54,23567.35,Card
+ORD00391,2025-06-29,CUST0194,Colombo,In-store,Home & Kitchen,Water Bottle,1,1680.8,0.1,1512.72,1144.26,368.46,Cash
+ORD00392,2024-05-11,CUST0283,Kurunegala,In-store,Electronics,Wireless Mouse,4,3439.91,0.0,13759.64,9767.8,3991.84,Cash
+ORD00393,2024-09-25,CUST0262,Kandy,In-store,Stationery,Backpack,3,4160.6,0.0,12481.8,7977.2,4504.6,Digital Wallet
+ORD00394,2025-03-14,CUST0341,Colombo,In-store,Electronics,Keyboard,2,5668.05,0.05,10769.3,7287.87,3481.43,Bank Transfer
+ORD00395,2025-06-10,CUST0209,Kurunegala,In-store,Fashion,Sneakers,3,10153.9,0.05,28938.61,20984.04,7954.57,Cash
+ORD00396,2025-10-01,CUST0390,Galle,In-store,Electronics,Keyboard,2,5609.15,0.1,10096.47,7632.76,2463.71,Digital Wallet
+ORD00397,2024-02-02,CUST0240,Kandy,Online,Fashion,Sneakers,1,8901.47,0.0,8901.47,5670.47,3231.0,Card
+ORD00398,2024-05-23,CUST0030,Galle,Online,Fashion,Jeans,1,6945.01,0.1,6250.51,4573.0,1677.51,Bank Transfer
+ORD00399,2024-07-24,CUST0179,Kurunegala,In-store,Stationery,Desk Organizer,2,1610.44,0.1,2898.79,2025.94,872.85,Cash
+ORD00400,2024-08-14,CUST0018,Jaffna,In-store,Electronics,Keyboard,2,5821.34,0.1,10478.41,9178.73,1299.68,Digital Wallet
+ORD00401,2025-12-30,CUST0309,Colombo,In-store,Home & Kitchen,Blender,1,9900.61,0.0,9900.61,7946.22,1954.39,Cash
+ORD00402,2025-07-22,CUST0091,Colombo,In-store,Electronics,Headphones,2,8876.81,0.0,17753.62,12712.6,5041.02,Digital Wallet
+ORD00403,2024-08-22,CUST0203,Galle,In-store,Fashion,Jeans,2,6078.43,0.0,12156.86,9851.39,2305.47,Bank Transfer
+ORD00404,2025-12-11,CUST0268,Kilinochchi,In-store,Stationery,Pen Set,3,665.17,0.1,1795.96,1459.83,336.13,Bank Transfer
+ORD00405,2024-12-30,CUST0122,Colombo,Online,Electronics,Keyboard,5,5365.09,0.0,26825.45,19020.2,7805.25,Cash
+ORD00406,2025-01-01,CUST0214,Galle,In-store,Stationery,Notebook,3,432.38,0.0,1297.14,999.15,297.99,Cash
+ORD00407,2024-11-13,CUST0306,Jaffna,In-store,Fashion,Jeans,2,6406.75,0.0,12813.5,10019.88,2793.62,Digital Wallet
+ORD00408,2024-04-15,CUST0128,Kurunegala,In-store,Electronics,Wireless Mouse,4,2938.39,0.0,11753.56,7787.96,3965.6,Digital Wallet
+ORD00409,2025-11-14,CUST0101,Kandy,In-store,Electronics,Keyboard,5,5698.18,0.05,27066.35,17519.85,9546.5,Card
+ORD00410,2024-01-11,CUST0231,Colombo,Online,Home & Kitchen,Rice Cooker,1,14198.19,0.05,13488.28,8944.7,4543.58,Card
+ORD00411,2024-05-07,CUST0025,Kurunegala,In-store,Stationery,Pen Set,2,666.73,0.0,1333.46,752.61,580.85,Digital Wallet
+ORD00412,2024-06-16,CUST0074,Galle,In-store,Home & Kitchen,Blender,1,9023.86,0.0,9023.86,7283.31,1740.55,Bank Transfer
+ORD00413,2024-07-23,CUST0397,Kandy,In-store,Electronics,Headphones,4,7822.52,0.0,31290.08,23562.26,7727.82,Bank Transfer
+ORD00414,2024-04-06,CUST0173,Kilinochchi,In-store,Electronics,Headphones,1,9301.86,0.0,9301.86,6557.76,2744.1,Bank Transfer
+ORD00415,2024-01-14,CUST0287,Kilinochchi,Online,Electronics,Power Bank,2,6808.23,0.0,13616.46,10188.28,3428.18,Digital Wallet
+ORD00416,2025-05-10,CUST0341,Kurunegala,In-store,Fashion,Sneakers,5,9964.71,0.05,47332.37,38189.08,9143.29,Digital Wallet
+ORD00417,2025-12-09,CUST0312,Kurunegala,Online,Fashion,Handbag,3,5218.7,0.0,15656.1,12075.96,3580.14,Bank Transfer
+ORD00418,2024-03-30,CUST0303,Galle,In-store,Fashion,T-Shirt,1,2433.16,0.1,2189.84,1715.02,474.82,Bank Transfer
+ORD00419,2024-08-04,CUST0259,Jaffna,In-store,Stationery,Notebook,2,476.75,0.1,858.15,638.01,220.14,Cash
+ORD00420,2025-01-05,CUST0037,Kurunegala,In-store,Home & Kitchen,Cookware Set,1,7615.76,0.0,7615.76,5990.76,1625.0,Card
+ORD00421,2025-11-09,CUST0150,Kandy,In-store,Electronics,Power Bank,3,6494.55,0.1,17535.29,13160.09,4375.2,Card
+ORD00422,2025-05-22,CUST0067,Jaffna,In-store,Stationery,Pen Set,2,726.31,0.0,1452.62,833.61,619.01,Cash
+ORD00423,2025-07-14,CUST0263,Kilinochchi,Online,Fashion,Sneakers,3,8962.06,0.05,25541.87,19365.43,6176.44,Card
+ORD00424,2025-02-28,CUST0317,Kurunegala,Online,Stationery,Backpack,3,3830.73,0.05,10917.58,6563.53,4354.05,Digital Wallet
+ORD00425,2024-10-31,CUST0276,Kilinochchi,Online,Electronics,Wireless Mouse,5,3536.82,0.0,17684.1,12232.07,5452.03,Bank Transfer
+ORD00426,2024-05-26,CUST0280,Kurunegala,In-store,Home & Kitchen,Rice Cooker,4,13756.77,0.0,55027.08,30610.94,24416.14,Cash
+ORD00427,2025-09-23,CUST0053,Colombo,In-store,Fashion,Handbag,4,5141.95,0.0,20567.8,12831.07,7736.73,Cash
+ORD00428,2025-08-10,CUST0009,Galle,Online,Electronics,Wireless Mouse,2,2990.84,0.05,5682.6,4306.74,1375.86,Digital Wallet
+ORD00429,2024-01-19,CUST0125,Kandy,In-store,Fashion,Sneakers,1,9421.68,0.0,9421.68,6278.03,3143.65,Cash
+ORD00430,2025-06-06,CUST0337,Galle,Online,Fashion,Jeans,5,6948.98,0.05,33007.65,24159.97,8847.68,Cash
+ORD00431,2024-03-02,CUST0246,Kandy,Online,Home & Kitchen,Blender,2,9526.83,0.15,16195.61,13691.54,2504.07,Digital Wallet
+ORD00432,2025-06-24,CUST0117,Kurunegala,In-store,Home & Kitchen,Blender,2,9768.32,0.05,18559.81,10955.84,7603.97,Digital Wallet
+ORD00433,2025-08-26,CUST0356,Galle,Online,Fashion,Sneakers,4,9600.92,0.05,36483.5,31066.94,5416.56,Bank Transfer
+ORD00434,2024-04-05,CUST0114,Kilinochchi,In-store,Electronics,Power Bank,1,6456.34,0.0,6456.34,4190.3,2266.04,Card
+ORD00435,2024-11-13,CUST0007,Kandy,In-store,Electronics,Wireless Mouse,5,3188.03,0.05,15143.14,9117.6,6025.54,Digital Wallet
+ORD00436,2024-03-31,CUST0380,Colombo,In-store,Home & Kitchen,Water Bottle,2,1748.35,0.05,3321.86,2166.19,1155.67,Bank Transfer
+ORD00437,2025-02-18,CUST0257,Kandy,In-store,Home & Kitchen,Cookware Set,2,6656.65,0.0,13313.3,10913.46,2399.84,Cash
+ORD00438,2025-11-09,CUST0168,Kilinochchi,Online,Electronics,Keyboard,5,5500.79,0.1,24753.56,20421.11,4332.45,Card
+ORD00439,2024-02-29,CUST0205,Colombo,Online,Electronics,Power Bank,5,7064.63,0.1,31790.84,21857.56,9933.28,Card
+ORD00440,2024-10-17,CUST0370,Kilinochchi,In-store,Home & Kitchen,Water Bottle,5,1865.55,0.0,9327.75,6137.83,3189.92,Cash
+ORD00441,2025-12-12,CUST0203,Kurunegala,Online,Electronics,Power Bank,5,6857.97,0.0,34289.85,22325.41,11964.44,Card
+ORD00442,2024-08-07,CUST0328,Jaffna,In-store,Home & Kitchen,Cookware Set,4,7289.91,0.0,29159.64,22851.44,6308.2,Card
+ORD00443,2024-04-06,CUST0196,Jaffna,Online,Home & Kitchen,Blender,3,9994.7,0.05,28484.9,19976.48,8508.42,Cash
+ORD00444,2024-12-23,CUST0083,Colombo,Online,Stationery,Pen Set,1,665.09,0.0,665.09,514.6,150.49,Cash
+ORD00445,2025-01-06,CUST0028,Jaffna,In-store,Home & Kitchen,Cookware Set,3,7288.1,0.0,21864.3,14959.87,6904.43,Card
+ORD00446,2025-04-29,CUST0038,Jaffna,In-store,Home & Kitchen,Water Bottle,4,1648.92,0.0,6595.68,3967.56,2628.12,Bank Transfer
+ORD00447,2024-08-17,CUST0046,Kandy,Online,Stationery,Pen Set,2,598.03,0.1,1076.45,753.2,323.25,Bank Transfer
+ORD00448,2025-11-29,CUST0028,Kurunegala,In-store,Fashion,Sneakers,1,9480.92,0.15,8058.78,7638.47,420.31,Cash
+ORD00449,2025-01-15,CUST0135,Colombo,In-store,Home & Kitchen,Water Bottle,1,1895.14,0.0,1895.14,1218.79,676.35,Bank Transfer
+ORD00450,2024-07-28,CUST0058,Kurunegala,In-store,Home & Kitchen,Rice Cooker,1,16092.78,0.0,16092.78,11118.66,4974.12,Cash
+ORD00451,2025-12-02,CUST0149,Colombo,In-store,Electronics,Keyboard,1,4839.47,0.0,4839.47,3513.41,1326.06,Cash
+ORD00452,2025-11-07,CUST0149,Colombo,Online,Electronics,Power Bank,1,5952.72,0.0,5952.72,4024.18,1928.54,Digital Wallet
+ORD00453,2024-12-30,CUST0097,Colombo,In-store,Stationery,Backpack,3,3487.45,0.0,10462.35,6425.8,4036.55,Digital Wallet
+ORD00454,2024-01-19,CUST0073,Kandy,In-store,Home & Kitchen,Blender,1,10363.91,0.0,10363.91,8083.89,2280.02,Cash
+ORD00455,2025-03-12,CUST0115,Jaffna,In-store,Electronics,Headphones,3,7935.11,0.0,23805.33,17027.96,6777.37,Cash
+ORD00456,2025-02-09,CUST0227,Kilinochchi,Online,Electronics,Keyboard,3,5307.21,0.0,15921.63,10703.29,5218.34,Cash
+ORD00457,2024-04-18,CUST0102,Kilinochchi,Online,Electronics,Keyboard,1,5040.22,0.1,4536.2,3856.0,680.2,Bank Transfer
+ORD00458,2025-04-08,CUST0363,Jaffna,In-store,Home & Kitchen,Water Bottle,4,1822.31,0.0,7289.24,5269.4,2019.84,Bank Transfer
+ORD00459,2025-09-06,CUST0359,Kandy,Online,Home & Kitchen,Water Bottle,2,1955.35,0.0,3910.7,3018.36,892.34,Bank Transfer
+ORD00460,2024-03-18,CUST0193,Kandy,Online,Stationery,Notebook,4,430.72,0.0,1722.88,1070.89,651.99,Card
+ORD00461,2025-06-12,CUST0127,Kilinochchi,In-store,Stationery,Notebook,4,459.17,0.0,1836.68,1420.88,415.8,Card
+ORD00462,2024-04-12,CUST0321,Kandy,In-store,Home & Kitchen,Cookware Set,3,8011.44,0.05,22832.6,14267.22,8565.38,Bank Transfer
+ORD00463,2025-07-01,CUST0308,Kandy,Online,Fashion,Handbag,2,5054.15,0.1,9097.47,6053.58,3043.89,Bank Transfer
+ORD00464,2024-11-02,CUST0012,Colombo,In-store,Electronics,Wireless Mouse,1,3166.25,0.05,3007.94,2232.13,775.81,Cash
+ORD00465,2024-01-05,CUST0353,Kilinochchi,In-store,Home & Kitchen,Blender,2,10392.31,0.0,20784.62,14462.74,6321.88,Cash
+ORD00466,2025-12-07,CUST0072,Kandy,In-store,Electronics,Power Bank,4,5994.36,0.1,21579.7,18599.27,2980.43,Cash
+ORD00467,2024-05-01,CUST0176,Jaffna,Online,Home & Kitchen,Rice Cooker,3,15033.53,0.05,42845.56,35828.0,7017.56,Card
+ORD00468,2025-03-11,CUST0363,Galle,In-store,Home & Kitchen,Water Bottle,2,1657.81,0.05,3149.84,2475.2,674.64,Digital Wallet
+ORD00469,2024-05-12,CUST0128,Jaffna,In-store,Home & Kitchen,Water Bottle,5,1925.24,0.0,9626.2,7290.13,2336.07,Card
+ORD00470,2025-11-13,CUST0194,Kandy,Online,Home & Kitchen,Cookware Set,3,7986.46,0.1,21563.44,18915.94,2647.5,Card
+ORD00471,2025-06-23,CUST0256,Kurunegala,Online,Electronics,Headphones,3,8546.24,0.1,23074.85,20391.16,2683.69,Cash
+ORD00472,2025-08-10,CUST0204,Kurunegala,Online,Home & Kitchen,Blender,1,8863.91,0.0,8863.91,6923.71,1940.2,Bank Transfer
+ORD00473,2024-11-11,CUST0171,Jaffna,In-store,Home & Kitchen,Rice Cooker,3,13156.81,0.0,39470.43,26764.6,12705.83,Cash
+ORD00474,2024-12-07,CUST0167,Kandy,In-store,Home & Kitchen,Water Bottle,1,1718.99,0.0,1718.99,1148.74,570.25,Card
+ORD00475,2025-04-08,CUST0267,Galle,In-store,Electronics,Wireless Mouse,5,2930.05,0.0,14650.25,8877.91,5772.34,Bank Transfer
+ORD00476,2025-07-27,CUST0256,Kandy,In-store,Home & Kitchen,Cookware Set,1,6874.23,0.0,6874.23,4530.95,2343.28,Bank Transfer
+ORD00477,2025-09-11,CUST0052,Galle,In-store,Stationery,Notebook,4,503.57,0.0,2014.28,1536.99,477.29,Bank Transfer
+ORD00478,2024-01-14,CUST0360,Kandy,Online,Fashion,Sneakers,4,9748.92,,38995.68,28811.74,10183.94,Card
+ORD00479,2025-04-30,CUST0095,Colombo,Online,Stationery,Backpack,1,3531.95,0.0,3531.95,2412.94,1119.01,Digital Wallet
+ORD00480,2024-03-20,CUST0112,Kurunegala,In-store,Stationery,Backpack,5,3854.0,0.0,19270.0,15201.04,4068.96,Cash
+ORD00481,2024-07-29,CUST0367,Kurunegala,In-store,Electronics,Headphones,5,7847.87,0.05,37277.38,29487.15,7790.23,Bank Transfer
+ORD00482,2025-08-29,CUST0081,Jaffna,In-store,Home & Kitchen,Rice Cooker,4,15280.67,0.0,61122.68,41033.22,20089.46,Cash
+ORD00483,2024-07-02,CUST0188,Jaffna,In-store,Electronics,Headphones,4,7783.09,0.15,26462.51,22876.75,3585.76,Bank Transfer
+ORD00484,2025-08-05,CUST0088,Kilinochchi,In-store,Electronics,Wireless Mouse,5,3494.42,0.05,16598.49,10442.09,6156.4,Bank Transfer
+ORD00485,2024-12-04,CUST0224,Jaffna,In-store,Stationery,Backpack,1,4032.22,0.1,3629.0,2290.84,1338.16,Digital Wallet
+ORD00486,2024-06-19,CUST0263,Kandy,Online,Home & Kitchen,Cookware Set,4,7720.29,0.1,27793.04,20955.86,6837.18,Bank Transfer
+ORD00487,2024-09-01,CUST0110,Kandy,In-store,Electronics,Wireless Mouse,5,2894.63,0.0,14473.15,11087.21,3385.94,Cash
+ORD00488,2025-01-22,CUST0339,Galle,In-store,Home & Kitchen,Rice Cooker,1,13275.38,0.0,13275.38,8968.79,4306.59,Digital Wallet
+ORD00489,2025-07-13,CUST0283,Galle,In-store,Stationery,Backpack,5,3656.7,0.1,16455.15,13441.74,3013.41,Card
+ORD00490,2025-03-18,CUST0303,Kurunegala,In-store,Fashion,Sneakers,1,10300.47,0.0,10300.47,7909.41,2391.06,Digital Wallet
+ORD00491,2025-11-13,CUST0387,Colombo,In-store,Electronics,Power Bank,3,7075.13,0.0,21225.39,15685.62,5539.77,Cash
+ORD00492,2025-09-26,CUST0359,Galle,In-store,Electronics,Power Bank,1,6073.47,0.1,5466.12,3695.25,1770.87,Digital Wallet
+ORD00493,2025-07-04,CUST0165,Kandy,In-store,Electronics,Wireless Mouse,1,2932.74,0.05,2786.1,2254.06,532.04,Cash
+ORD00494,2025-03-16,CUST0276,Jaffna,In-store,Home & Kitchen,Water Bottle,2,1806.83,0.05,3432.98,2960.58,472.4,Card
+ORD00495,2024-07-30,CUST0011,Galle,Online,Electronics,Wireless Mouse,3,3122.36,0.15,7962.02,6738.78,1223.24,Cash
+ORD00496,2024-10-28,CUST0002,Colombo,In-store,Stationery,Pen Set,2,673.61,0.15,1145.14,1027.55,117.59,Digital Wallet
+ORD00497,2024-03-27,CUST0357,Galle,In-store,Stationery,Desk Organizer,3,1657.73,0.0,4973.19,3005.89,1967.3,Cash
+ORD00498,2024-09-30,CUST0369,Kilinochchi,Online,Stationery,Backpack,2,3505.08,0.15,5958.64,3983.58,1975.06,Card
+ORD00499,2025-11-08,CUST0358,Colombo,In-store,Electronics,Wireless Mouse,1,2897.56,0.0,2897.56,2228.6,668.96,Bank Transfer
+ORD00500,2024-11-07,CUST0293,Kurunegala,Online,Electronics,Power Bank,3,7207.98,0.1,19461.55,17014.52,2447.03,Bank Transfer
+ORD00501,2024-03-24,CUST0096,Kurunegala,Online,Electronics,Keyboard,1,5430.41,0.0,5430.41,4295.29,1135.12,Bank Transfer
+ORD00502,2025-04-21,CUST0297,Kilinochchi,Online,Home & Kitchen,Blender,4,9343.43,0.0,37373.72,27210.17,10163.55,Digital Wallet
+ORD00503,2025-12-04,CUST0015,Jaffna,In-store,Electronics,Wireless Mouse,3,3294.49,0.0,9883.47,6588.63,3294.84,Card
+ORD00504,2025-09-26,CUST0237,Kurunegala,In-store,Electronics,Power Bank,5,6092.67,0.05,28940.18,18360.73,10579.45,Digital Wallet
+ORD00505,2024-07-19,CUST0205,Kilinochchi,In-store,Home & Kitchen,Cookware Set,2,6836.52,0.0,13673.04,10628.67,3044.37,Bank Transfer
+ORD00506,2024-11-27,CUST0233,Jaffna,In-store,Fashion,T-Shirt,1,2077.29,0.1,1869.56,1433.56,436.0,Bank Transfer
+ORD00507,2025-01-23,CUST0273,Kurunegala,Online,Home & Kitchen,Water Bottle,1,1919.58,0.0,1919.58,1459.15,460.43,Bank Transfer
+ORD00508,2024-06-30,CUST0188,Kandy,In-store,Electronics,Headphones,4,8763.67,0.1,31549.21,22835.1,8714.11,Digital Wallet
+ORD00509,2024-07-15,CUST0377,Kurunegala,In-store,Home & Kitchen,Water Bottle,1,1914.03,0.0,1914.03,1185.54,728.49,Digital Wallet
+ORD00510,2024-06-22,CUST0205,Jaffna,In-store,Electronics,Headphones,4,8220.27,0.0,32881.08,23532.01,9349.07,Cash
+ORD00511,2025-12-28,CUST0385,Jaffna,Online,Home & Kitchen,Water Bottle,1,1674.69,0.0,1674.69,934.57,740.12,Digital Wallet
+ORD00512,2025-06-29,CUST0231,Jaffna,In-store,Home & Kitchen,Cookware Set,4,7378.7,0.1,26563.32,18116.13,8447.19,Card
+ORD00513,2025-09-06,CUST0362,Kandy,In-store,Electronics,Wireless Mouse,2,3498.05,0.1,6296.49,4054.95,2241.54,Card
+ORD00514,2025-08-19,CUST0009,Kilinochchi,In-store,Fashion,Jeans,4,7054.41,0.15,23984.99,20497.84,3487.15,Bank Transfer
+ORD00515,2025-12-02,CUST0293,Kandy,In-store,Home & Kitchen,Water Bottle,1,1851.29,0.0,1851.29,1430.34,420.95,Card
+ORD00516,2024-03-17,CUST0070,Kilinochchi,In-store,Stationery,Pen Set,4,606.64,0.0,2426.56,1766.06,660.5,Digital Wallet
+ORD00517,2025-10-06,CUST0045,Galle,In-store,Stationery,Desk Organizer,2,1668.06,0.0,3336.12,2281.33,1054.79,Digital Wallet
+ORD00518,2024-02-18,CUST0389,Kurunegala,Online,Stationery,Notebook,3,450.46,0.05,1283.81,1031.66,252.15,Cash
+ORD00519,2024-12-13,CUST0400,Galle,Online,Home & Kitchen,Blender,4,9061.69,0.0,36246.76,25158.06,11088.7,Cash
+ORD00520,2025-03-10,CUST0109,Jaffna,Online,Electronics,Keyboard,1,5089.09,0.0,5089.09,3477.66,1611.43,Digital Wallet
+ORD00521,2024-09-18,CUST0184,Kandy,In-store,Electronics,Power Bank,3,6733.85,0.0,20201.55,11823.45,8378.1,Digital Wallet
+ORD00522,2024-04-16,CUST0129,Kilinochchi,In-store,Fashion,T-Shirt,1,2265.07,0.0,2265.07,1782.4,482.67,Cash
+ORD00523,2024-05-20,CUST0294,Colombo,In-store,Home & Kitchen,Water Bottle,3,1738.22,0.1,4693.19,3213.39,1479.8,Digital Wallet
+ORD00524,2025-08-25,CUST0294,Kilinochchi,In-store,Stationery,Desk Organizer,3,1636.38,0.05,4663.68,3603.19,1060.49,Cash
+ORD00525,2024-08-20,CUST0046,Colombo,Online,Fashion,Handbag,2,5010.6,0.0,10021.2,6873.07,3148.13,Card
+ORD00526,2024-08-14,CUST0147,Kurunegala,In-store,Electronics,Keyboard,1,4735.68,0.0,4735.68,3870.03,865.65,Card
+ORD00527,2025-11-05,CUST0088,Colombo,Online,Electronics,Power Bank,5,6210.72,0.05,29500.92,19458.64,10042.28,Cash
+ORD00528,2024-04-15,CUST0101,Kandy,Online,Fashion,T-Shirt,2,2341.11,0.1,4214.0,3490.64,723.36,Cash
+ORD00529,2025-10-31,CUST0226,Galle,Online,Stationery,Desk Organizer,2,1536.53,0.1,2765.75,1823.27,942.48,Cash
+ORD00530,2025-11-04,CUST0231,Kurunegala,Online,Fashion,T-Shirt,5,2126.87,0.1,9570.91,6316.19,3254.72,Card
+ORD00531,2025-03-13,CUST0273,Kurunegala,Online,Electronics,Wireless Mouse,5,2935.66,0.0,14678.3,8371.61,6306.69,Digital Wallet
+ORD00532,2024-05-01,CUST0269,Colombo,Online,Stationery,Desk Organizer,4,1710.71,0.0,6842.84,5449.9,1392.94,Bank Transfer
+ORD00533,2024-04-23,CUST0053,Kilinochchi,In-store,Electronics,Keyboard,3,5514.91,0.0,16544.73,10043.67,6501.06,Cash
+ORD00534,2024-07-27,CUST0159,Kandy,Online,Home & Kitchen,Rice Cooker,1,15037.64,0.1,13533.88,12276.42,1257.46,Bank Transfer
+ORD00535,2025-02-26,CUST0062,Kilinochchi,In-store,Home & Kitchen,Cookware Set,5,6824.99,0.0,34124.95,27736.05,6388.9,Cash
+ORD00536,2024-04-22,CUST0130,Galle,In-store,Home & Kitchen,Water Bottle,5,1733.56,0.0,8667.8,6052.86,2614.94,Card
+ORD00537,2024-11-29,CUST0254,Galle,Online,Electronics,Power Bank,5,6763.19,0.1,30434.35,19596.45,10837.9,Digital Wallet
+ORD00538,2024-03-25,CUST0107,Galle,Online,Electronics,Wireless Mouse,1,3072.15,0.0,3072.15,1960.06,1112.09,Card
+ORD00539,2025-01-29,CUST0219,Jaffna,In-store,Electronics,Keyboard,2,5469.08,0.0,10938.16,6668.45,4269.71,Cash
+ORD00540,2024-01-16,CUST0110,Kurunegala,In-store,Electronics,Wireless Mouse,2,3580.34,0.1,6444.61,4354.2,2090.41,Card
+ORD00541,2025-06-02,CUST0317,Kilinochchi,Online,Stationery,Backpack,5,3525.54,0.0,17627.7,11678.66,5949.04,Cash
+ORD00542,2024-02-10,CUST0063,Colombo,In-store,Fashion,T-Shirt,3,2312.09,0.1,6242.64,4666.64,1576.0,Cash
+ORD00543,2024-05-22,CUST0275,Colombo,In-store,Home & Kitchen,Water Bottle,5,1754.78,0.1,7896.51,5474.03,2422.48,Digital Wallet
+ORD00544,2024-05-07,CUST0265,Kurunegala,Online,Home & Kitchen,Rice Cooker,1,13503.88,0.0,13503.88,7909.82,5594.06,Cash
+ORD00545,2025-08-30,CUST0132,Kandy,In-store,Stationery,Desk Organizer,1,1707.55,0.05,1622.17,1398.77,223.4,Card
+ORD00546,2024-02-09,CUST0292,Kurunegala,In-store,Stationery,Pen Set,4,652.44,0.0,2609.76,1947.65,662.11,Digital Wallet
+ORD00547,2024-11-09,CUST0192,Kilinochchi,In-store,Fashion,Jeans,3,6534.25,0.0,19602.75,14887.23,4715.52,Digital Wallet
+ORD00548,2025-03-08,CUST0054,Kandy,In-store,Home & Kitchen,Blender,2,9460.2,0.0,18920.4,12592.12,6328.28,Cash
+ORD00549,2025-01-12,CUST0026,Jaffna,In-store,Fashion,Jeans,2,6725.01,0.1,12105.02,9456.32,2648.7,Card
+ORD00550,2025-05-12,CUST0060,Kilinochchi,In-store,Home & Kitchen,Water Bottle,2,1796.93,0.0,3593.86,2236.03,1357.83,Bank Transfer
+ORD00551,2025-08-10,CUST0065,Jaffna,Online,Home & Kitchen,Water Bottle,5,1722.68,0.05,8182.73,5690.94,2491.79,Cash
+ORD00552,2024-10-14,CUST0364,Kandy,Online,Electronics,Wireless Mouse,5,3405.14,0.05,16174.41,9591.84,6582.57,Cash
+ORD00553,2025-08-28,CUST0091,Colombo,In-store,Electronics,Headphones,2,9106.99,0.0,18213.98,10369.74,7844.24,Bank Transfer
+ORD00554,2024-08-20,CUST0045,Jaffna,Online,Stationery,Backpack,5,3584.42,0.0,17922.1,11619.06,6303.04,Card
+ORD00555,2025-12-20,CUST0129,Galle,In-store,Home & Kitchen,Blender,3,10953.23,0.0,32859.69,26342.65,6517.04,Card
+ORD00556,2025-01-03,CUST0176,Kurunegala,Online,Home & Kitchen,Cookware Set,1,6911.62,0.05,6566.04,4864.43,1701.61,Cash
+ORD00557,2025-06-22,CUST0316,Colombo,In-store,Fashion,Jeans,2,5856.29,0.0,11712.58,6461.08,5251.5,Card
+ORD00558,2025-10-01,CUST0263,Jaffna,Online,Electronics,Headphones,4,8227.11,0.15,27972.17,26241.24,1730.93,Bank Transfer
+ORD00559,2025-08-02,CUST0182,Kandy,In-store,Stationery,Notebook,2,479.21,0.0,958.42,704.27,254.15,Digital Wallet
+ORD00560,2025-09-14,CUST0127,Kurunegala,Online,Stationery,Pen Set,3,610.95,0.0,1832.85,1245.22,587.63,Digital Wallet
+ORD00561,2025-01-27,CUST0388,Kurunegala,In-store,Home & Kitchen,Rice Cooker,2,13196.95,0.0,26393.9,20323.02,6070.88,Bank Transfer
+ORD00562,2024-02-01,CUST0232,Kandy,In-store,Home & Kitchen,Water Bottle,3,1824.93,0.05,5201.05,3761.63,1439.42,Digital Wallet
+ORD00563,2024-12-26,CUST0144,Kurunegala,In-store,Electronics,Headphones,2,8586.13,0.0,17172.26,12005.88,5166.38,Card
+ORD00564,2024-05-12,CUST0165,Kilinochchi,Online,Fashion,Handbag,5,4744.69,0.0,23723.45,15699.62,8023.83,Digital Wallet
+ORD00565,2025-10-11,CUST0271,Kurunegala,In-store,Fashion,T-Shirt,2,2310.23,0.05,4389.44,2955.7,1433.74,Card
+ORD00566,2024-06-22,CUST0063,Kurunegala,In-store,Electronics,Headphones,5,9293.6,0.0,46468.0,29006.79,17461.21,Card
+ORD00567,2024-06-15,CUST0014,Jaffna,Online,Home & Kitchen,Water Bottle,1,1879.74,0.0,1879.74,1427.41,452.33,Cash
+ORD00568,2024-07-01,CUST0035,Galle,In-store,Electronics,Keyboard,5,5766.31,0.0,28831.55,20763.43,8068.12,Cash
+ORD00569,2025-04-14,CUST0365,Colombo,In-store,Home & Kitchen,Rice Cooker,5,13915.89,0.1,62621.5,50709.33,11912.17,Card
+ORD00570,2025-02-21,CUST0255,Jaffna,In-store,Home & Kitchen,Rice Cooker,5,14432.61,0.0,72163.05,53248.2,18914.85,Bank Transfer
+ORD00571,2025-11-24,CUST0240,Colombo,In-store,Fashion,Sneakers,2,9657.19,0.0,19314.38,12518.35,6796.03,Digital Wallet
+ORD00572,2024-10-31,CUST0344,Kilinochchi,Online,Home & Kitchen,Water Bottle,4,1954.8,0.0,7819.2,5767.91,2051.29,Card
+ORD00573,2024-07-25,CUST0081,Kandy,In-store,Electronics,Keyboard,2,5185.77,0.0,10371.54,7642.15,2729.39,Digital Wallet
+ORD00574,2024-02-06,CUST0317,Kilinochchi,Online,Stationery,Backpack,4,3837.02,0.0,15348.08,9186.89,6161.19,Digital Wallet
+ORD00575,2024-01-06,CUST0320,Colombo,In-store,Fashion,Jeans,5,6024.02,0.05,28614.1,18328.45,10285.65,Cash
+ORD00576,2024-09-30,CUST0130,Galle,In-store,Stationery,Pen Set,5,701.53,0.05,3332.27,2561.78,770.49,Digital Wallet
+ORD00577,2025-11-07,CUST0077,Kandy,In-store,Home & Kitchen,Water Bottle,1,1729.2,0.1,1556.28,1172.54,383.74,Bank Transfer
+ORD00578,2025-01-17,CUST0115,Jaffna,Online,Fashion,Jeans,2,6933.53,0.05,13173.71,10575.6,2598.11,Card
+ORD00579,2025-10-15,CUST0160,Kilinochchi,In-store,Electronics,Keyboard,2,5508.67,0.05,10466.47,6618.36,3848.11,Cash
+ORD00580,2024-03-15,CUST0213,Kurunegala,Online,Stationery,Backpack,5,4089.36,0.05,19424.46,15568.89,3855.57,Bank Transfer
+ORD00581,2024-03-09,CUST0376,Jaffna,Online,Electronics,Wireless Mouse,4,3047.49,0.15,10361.47,7454.19,2907.28,Bank Transfer
+ORD00582,2025-09-01,CUST0286,Galle,In-store,Home & Kitchen,Rice Cooker,4,13556.41,0.0,54225.64,36944.84,17280.8,Cash
+ORD00583,2024-03-19,CUST0230,Galle,In-store,Electronics,Headphones,2,8245.13,0.0,16490.26,11835.6,4654.66,Cash
+ORD00584,2024-02-07,CUST0233,Kurunegala,Online,Stationery,Pen Set,5,643.91,0.0,3219.55,1951.81,1267.74,Digital Wallet
+ORD00585,2024-10-22,CUST0080,Jaffna,Online,Stationery,Desk Organizer,2,1549.38,0.0,3098.76,1961.34,1137.42,Bank Transfer
+ORD00586,2025-11-07,CUST0042,Kandy,In-store,Stationery,Notebook,2,405.68,0.1,730.22,600.42,129.8,Card
+ORD00587,2025-05-18,CUST0136,Jaffna,Online,Electronics,Keyboard,1,5218.99,0.0,5218.99,3737.38,1481.61,Card
+ORD00588,2024-03-13,CUST0018,Kilinochchi,In-store,Electronics,Keyboard,5,5182.89,0.1,23323.01,18806.39,4516.62,Bank Transfer
+ORD00589,2025-09-03,CUST0026,Jaffna,In-store,Electronics,Power Bank,3,6142.24,0.05,17505.38,11114.65,6390.73,Digital Wallet
+ORD00590,2025-09-08,CUST0175,Kandy,Online,Fashion,Jeans,5,7164.85,0.1,32241.83,28206.6,4035.23,Bank Transfer
+ORD00591,2025-08-08,CUST0045,Colombo,Online,Fashion,Sneakers,3,8931.94,0.05,25456.03,14922.42,10533.61,Cash
+ORD00592,2025-10-21,CUST0246,Galle,Online,Home & Kitchen,Rice Cooker,2,13682.17,0.1,24627.91,16454.89,8173.02,Digital Wallet
+ORD00593,2024-06-24,CUST0061,Kilinochchi,In-store,Electronics,Headphones,1,8241.36,0.0,8241.36,5079.66,3161.7,Digital Wallet
+ORD00594,2025-12-17,CUST0393,Kurunegala,Online,Electronics,Keyboard,4,4938.0,0.0,19752.0,13842.44,5909.56,Cash
+ORD00595,2024-08-22,CUST0224,Jaffna,In-store,Electronics,Headphones,3,8677.82,0.05,24731.79,14708.42,10023.37,Digital Wallet
+ORD00596,2025-08-09,CUST0369,Kandy,In-store,Electronics,Wireless Mouse,2,3241.12,0.05,6158.13,4190.91,1967.22,Card
+ORD00597,2025-02-27,CUST0246,Jaffna,In-store,Home & Kitchen,Blender,2,9796.13,0.0,19592.26,15982.68,3609.58,Card
+ORD00598,2025-07-23,CUST0287,Kandy,Online,Home & Kitchen,Rice Cooker,5,13606.53,0.05,64631.02,45072.26,19558.76,Cash
+ORD00599,2025-04-03,CUST0327,Kandy,Online,Home & Kitchen,Water Bottle,4,1784.86,0.15,6068.52,4486.62,1581.9,Digital Wallet
+ORD00600,2025-04-14,CUST0398,Galle,Online,Home & Kitchen,Blender,1,10017.9,0.05,9517.0,7250.3,2266.7,Digital Wallet
+ORD00601,2025-03-26,CUST0088,Kandy,In-store,Fashion,Sneakers,2,8326.15,0.05,15819.68,12870.17,2949.51,Digital Wallet
+ORD00602,2025-07-23,CUST0335,Kandy,In-store,Home & Kitchen,Blender,4,9190.3,0.05,34923.14,27696.24,7226.9,Digital Wallet
+ORD00603,2025-06-24,CUST0279,Galle,In-store,Stationery,Notebook,4,480.9,0.0,1923.6,1320.86,602.74,Cash
+ORD00604,2024-04-08,CUST0222,Kurunegala,Online,Fashion,Jeans,4,5909.86,0.0,23639.44,14366.42,9273.02,Digital Wallet
+ORD00605,2025-08-26,CUST0390,Galle,In-store,Home & Kitchen,Cookware Set,1,6827.69,0.0,6827.69,5367.36,1460.33,Cash
+ORD00606,2025-01-26,CUST0338,Kurunegala,In-store,Electronics,Headphones,2,8812.17,0.05,16743.12,11211.23,5531.89,Digital Wallet
+ORD00607,2024-08-24,CUST0021,Galle,In-store,Stationery,Notebook,5,452.85,0.1,2037.83,1414.56,623.27,Digital Wallet
+ORD00608,2025-01-10,CUST0026,Jaffna,In-store,Electronics,Wireless Mouse,1,2882.62,0.0,2882.62,2044.28,838.34,Card
+ORD00609,2025-12-07,CUST0124,Kurunegala,In-store,Stationery,Pen Set,5,602.97,0.0,3014.85,2186.34,828.51,Card
+ORD00610,2025-09-18,CUST0133,Kilinochchi,In-store,Electronics,Power Bank,5,6874.5,0.05,32653.88,26674.67,5979.21,Cash
+ORD00611,2025-09-01,CUST0179,Galle,In-store,Electronics,Headphones,1,7658.01,0.0,7658.01,5304.28,2353.73,Bank Transfer
+ORD00612,2024-12-04,CUST0022,Kandy,In-store,Fashion,T-Shirt,2,2399.23,0.0,4798.46,3326.43,1472.03,Digital Wallet
+ORD00613,2025-07-27,CUST0044,Kilinochchi,In-store,Fashion,T-Shirt,4,2039.25,0.05,7749.15,6425.23,1323.92,Card
+ORD00614,2024-10-08,CUST0218,Jaffna,In-store,Fashion,Jeans,2,6217.95,0.0,12435.9,7411.33,5024.57,Card
+ORD00615,2025-05-16,CUST0360,Kandy,In-store,Electronics,Keyboard,1,5743.79,0.0,5743.79,3272.57,2471.22,Cash
+ORD00616,2025-04-12,CUST0162,Kandy,In-store,Stationery,Desk Organizer,2,1597.95,0.0,3195.9,1790.42,1405.48,Card
+ORD00617,2024-07-01,CUST0320,Kandy,In-store,Electronics,Wireless Mouse,3,2949.53,0.0,8848.59,6014.73,2833.86,Cash
+ORD00618,2024-07-13,CUST0095,Jaffna,Online,Electronics,Headphones,1,9146.46,0.1,8231.81,6033.05,2198.76,Card
+ORD00619,2024-02-14,CUST0110,Colombo,In-store,Fashion,Handbag,1,4433.72,0.0,4433.72,3114.7,1319.02,Cash
+ORD00620,2024-04-12,CUST0185,Galle,Online,Electronics,Wireless Mouse,5,3339.76,0.0,16698.8,10092.64,6606.16,Cash
+ORD00621,2024-11-12,CUST0235,Kilinochchi,In-store,Home & Kitchen,Water Bottle,1,1722.22,0.1,1550.0,1296.77,253.23,Card
+ORD00622,2024-12-15,CUST0078,Kilinochchi,In-store,Home & Kitchen,Blender,3,10223.12,0.05,29135.89,18150.54,10985.35,Digital Wallet
+ORD00623,2024-04-30,CUST0190,Kilinochchi,Online,Electronics,Power Bank,2,7093.9,0.1,12769.02,9681.86,3087.16,Bank Transfer
+ORD00624,2024-10-31,CUST0153,Kurunegala,Online,Stationery,Desk Organizer,3,1706.28,0.05,4862.9,3810.03,1052.87,Cash
+ORD00625,2025-03-17,CUST0314,Colombo,Online,Stationery,Pen Set,2,726.02,0.0,1452.04,876.92,575.12,Bank Transfer
+ORD00626,2024-06-19,CUST0244,Kandy,Online,Home & Kitchen,Water Bottle,3,1751.51,0.0,5254.53,4113.87,1140.66,Bank Transfer
+ORD00627,2024-09-04,CUST0296,Galle,In-store,Fashion,Jeans,5,6195.22,0.0,30976.1,17810.98,13165.12,Digital Wallet
+ORD00628,2024-09-25,CUST0005,Kilinochchi,In-store,Home & Kitchen,Water Bottle,1,1870.36,0.15,1589.81,1177.44,412.37,Cash
+ORD00629,2025-01-04,CUST0054,Kandy,In-store,Home & Kitchen,Cookware Set,2,7029.58,0.05,13356.2,9042.25,4313.95,Cash
+ORD00630,2024-09-24,CUST0132,Kandy,In-store,Home & Kitchen,Cookware Set,4,6616.99,0.05,25144.56,20730.57,4413.99,Cash
+ORD00631,2025-06-22,CUST0234,Kurunegala,Online,Electronics,Keyboard,4,5733.89,0.0,22935.56,14743.61,8191.95,Card
+ORD00632,2024-08-27,CUST0144,Jaffna,In-store,Electronics,Headphones,3,9100.38,0.05,25936.08,19923.84,6012.24,Digital Wallet
+ORD00633,2024-11-13,CUST0151,Colombo,Online,Home & Kitchen,Water Bottle,1,1964.02,0.05,1865.82,1238.3,627.52,Digital Wallet
+ORD00634,2024-10-04,CUST0082,Galle,Online,Fashion,Handbag,4,5284.36,0.1,19023.7,15379.48,3644.22,Bank Transfer
+ORD00635,2024-05-13,CUST0167,Galle,In-store,Stationery,Backpack,3,3768.34,0.0,11305.02,8717.88,2587.14,Digital Wallet
+ORD00636,2025-05-16,CUST0354,Colombo,In-store,Stationery,Notebook,3,499.23,0.0,1497.69,1140.79,356.9,Digital Wallet
+ORD00637,2024-06-21,CUST0209,Kurunegala,In-store,Electronics,Wireless Mouse,5,2901.27,0.05,13781.03,10525.19,3255.84,Bank Transfer
+ORD00638,2024-08-05,CUST0332,Kilinochchi,In-store,Electronics,Power Bank,3,6163.34,0.05,17565.52,14080.55,3484.97,Cash
+ORD00639,2025-08-02,CUST0086,Galle,In-store,Fashion,Handbag,1,4521.44,0.0,4521.44,3622.35,899.09,Digital Wallet
+ORD00640,2025-11-24,CUST0174,Kandy,In-store,Home & Kitchen,Cookware Set,1,7132.04,0.0,7132.04,4549.8,2582.24,Bank Transfer
+ORD00641,2025-05-05,CUST0157,Kurunegala,In-store,Fashion,Jeans,2,6399.42,0.0,12798.84,8949.5,3849.34,Cash
+ORD00642,2025-10-31,CUST0328,Galle,Online,Electronics,Headphones,3,8150.5,0.1,22006.35,15634.87,6371.48,Cash
+ORD00643,2025-09-16,CUST0394,Kandy,In-store,Home & Kitchen,Blender,1,10889.64,0.0,10889.64,7028.39,3861.25,Digital Wallet
+ORD00644,2024-12-17,CUST0373,Galle,In-store,Electronics,Keyboard,5,5419.01,0.15,23030.79,20882.02,2148.77,Digital Wallet
+ORD00645,2025-07-17,CUST0107,Colombo,Online,Home & Kitchen,Rice Cooker,3,15149.12,0.0,45447.36,33974.25,11473.11,Card
+ORD00646,2024-08-28,CUST0063,Colombo,Online,Stationery,Notebook,4,417.79,0.1,1504.04,1288.55,215.49,Bank Transfer
+ORD00647,2024-12-02,CUST0026,Colombo,In-store,Electronics,Headphones,5,8308.32,0.0,41541.6,27845.83,13695.77,Bank Transfer
+ORD00648,2025-01-26,CUST0373,Kandy,In-store,Electronics,Power Bank,5,6608.47,0.0,33042.35,23936.07,9106.28,Cash
+ORD00649,2025-12-03,CUST0128,Kurunegala,Online,Fashion,Handbag,1,4432.17,0.05,4210.56,2503.75,1706.81,Card
+ORD00650,2025-09-12,CUST0039,Kurunegala,Online,Home & Kitchen,Rice Cooker,4,15067.9,0.0,60271.6,48519.23,11752.37,Cash
+ORD00651,2024-12-23,CUST0304,Colombo,In-store,Electronics,Keyboard,2,5195.89,0.05,9872.19,8518.07,1354.12,Card
+ORD00652,2025-04-22,CUST0354,Galle,Online,Home & Kitchen,Blender,1,10787.53,0.1,9708.78,6350.17,3358.61,Card
+ORD00653,2024-05-27,CUST0142,Jaffna,Online,Home & Kitchen,Cookware Set,4,6855.63,0.0,27422.52,21453.08,5969.44,Card
+ORD00654,2025-08-11,CUST0102,Kandy,Online,Electronics,Wireless Mouse,3,3000.53,0.0,9001.59,5224.82,3776.77,Bank Transfer
+ORD00655,2025-02-08,CUST0182,Colombo,In-store,Home & Kitchen,Rice Cooker,1,14326.08,0.1,12893.47,10167.24,2726.23,Cash
+ORD00656,2025-01-24,CUST0045,Kandy,In-store,Home & Kitchen,Blender,2,10935.28,0.0,21870.56,13166.96,8703.6,Cash
+ORD00657,2025-07-14,CUST0342,Kilinochchi,In-store,Home & Kitchen,Blender,2,9745.84,0.05,18517.1,12202.94,6314.16,Cash
+ORD00658,2025-04-07,CUST0325,Kilinochchi,Online,Stationery,Notebook,5,438.97,0.1,1975.37,1514.62,460.75,Card
+ORD00659,2024-02-22,CUST0037,Kilinochchi,In-store,Fashion,Jeans,2,6717.55,0.0,13435.1,7393.12,6041.98,Cash
+ORD00660,2024-07-29,CUST0221,Kurunegala,In-store,Fashion,Handbag,1,4626.29,0.15,3932.35,3320.98,611.37,Bank Transfer
+ORD00661,2024-05-09,CUST0114,Kilinochchi,In-store,Home & Kitchen,Cookware Set,1,7034.76,0.0,7034.76,5126.68,1908.08,Bank Transfer
+ORD00662,2025-06-21,CUST0060,Jaffna,Online,Fashion,Jeans,2,7179.1,0.0,14358.2,8289.33,6068.87,Cash
+ORD00663,2024-01-26,CUST0025,Colombo,In-store,Electronics,Power Bank,4,6073.32,0.0,24293.28,19128.39,5164.89,Bank Transfer
+ORD00664,2024-05-27,CUST0131,Jaffna,Online,Stationery,Backpack,5,3527.14,0.15,14990.34,12922.02,2068.32,Digital Wallet
+ORD00665,2025-03-12,CUST0180,Kilinochchi,In-store,Fashion,Handbag,2,4662.5,0.05,8858.75,6933.25,1925.5,Cash
+ORD00666,2025-05-22,CUST0246,Galle,In-store,Home & Kitchen,Blender,5,9740.03,0.1,43830.14,34472.19,9357.95,Cash
+ORD00667,2025-01-02,CUST0393,Galle,In-store,Fashion,Handbag,5,4756.89,0.05,22595.23,16131.79,6463.44,Card
+ORD00668,2025-09-21,CUST0220,Galle,Online,Stationery,Desk Organizer,3,1635.91,0.0,4907.73,3491.59,1416.14,Card
+ORD00669,2025-11-02,CUST0349,Jaffna,In-store,Electronics,Wireless Mouse,4,3081.97,0.05,11711.49,8867.74,2843.75,Cash
+ORD00670,2024-04-06,CUST0028,Colombo,In-store,Fashion,Sneakers,5,9176.45,0.0,45882.25,33184.08,12698.17,Bank Transfer
+ORD00671,2025-11-27,CUST0096,Kandy,In-store,Fashion,Jeans,4,6949.28,0.0,27797.12,17567.44,10229.68,Digital Wallet
+ORD00672,2025-03-25,CUST0046,Kandy,In-store,Electronics,Wireless Mouse,5,3350.76,0.0,16753.8,12432.65,4321.15,Cash
+ORD00673,2025-04-10,CUST0329,Jaffna,In-store,Home & Kitchen,Rice Cooker,4,15550.81,0.0,62203.24,44670.19,17533.05,Digital Wallet
+ORD00674,2024-03-10,CUST0074,Jaffna,In-store,Home & Kitchen,Rice Cooker,2,15867.99,0.0,31735.98,22516.96,9219.02,Card
+ORD00675,2025-03-30,CUST0297,Kandy,In-store,Electronics,Power Bank,5,6993.24,0.0,34966.2,26281.15,8685.05,Card
+ORD00676,2025-06-14,CUST0084,Kandy,Online,Electronics,Power Bank,1,6845.34,0.0,6845.34,5413.36,1431.98,Bank Transfer
+ORD00677,2025-02-28,CUST0250,Kilinochchi,In-store,Fashion,Handbag,5,4701.94,0.0,23509.7,16205.01,7304.69,Digital Wallet
+ORD00678,2024-03-02,CUST0149,Kurunegala,In-store,Fashion,Handbag,2,5236.17,0.0,10472.34,6249.82,4222.52,Bank Transfer
+ORD00679,2025-01-17,CUST0101,Galle,In-store,Electronics,Keyboard,1,4903.4,0.1,4413.06,3877.86,535.2,Cash
+ORD00680,2025-11-15,CUST0300,Kurunegala,In-store,Stationery,Backpack,1,3663.36,0.0,3663.36,2905.72,757.64,Digital Wallet
+ORD00681,2025-06-12,CUST0036,Kandy,Online,Stationery,Notebook,1,411.27,0.1,370.14,285.75,84.39,Card
+ORD00682,2024-04-10,CUST0247,Kilinochchi,In-store,Electronics,Keyboard,4,5563.47,0.05,21141.19,18146.07,2995.12,Bank Transfer
+ORD00683,2025-12-02,CUST0295,Kurunegala,In-store,Electronics,Power Bank,5,7275.36,0.0,36376.8,20992.65,15384.15,Card
+ORD00684,2025-12-01,CUST0321,Kandy,In-store,Stationery,Notebook,5,492.27,0.05,2338.28,1568.09,770.19,Digital Wallet
+ORD00685,2024-05-03,CUST0196,Kilinochchi,In-store,Electronics,Power Bank,5,6823.58,0.1,30706.11,20200.98,10505.13,Digital Wallet
+ORD00686,2025-08-08,CUST0153,Jaffna,Online,Stationery,Backpack,1,4021.56,0.05,3820.48,3067.22,753.26,Digital Wallet
+ORD00687,2024-10-24,CUST0093,Colombo,In-store,Electronics,Headphones,1,9433.94,0.15,8018.85,7652.83,366.02,Card
+ORD00688,2025-03-09,CUST0035,Kandy,In-store,Fashion,Sneakers,1,9513.61,0.0,9513.61,6499.38,3014.23,Cash
+ORD00689,2024-11-21,CUST0274,Kandy,In-store,Electronics,Headphones,5,9042.49,0.15,38430.58,30604.18,7826.4,Digital Wallet
+ORD00690,2025-07-26,CUST0299,Kilinochchi,In-store,Home & Kitchen,Water Bottle,5,1937.32,0.1,8717.94,5962.65,2755.29,Bank Transfer
+ORD00691,2025-12-29,CUST0154,Kilinochchi,Online,Electronics,Power Bank,4,6635.04,0.05,25213.15,15224.98,9988.17,Cash
+ORD00692,2025-08-04,CUST0098,Kurunegala,In-store,Stationery,Pen Set,3,690.47,0.1,1864.27,1594.9,269.37,Digital Wallet
+ORD00693,2025-11-11,CUST0041,Galle,In-store,Stationery,Notebook,4,418.11,0.0,1672.44,1268.41,404.03,Bank Transfer
+ORD00694,2025-11-22,CUST0159,Kurunegala,In-store,Fashion,Sneakers,3,9117.8,0.05,25985.73,20659.32,5326.41,Bank Transfer
+ORD00695,2024-03-06,CUST0327,Galle,In-store,Fashion,Sneakers,4,9960.62,0.0,39842.48,30034.74,9807.74,Bank Transfer
+ORD00696,2024-07-04,CUST0210,Kandy,In-store,Fashion,Handbag,3,5158.25,0.0,15474.75,9354.72,6120.03,Card
+ORD00697,2025-06-11,CUST0199,Colombo,Online,Fashion,Jeans,5,6880.91,0.0,34404.55,22324.38,12080.17,Bank Transfer
+ORD00698,2025-03-07,CUST0317,Kandy,In-store,Home & Kitchen,Rice Cooker,3,15190.3,0.0,45570.9,29159.64,16411.26,Bank Transfer
+ORD00699,2024-02-06,CUST0110,Kandy,In-store,Electronics,Keyboard,5,5266.43,0.0,26332.15,15893.52,10438.63,Bank Transfer
+ORD00700,2024-03-10,CUST0185,Kurunegala,Online,Fashion,Jeans,1,7121.55,0.15,6053.32,4338.86,1714.46,Cash
+ORD00701,2025-01-15,CUST0250,Kurunegala,In-store,Stationery,Desk Organizer,5,1448.34,0.0,7241.7,4067.68,3174.02,Bank Transfer
+ORD00702,2025-03-26,CUST0101,Kurunegala,Online,Fashion,Handbag,5,4955.33,0.0,24776.65,17948.78,6827.87,Bank Transfer
+ORD00703,2024-05-02,CUST0243,Galle,In-store,Home & Kitchen,Blender,5,10362.71,0.0,51813.55,31227.45,20586.1,Bank Transfer
+ORD00704,2024-05-05,CUST0067,Colombo,In-store,Electronics,Headphones,1,8543.47,0.05,8116.3,5105.82,3010.48,Bank Transfer
+ORD00705,2024-04-04,CUST0153,Colombo,In-store,Home & Kitchen,Rice Cooker,2,15554.81,0.15,26443.18,21247.09,5196.09,Card
+ORD00706,2025-02-16,CUST0034,Galle,In-store,Stationery,Notebook,5,500.68,0.05,2378.23,1726.82,651.41,Digital Wallet
+ORD00707,2024-01-06,CUST0083,Kurunegala,In-store,Fashion,Jeans,1,7052.31,0.0,7052.31,3995.17,3057.14,Bank Transfer
+ORD00708,2025-02-22,CUST0186,Galle,In-store,Fashion,T-Shirt,5,2406.59,0.05,11431.3,8643.9,2787.4,Card
+ORD00709,2024-12-13,CUST0224,Galle,Online,Stationery,Backpack,1,3862.25,0.0,3862.25,2399.69,1462.56,Digital Wallet
+ORD00710,2024-12-06,CUST0118,Kurunegala,In-store,Stationery,Desk Organizer,2,1603.94,0.0,3207.88,2411.21,796.67,Card
+ORD00711,2025-05-11,CUST0046,Kilinochchi,In-store,Electronics,Power Bank,5,7018.7,0.1,31584.15,19736.69,11847.46,Digital Wallet
+ORD00712,2025-01-17,CUST0108,Galle,Online,Electronics,Wireless Mouse,1,3269.07,0.0,3269.07,2145.55,1123.52,Bank Transfer
+ORD00713,2025-06-15,CUST0189,Jaffna,In-store,Fashion,Handbag,3,4476.0,0.1,12085.2,7520.54,4564.66,Bank Transfer
+ORD00714,2025-07-12,CUST0261,Kurunegala,In-store,Home & Kitchen,Water Bottle,4,1757.42,0.0,7029.68,4735.54,2294.14,Cash
+ORD00715,2025-11-03,CUST0345,Colombo,In-store,Fashion,Sneakers,3,8432.37,0.05,24032.25,16023.01,8009.24,Digital Wallet
+ORD00716,2025-08-07,CUST0278,Kandy,Online,Home & Kitchen,Blender,5,9338.85,0.1,42024.83,29293.58,12731.25,Bank Transfer
+ORD00717,2025-01-13,CUST0273,Jaffna,Online,Home & Kitchen,Blender,1,9974.42,0.15,8478.26,8095.52,382.74,Card
+ORD00718,2024-12-25,CUST0267,Galle,Online,Electronics,Wireless Mouse,1,3232.61,0.0,3232.61,2500.09,732.52,Card
+ORD00719,2024-06-21,CUST0259,Colombo,Online,Home & Kitchen,Water Bottle,1,1769.69,0.15,1504.24,1204.24,300.0,Bank Transfer
+ORD00720,2025-03-14,CUST0229,Colombo,Online,Stationery,Desk Organizer,5,1572.45,0.05,7469.14,6056.3,1412.84,Digital Wallet
+ORD00721,2024-04-11,CUST0058,Kandy,Online,Home & Kitchen,Rice Cooker,1,14865.66,0.0,14865.66,8420.78,6444.88,Digital Wallet
+ORD00722,2025-11-11,CUST0343,Jaffna,In-store,Fashion,Sneakers,1,9818.38,0.05,9327.46,5426.98,3900.48,Bank Transfer
+ORD00723,2025-09-09,CUST0186,Kilinochchi,Online,Electronics,Keyboard,1,5621.85,0.05,5340.76,4532.16,808.6,Bank Transfer
+ORD00724,2024-03-28,CUST0336,Galle,In-store,Stationery,Notebook,1,491.24,0.0,491.24,285.67,205.57,Digital Wallet
+ORD00725,2025-07-28,CUST0148,Kilinochchi,Online,Home & Kitchen,Rice Cooker,3,13446.97,0.0,40340.91,33015.18,7325.73,Cash
+ORD00726,2024-03-26,CUST0171,Kurunegala,In-store,Electronics,Wireless Mouse,5,3199.14,0.0,15995.7,12163.1,3832.6,Digital Wallet
+ORD00727,2025-06-11,CUST0287,Kandy,In-store,Home & Kitchen,Cookware Set,2,6632.19,0.0,13264.38,9093.74,4170.64,Cash
+ORD00728,2024-03-05,CUST0012,Jaffna,Online,Electronics,Keyboard,2,4723.73,0.0,9447.46,6651.3,2796.16,Digital Wallet
+ORD00729,2024-12-22,CUST0382,Kilinochchi,In-store,Fashion,Sneakers,3,8592.74,0.0,25778.22,16491.67,9286.55,Digital Wallet
+ORD00730,2025-04-25,CUST0055,Colombo,Online,Home & Kitchen,Rice Cooker,3,15980.29,0.0,47940.87,26533.76,21407.11,Cash
+ORD00731,2025-06-16,CUST0028,Jaffna,In-store,Home & Kitchen,Water Bottle,4,1761.66,0.0,7046.64,5504.57,1542.07,Cash
+ORD00732,2024-11-02,CUST0039,Kilinochchi,Online,Electronics,Power Bank,5,6994.54,0.0,34972.7,21515.46,13457.24,Card
+ORD00733,2025-11-04,CUST0291,Kandy,In-store,Electronics,Headphones,1,8802.41,0.05,8362.29,7152.53,1209.76,Cash
+ORD00734,2025-07-20,CUST0056,Jaffna,In-store,Fashion,Handbag,2,4903.82,0.0,9807.64,7631.1,2176.54,Digital Wallet
+ORD00735,2024-06-01,CUST0247,Colombo,In-store,Stationery,Notebook,5,417.8,0.0,2089.0,1487.55,601.45,Card
+ORD00736,2025-05-05,CUST0165,Galle,In-store,Stationery,Pen Set,3,694.06,0.0,2082.18,1219.3,862.88,Digital Wallet
+ORD00737,2025-06-18,CUST0100,Jaffna,In-store,Electronics,Power Bank,2,6832.26,0.0,13664.52,7760.14,5904.38,Digital Wallet
+ORD00738,2024-08-31,CUST0047,Jaffna,In-store,Home & Kitchen,Rice Cooker,1,13967.11,0.05,13268.75,10416.41,2852.34,Card
+ORD00739,2025-06-23,CUST0277,Jaffna,In-store,Electronics,Wireless Mouse,5,3014.13,0.0,15070.65,10099.74,4970.91,Digital Wallet
+ORD00740,2025-10-18,CUST0245,Kurunegala,Online,Fashion,T-Shirt,2,2294.68,0.1,4130.42,2928.55,1201.87,Digital Wallet
+ORD00741,2025-08-20,CUST0084,Colombo,In-store,Stationery,Pen Set,4,636.26,0.0,2545.04,1690.11,854.93,Bank Transfer
+ORD00742,2025-07-11,CUST0373,Jaffna,Online,Electronics,Headphones,2,8939.06,0.05,16984.21,11479.5,5504.71,Bank Transfer
+ORD00743,2025-04-08,CUST0265,Kilinochchi,In-store,Fashion,Handbag,4,4805.98,0.0,19223.92,14198.94,5024.98,Bank Transfer
+ORD00744,2024-07-16,CUST0171,Kilinochchi,In-store,Home & Kitchen,Blender,4,10955.79,0.05,41632.0,28352.7,13279.3,Card
+ORD00745,2025-08-04,CUST0036,Kurunegala,Online,Electronics,Keyboard,3,5608.22,0.05,15983.43,10154.92,5828.51,Cash
+ORD00746,2024-09-23,CUST0245,Galle,In-store,Fashion,Jeans,4,7050.9,0.0,28203.6,16995.67,11207.93,Card
+ORD00747,2025-01-24,CUST0021,Galle,In-store,Home & Kitchen,Blender,4,9140.63,0.0,36562.52,29880.27,6682.25,Card
+ORD00748,2024-08-17,CUST0059,Kilinochchi,Online,Electronics,Power Bank,2,6818.62,0.0,13637.24,8567.93,5069.31,Cash
+ORD00749,2024-08-16,CUST0111,Colombo,In-store,Electronics,Wireless Mouse,4,3148.92,0.05,11965.9,7769.94,4195.96,Card
+ORD00750,2024-04-25,CUST0175,Colombo,In-store,Electronics,Power Bank,3,6485.86,0.0,19457.58,13670.18,5787.4,Cash
+ORD00751,2025-12-03,CUST0185,Kilinochchi,In-store,Electronics,Keyboard,3,5036.47,0.0,15109.41,10079.67,5029.74,Digital Wallet
+ORD00752,2024-04-18,CUST0141,Colombo,In-store,Electronics,Keyboard,3,4765.9,0.0,14297.7,10445.17,3852.53,Digital Wallet
+ORD00753,2024-03-04,CUST0202,Colombo,Online,Fashion,T-Shirt,1,1998.01,0.1,1798.21,1189.02,609.19,Bank Transfer
+ORD00754,2025-11-15,CUST0152,Jaffna,Online,Fashion,Sneakers,2,9966.48,0.0,19932.96,13274.07,6658.89,Card
+ORD00755,2025-02-09,CUST0039,Kilinochchi,In-store,Stationery,Desk Organizer,4,1478.98,0.0,5915.92,3645.62,2270.3,Bank Transfer
+ORD00756,2024-11-16,CUST0182,Kandy,In-store,Fashion,T-Shirt,4,2385.77,0.0,9543.08,7312.77,2230.31,Cash
+ORD00757,2025-06-23,CUST0158,Kurunegala,In-store,Home & Kitchen,Rice Cooker,2,14943.96,0.0,29887.92,16723.94,13163.98,Bank Transfer
+ORD00758,2024-10-07,CUST0024,Kandy,Online,Fashion,Handbag,3,5132.86,0.0,15398.58,10088.8,5309.78,Cash
+ORD00759,2024-04-03,CUST0201,Kurunegala,Online,Fashion,Sneakers,3,10240.35,0.0,30721.05,24285.31,6435.74,Digital Wallet
+ORD00760,2025-06-17,CUST0053,Kurunegala,Online,Stationery,Desk Organizer,4,1720.2,0.1,6192.72,4981.57,1211.15,Card
+ORD00761,2024-05-08,CUST0337,Colombo,Online,Electronics,Keyboard,3,5276.58,0.0,15829.74,11794.47,4035.27,Card
+ORD00762,2025-02-08,CUST0284,Kilinochchi,Online,Home & Kitchen,Cookware Set,1,6728.33,0.1,6055.5,5430.09,625.41,Cash
+ORD00763,2025-11-24,CUST0394,Jaffna,In-store,Home & Kitchen,Rice Cooker,3,15303.7,0.0,45911.1,32692.75,13218.35,Bank Transfer
+ORD00764,2025-11-15,CUST0240,Jaffna,In-store,Electronics,Keyboard,4,4890.82,0.1,17606.95,13818.36,3788.59,Card
+ORD00765,2024-09-20,CUST0348,Kandy,In-store,Home & Kitchen,Rice Cooker,5,14674.38,0.0,73371.9,55138.54,18233.36,Bank Transfer
+ORD00766,2025-07-24,CUST0286,Kandy,In-store,Electronics,Wireless Mouse,3,3494.61,0.1,9435.45,8259.34,1176.11,Card
+ORD00767,2025-03-23,CUST0365,Kurunegala,Online,Fashion,Sneakers,5,9751.55,0.0,48757.75,35884.65,12873.1,Cash
+ORD00768,2024-12-16,CUST0110,Colombo,In-store,Home & Kitchen,Cookware Set,4,7271.81,0.0,29087.24,23402.04,5685.2,Bank Transfer
+ORD00769,2024-04-12,CUST0361,Kandy,In-store,Home & Kitchen,Rice Cooker,4,14708.96,0.0,58835.84,46167.67,12668.17,Cash
+ORD00770,2024-10-02,CUST0281,Jaffna,In-store,Fashion,T-Shirt,1,2406.48,0.0,2406.48,1955.99,450.49,Bank Transfer
+ORD00771,2025-04-21,CUST0206,Kurunegala,Online,Electronics,Wireless Mouse,2,3496.51,0.0,6993.02,4720.02,2273.0,Card
+ORD00772,2025-12-22,CUST0070,Kilinochchi,In-store,Fashion,Handbag,4,5246.54,0.0,20986.16,12269.81,8716.35,Digital Wallet
+ORD00773,2024-01-04,CUST0027,Kurunegala,Online,Electronics,Power Bank,4,6305.97,0.0,25223.88,17967.04,7256.84,Card
+ORD00774,2025-06-08,CUST0326,Colombo,In-store,Fashion,T-Shirt,3,2057.97,0.0,6173.91,3399.67,2774.24,Bank Transfer
+ORD00775,2025-09-10,CUST0169,Colombo,Online,Fashion,Handbag,5,4540.45,0.05,21567.14,13784.7,7782.44,Bank Transfer
+ORD00776,2025-11-26,CUST0214,Colombo,Online,Stationery,Pen Set,3,607.52,0.0,1822.56,1102.25,720.31,Digital Wallet
+ORD00777,2024-11-05,CUST0366,Colombo,In-store,Home & Kitchen,Water Bottle,3,1885.11,0.1,5089.8,3232.81,1856.99,Cash
+ORD00778,2024-03-27,CUST0055,Galle,In-store,Home & Kitchen,Blender,5,9706.45,0.0,48532.25,28122.22,20410.03,Digital Wallet
+ORD00779,2024-07-17,CUST0300,Kandy,Online,Home & Kitchen,Rice Cooker,3,14052.29,0.1,37941.18,29731.3,8209.88,Bank Transfer
+ORD00780,2025-09-13,CUST0091,Colombo,Online,Stationery,Desk Organizer,5,1493.9,0.05,7096.02,5053.37,2042.65,Bank Transfer
+ORD00781,2025-10-03,CUST0395,Kurunegala,In-store,Home & Kitchen,Rice Cooker,2,14615.75,0.0,29231.5,21343.96,7887.54,Cash
+ORD00782,2025-04-10,CUST0286,Kurunegala,In-store,Home & Kitchen,Water Bottle,1,1709.09,0.05,1623.64,1270.0,353.64,Card
+ORD00783,2024-03-30,CUST0320,Kandy,In-store,Stationery,Pen Set,2,690.25,0.15,1173.42,1082.15,91.27,Digital Wallet
+ORD00784,2024-03-30,CUST0047,Kandy,In-store,Fashion,Sneakers,3,8371.95,0.1,22604.27,16686.46,5917.81,Cash
+ORD00785,2024-12-15,CUST0295,Kilinochchi,In-store,Fashion,T-Shirt,3,2400.35,0.05,6841.0,5854.34,986.66,Cash
+ORD00786,2025-03-06,CUST0397,Galle,Online,Electronics,Power Bank,2,6223.24,0.05,11824.16,9699.19,2124.97,Cash
+ORD00787,2024-01-24,CUST0270,Kilinochchi,In-store,Electronics,Power Bank,3,6525.01,0.0,19575.03,13865.46,5709.57,Card
+ORD00788,2025-05-16,CUST0310,Kurunegala,In-store,Stationery,Backpack,5,3454.05,0.15,14679.71,9716.15,4963.56,Bank Transfer
+ORD00789,2025-02-02,CUST0006,Kandy,Online,Fashion,T-Shirt,1,2066.82,0.1,1860.14,1220.18,639.96,Digital Wallet
+ORD00790,2024-01-09,CUST0122,Kilinochchi,In-store,Electronics,Power Bank,2,7235.63,0.0,14471.26,8132.9,6338.36,Cash
+ORD00791,2024-03-10,CUST0117,Jaffna,Online,Stationery,Notebook,2,407.61,0.0,815.22,466.77,348.45,Card
+ORD00792,2024-11-28,CUST0180,Colombo,Online,Electronics,Power Bank,3,6095.44,0.0,18286.32,12956.0,5330.32,Bank Transfer
+ORD00793,2025-06-12,CUST0029,Kilinochchi,In-store,Stationery,Notebook,2,496.38,0.0,992.76,615.4,377.36,Cash
+ORD00794,2025-08-26,CUST0112,Kilinochchi,In-store,Fashion,Handbag,5,5231.85,0.0,26159.25,20319.62,5839.63,Cash
+ORD00795,2024-11-11,CUST0052,Kandy,In-store,Home & Kitchen,Blender,5,9131.73,0.1,41092.78,27944.35,13148.43,Cash
+ORD00796,2024-08-03,CUST0176,Galle,Online,Stationery,Notebook,3,473.34,0.05,1349.02,973.37,375.65,Bank Transfer
+ORD00797,2025-12-08,CUST0092,Galle,In-store,Fashion,T-Shirt,3,2292.27,0.05,6532.97,4586.44,1946.53,Digital Wallet
+ORD00798,2024-12-01,CUST0384,Jaffna,In-store,Stationery,Desk Organizer,1,1728.9,0.05,1642.45,1300.69,341.76,Cash
+ORD00799,2024-08-18,CUST0270,Jaffna,Online,Electronics,Power Bank,1,7232.43,0.1,6509.19,4980.96,1528.23,Card
+ORD00800,2024-11-19,CUST0400,Kandy,In-store,Stationery,Pen Set,5,634.92,0.0,3174.6,1975.21,1199.39,Cash
+ORD00801,2024-01-09,CUST0032,Colombo,Online,Electronics,Keyboard,1,4990.82,0.0,4990.82,3731.55,1259.27,Cash
+ORD00802,2024-08-08,CUST0005,Colombo,Online,Electronics,Headphones,2,8987.43,0.0,17974.86,12358.88,5615.98,Cash
+ORD00803,2025-01-11,CUST0234,Kurunegala,In-store,Electronics,Wireless Mouse,3,3479.56,0.0,10438.68,6493.72,3944.96,Cash
+ORD00804,2025-11-02,CUST0006,Kandy,Online,Home & Kitchen,Rice Cooker,4,15952.24,0.05,60618.51,45139.34,15479.17,Cash
+ORD00805,2025-06-23,CUST0181,Jaffna,In-store,Fashion,Handbag,1,5250.17,0.05,4987.66,4010.95,976.71,Digital Wallet
+ORD00806,2025-07-25,CUST0155,Kurunegala,Online,Fashion,Handbag,1,4345.02,0.1,3910.52,2631.54,1278.98,Card
+ORD00807,2025-02-02,CUST0297,Galle,Online,Electronics,Headphones,1,7698.07,0.1,6928.26,4881.14,2047.12,Bank Transfer
+ORD00808,2024-03-21,CUST0209,Galle,In-store,Home & Kitchen,Water Bottle,2,1769.26,0.05,3361.59,2862.22,499.37,Digital Wallet
+ORD00809,2024-10-12,CUST0288,Kurunegala,Online,Home & Kitchen,Water Bottle,5,1673.77,0.1,7531.97,5179.24,2352.73,Digital Wallet
+ORD00810,2025-12-29,CUST0338,Kandy,Online,Electronics,Wireless Mouse,5,3138.73,0.0,15693.65,10792.59,4901.06,Card
+ORD00811,2024-02-02,CUST0235,Galle,Online,Electronics,Wireless Mouse,3,3507.76,0.0,10523.28,7087.23,3436.05,Card
+ORD00812,2025-10-04,CUST0090,,In-store,Stationery,Backpack,3,3714.95,0.15,9473.12,8795.66,677.46,Bank Transfer
+ORD00813,2025-05-15,CUST0011,Jaffna,In-store,Home & Kitchen,Cookware Set,1,7893.53,0.1,7104.18,5313.83,1790.35,Card
+ORD00814,2024-07-26,CUST0223,Colombo,In-store,Fashion,T-Shirt,3,2093.31,0.05,5965.93,5114.33,851.6,Cash
+ORD00815,2025-07-22,CUST0062,Colombo,Online,Home & Kitchen,Blender,1,9966.09,0.05,9467.79,5904.74,3563.05,Digital Wallet
+ORD00816,2025-09-03,CUST0251,Galle,In-store,Fashion,Jeans,1,7050.01,0.05,6697.51,5477.55,1219.96,Bank Transfer
+ORD00817,2024-02-01,CUST0012,Kandy,In-store,Home & Kitchen,Rice Cooker,2,14384.67,0.0,28769.34,19116.33,9653.01,Card
+ORD00818,2024-03-18,CUST0232,Jaffna,In-store,Fashion,Jeans,1,7002.82,0.0,7002.82,5466.42,1536.4,Digital Wallet
+ORD00819,2025-05-01,CUST0116,Galle,In-store,Stationery,Notebook,1,464.09,0.1,417.68,296.84,120.84,Card
+ORD00820,2025-12-31,CUST0038,Kurunegala,Online,Electronics,Headphones,5,7834.03,0.05,37211.64,27105.1,10106.54,Card
+ORD00821,2024-01-18,CUST0338,Colombo,Online,Electronics,Wireless Mouse,2,3427.28,0.1,6169.1,4581.25,1587.85,Card
+ORD00822,2025-05-01,CUST0098,Kilinochchi,In-store,Home & Kitchen,Cookware Set,5,6549.65,0.05,31110.84,26056.63,5054.21,Bank Transfer
+ORD00823,2024-04-09,CUST0016,Kandy,In-store,Fashion,T-Shirt,5,2210.3,0.1,9946.35,7247.75,2698.6,Digital Wallet
+ORD00824,2025-04-20,CUST0207,Jaffna,Online,Stationery,Pen Set,1,640.08,0.0,640.08,446.74,193.34,Card
+ORD00825,2025-03-31,CUST0035,Galle,In-store,Home & Kitchen,Rice Cooker,2,15018.14,0.0,30036.28,21834.75,8201.53,Bank Transfer
+ORD00826,2024-03-07,CUST0339,Galle,Online,Fashion,Handbag,2,4715.79,0.0,9431.58,7006.46,2425.12,Bank Transfer
+ORD00827,2025-05-12,CUST0195,Kandy,Online,Fashion,Handbag,4,4520.68,0.05,17178.58,10717.4,6461.18,Card
+ORD00828,2025-10-17,CUST0354,Kurunegala,Online,Home & Kitchen,Blender,1,10486.21,0.0,10486.21,8457.28,2028.93,Card
+ORD00829,2025-09-23,CUST0160,Jaffna,Online,Electronics,Power Bank,2,6333.46,0.0,12666.92,8683.01,3983.91,Bank Transfer
+ORD00830,2024-01-22,CUST0388,Kandy,In-store,Electronics,Headphones,1,8880.91,0.15,7548.77,6059.18,1489.59,Cash
+ORD00831,2024-06-28,CUST0301,Kandy,In-store,Fashion,Handbag,1,5229.47,0.05,4968.0,3927.68,1040.32,Cash
+ORD00832,2024-06-25,CUST0161,Kandy,Online,Stationery,Pen Set,2,608.21,0.0,1216.42,877.97,338.45,Digital Wallet
+ORD00833,2024-11-27,CUST0315,Colombo,In-store,Fashion,Handbag,5,5083.31,0.0,25416.55,18104.94,7311.61,Cash
+ORD00834,2024-04-14,CUST0382,Kandy,In-store,Electronics,Wireless Mouse,2,3580.9,0.0,7161.8,5310.42,1851.38,Card
+ORD00835,2025-09-16,CUST0133,Jaffna,Online,Home & Kitchen,Cookware Set,2,6999.68,0.0,13999.36,8124.29,5875.07,Card
+ORD00836,2025-07-21,CUST0212,Kandy,In-store,Home & Kitchen,Rice Cooker,3,14180.9,0.0,42542.7,23897.23,18645.47,Bank Transfer
+ORD00837,2025-08-13,CUST0168,Galle,In-store,Fashion,Jeans,3,6476.2,0.0,19428.6,11873.55,7555.05,Digital Wallet
+ORD00838,2024-05-24,CUST0044,Colombo,Online,Fashion,Jeans,5,5939.93,0.05,28214.67,19524.53,8690.14,Digital Wallet
+ORD00839,2024-01-11,CUST0111,Galle,In-store,Stationery,Desk Organizer,3,1533.04,0.05,4369.16,3309.58,1059.58,Digital Wallet
+ORD00840,2025-10-27,CUST0062,Kilinochchi,Online,Electronics,Headphones,2,7881.69,0.1,14187.04,8728.8,5458.24,Bank Transfer
+ORD00841,2024-07-30,CUST0260,Kurunegala,Online,Home & Kitchen,Cookware Set,3,7582.12,0.0,22746.36,15444.01,7302.35,Digital Wallet
+ORD00842,2025-04-24,CUST0149,Kandy,Online,Stationery,Desk Organizer,4,1702.98,0.05,6471.32,4972.59,1498.73,Bank Transfer
+ORD00843,2025-10-26,CUST0243,Kurunegala,Online,Stationery,Desk Organizer,2,1670.03,0.0,3340.06,2373.22,966.84,Bank Transfer
+ORD00844,2024-01-27,CUST0134,Colombo,Online,Home & Kitchen,Blender,3,9184.44,0.0,27553.32,21940.07,5613.25,Card
+ORD00845,2024-01-05,CUST0019,Kurunegala,Online,Electronics,Wireless Mouse,4,3284.03,0.05,12479.31,9508.83,2970.48,Digital Wallet
+ORD00846,2024-01-04,CUST0109,Jaffna,In-store,Electronics,Power Bank,5,6862.75,0.0,34313.75,23954.74,10359.01,Bank Transfer
+ORD00847,2024-04-24,CUST0394,Galle,Online,Fashion,Sneakers,4,9725.74,0.05,36957.81,30748.77,6209.04,Card
+ORD00848,2024-02-07,CUST0287,Colombo,Online,Fashion,T-Shirt,3,2210.97,0.0,6632.91,4633.15,1999.76,Card
+ORD00849,2025-08-22,CUST0373,Galle,In-store,Home & Kitchen,Blender,1,10062.69,0.0,10062.69,5795.03,4267.66,Digital Wallet
+ORD00850,2025-03-18,CUST0227,Kilinochchi,In-store,Fashion,T-Shirt,5,2354.43,0.0,11772.15,7265.36,4506.79,Digital Wallet
+ORD00851,2025-12-17,CUST0251,Kilinochchi,Online,Electronics,Power Bank,5,6131.36,0.1,27591.12,22698.11,4893.01,Bank Transfer
+ORD00852,2025-08-08,CUST0127,Colombo,In-store,Fashion,Jeans,5,6749.75,0.05,32061.31,19058.82,13002.49,Cash
+ORD00853,2025-12-05,CUST0062,Kilinochchi,Online,Electronics,Headphones,2,9346.01,0.0,18692.02,14302.4,4389.62,Bank Transfer
+ORD00854,2024-06-23,CUST0297,Jaffna,Online,Stationery,Pen Set,3,691.27,0.1,1866.43,1475.8,390.63,Bank Transfer
+ORD00855,2024-07-29,CUST0216,Colombo,Online,Home & Kitchen,Cookware Set,5,6565.29,0.0,32826.45,22736.88,10089.57,Bank Transfer
+ORD00856,2025-09-12,CUST0098,Galle,In-store,Fashion,T-Shirt,4,2448.3,0.0,9793.2,5458.4,4334.8,Cash
+ORD00857,2024-06-28,CUST0086,Galle,In-store,Stationery,Backpack,5,3701.96,0.0,18509.8,10682.43,7827.37,Cash
+ORD00858,2024-02-11,CUST0360,Kandy,In-store,Fashion,Jeans,5,5851.37,0.0,29256.85,17749.5,11507.35,Cash
+ORD00859,2025-05-04,CUST0046,Galle,In-store,Fashion,T-Shirt,1,2337.45,0.1,2103.7,1870.38,233.32,Card
+ORD00860,2025-08-08,CUST0385,Kandy,In-store,Electronics,Headphones,1,9449.59,0.0,9449.59,6028.5,3421.09,Bank Transfer
+ORD00861,2025-12-08,CUST0030,Kandy,Online,Stationery,Pen Set,2,637.79,0.0,1275.58,744.64,530.94,Digital Wallet
+ORD00862,2025-11-09,CUST0163,Colombo,In-store,Fashion,T-Shirt,2,2062.54,0.0,4125.08,2573.24,1551.84,Cash
+ORD00863,2024-03-28,CUST0037,Galle,In-store,Stationery,Desk Organizer,4,1773.48,0.0,7093.92,5257.35,1836.57,Bank Transfer
+ORD00864,2025-07-18,CUST0319,Kandy,Online,Home & Kitchen,Blender,2,9815.67,0.0,19631.34,16063.06,3568.28,Cash
+ORD00865,2025-09-10,CUST0293,Kurunegala,Online,Stationery,Pen Set,5,698.67,0.0,3493.35,2518.0,975.35,Cash
+ORD00866,2025-05-25,CUST0132,Kandy,Online,Electronics,Wireless Mouse,5,3217.81,0.05,15284.6,12484.73,2799.87,Digital Wallet
+ORD00867,2025-08-22,CUST0335,Kandy,In-store,Electronics,Power Bank,3,6329.67,0.0,18989.01,10496.48,8492.53,Digital Wallet
+ORD00868,2025-09-04,CUST0109,Colombo,In-store,Electronics,Power Bank,4,5914.02,0.05,22473.28,16639.95,5833.33,Card
+ORD00869,2024-11-22,CUST0239,Kilinochchi,In-store,Stationery,Backpack,3,3987.74,0.0,11963.22,9184.93,2778.29,Card
+ORD00870,2024-01-30,CUST0261,Galle,In-store,Electronics,Power Bank,2,6420.79,0.0,12841.58,10375.9,2465.68,Digital Wallet
+ORD00871,2024-11-29,CUST0390,Kandy,Online,Stationery,Desk Organizer,2,1601.51,0.1,2882.72,2025.08,857.64,Digital Wallet
+ORD00872,2024-05-27,CUST0124,Jaffna,In-store,Home & Kitchen,Rice Cooker,1,15208.91,0.0,15208.91,9320.59,5888.32,Bank Transfer
+ORD00873,2024-03-24,CUST0226,Kurunegala,In-store,Home & Kitchen,Blender,4,10470.35,0.0,41881.4,32669.12,9212.28,Card
+ORD00874,2024-04-01,CUST0241,Kilinochchi,Online,Fashion,Sneakers,2,9410.37,0.05,17879.7,15429.25,2450.45,Bank Transfer
+ORD00875,2025-05-24,CUST0397,Galle,In-store,Fashion,Jeans,5,7214.97,0.0,36074.85,21452.78,14622.07,Cash
+ORD00876,2025-01-03,CUST0373,Kandy,In-store,Fashion,Handbag,1,4760.79,0.05,4522.75,2871.4,1651.35,Bank Transfer
+ORD00877,2025-01-29,CUST0056,Colombo,In-store,Home & Kitchen,Blender,3,10405.62,0.05,29656.02,20190.04,9465.98,Digital Wallet
+ORD00878,2025-06-28,CUST0131,Kandy,In-store,Stationery,Desk Organizer,3,1531.12,0.0,4593.36,3382.02,1211.34,Card
+ORD00879,2025-02-04,CUST0141,Galle,In-store,Home & Kitchen,Cookware Set,2,6994.69,0.0,13989.38,10182.69,3806.69,Bank Transfer
+ORD00880,2025-04-05,CUST0319,Jaffna,Online,Home & Kitchen,Water Bottle,2,1998.57,0.0,3997.14,3152.37,844.77,Bank Transfer
+ORD00881,2024-03-03,CUST0400,Kandy,In-store,Home & Kitchen,Blender,2,8832.16,0.15,15014.67,12608.02,2406.65,Cash
+ORD00882,2025-09-14,CUST0250,Kilinochchi,Online,Electronics,Headphones,2,8611.67,0.1,15501.01,12536.19,2964.82,Bank Transfer
+ORD00883,2024-11-24,CUST0101,Jaffna,In-store,Electronics,Keyboard,4,5498.64,0.0,21994.56,13258.88,8735.68,Cash
+ORD00884,2024-04-23,CUST0264,Kilinochchi,Online,Electronics,Power Bank,3,6000.26,0.0,18000.78,11452.25,6548.53,Cash
+ORD00885,2025-08-17,CUST0235,Kurunegala,In-store,Home & Kitchen,Rice Cooker,2,13677.7,0.0,27355.4,19520.24,7835.16,Bank Transfer
+ORD00886,2025-06-21,CUST0339,Kurunegala,In-store,Home & Kitchen,Water Bottle,2,1845.34,0.0,3690.68,2730.99,959.69,Digital Wallet
+ORD00887,2024-02-08,CUST0247,Galle,In-store,Stationery,Notebook,5,424.5,0.1,1910.25,1511.77,398.48,Card
+ORD00888,2024-05-21,CUST0216,Kilinochchi,In-store,Fashion,Sneakers,4,8378.89,0.0,33515.56,26650.61,6864.95,Bank Transfer
+ORD00889,2024-01-12,CUST0062,Colombo,In-store,Stationery,Pen Set,5,663.18,0.0,3315.9,2327.28,988.62,Card
+ORD00890,2024-07-16,CUST0144,Kilinochchi,Online,Stationery,Backpack,4,4138.98,0.1,14900.33,9199.82,5700.51,Cash
+ORD00891,2024-03-14,CUST0065,Kurunegala,In-store,Fashion,T-Shirt,2,2297.87,0.05,4365.95,3445.61,920.34,Bank Transfer
+ORD00892,2025-06-02,CUST0373,Jaffna,In-store,Electronics,Headphones,1,9358.32,0.1,8422.49,5441.99,2980.5,Bank Transfer
+ORD00893,2025-01-16,CUST0252,Kilinochchi,Online,Home & Kitchen,Rice Cooker,2,15694.29,0.0,31388.58,22740.03,8648.55,Cash
+ORD00894,2025-12-17,CUST0258,Kilinochchi,In-store,Stationery,Notebook,2,450.17,0.05,855.32,708.88,146.44,Card
+ORD00895,2025-07-01,CUST0093,Kandy,In-store,Home & Kitchen,Rice Cooker,1,15560.75,0.0,15560.75,10216.16,5344.59,Cash
+ORD00896,2025-03-23,CUST0125,Colombo,In-store,Fashion,Jeans,2,6096.69,0.1,10974.04,9902.55,1071.49,Card
+ORD00897,2025-01-07,CUST0218,Kandy,Online,Electronics,Power Bank,1,6411.82,0.15,5450.05,4791.5,658.55,Card
+ORD00898,2024-02-09,CUST0171,Jaffna,In-store,Electronics,Wireless Mouse,4,3028.93,0.1,10904.15,7845.13,3059.02,Bank Transfer
+ORD00899,2024-02-21,CUST0052,Galle,In-store,Stationery,Notebook,4,453.34,0.0,1813.36,1438.93,374.43,Bank Transfer
+ORD00900,2025-03-26,CUST0126,Galle,In-store,Electronics,Keyboard,2,5294.13,0.0,10588.26,7186.45,3401.81,Card
+ORD00901,2024-01-04,CUST0357,Kandy,Online,Electronics,Power Bank,1,7212.71,0.05,6852.07,4919.21,1932.86,Card
+ORD00902,2024-01-31,CUST0263,Kandy,In-store,Electronics,Headphones,2,8545.85,0.1,15382.53,13540.38,1842.15,Digital Wallet
+ORD00903,2024-06-09,CUST0199,Jaffna,Online,Electronics,Keyboard,1,5576.36,0.1,5018.72,4460.37,558.35,Digital Wallet
+ORD00904,2025-10-08,CUST0220,Kandy,In-store,Stationery,Backpack,2,3541.97,0.0,7083.94,5727.01,1356.93,Card
+ORD00905,2024-12-01,CUST0093,Kurunegala,In-store,Home & Kitchen,Water Bottle,2,1994.22,0.0,3988.44,2321.86,1666.58,Digital Wallet
+ORD00906,2025-06-02,CUST0090,Jaffna,Online,Electronics,Headphones,3,8137.72,0.0,24413.16,14851.61,9561.55,Bank Transfer
+ORD00907,2024-10-27,CUST0375,Galle,In-store,Stationery,Pen Set,2,630.68,0.15,1072.16,955.76,116.4,Cash
+ORD00908,2024-05-06,CUST0217,Kilinochchi,In-store,Home & Kitchen,Blender,2,8849.49,0.15,15044.13,12485.1,2559.03,Bank Transfer
+ORD00909,2024-09-28,CUST0150,Kilinochchi,In-store,Fashion,Jeans,4,5986.08,0.05,22747.1,17424.58,5322.52,Cash
+ORD00910,2024-03-08,CUST0039,Kurunegala,Online,Home & Kitchen,Cookware Set,2,6647.3,0.0,13294.6,8326.98,4967.62,Card
+ORD00911,2025-07-17,CUST0374,Kurunegala,Online,Electronics,Power Bank,5,6080.98,0.05,28884.65,24348.67,4535.98,Bank Transfer
+ORD00912,2024-05-14,CUST0004,Colombo,Online,Electronics,Power Bank,5,6470.83,0.0,32354.15,20919.97,11434.18,Cash
+ORD00913,2024-10-02,CUST0295,Galle,Online,Stationery,Backpack,5,4016.86,0.0,20084.3,11308.65,8775.65,Card
+ORD00914,2025-12-17,CUST0196,Colombo,Online,Home & Kitchen,Blender,2,9337.29,0.0,18674.58,12380.6,6293.98,Bank Transfer
+ORD00915,2025-03-08,CUST0218,Kandy,In-store,Home & Kitchen,Water Bottle,4,1939.57,0.0,7758.28,5635.18,2123.1,Bank Transfer
+ORD00916,2024-12-01,CUST0382,Kilinochchi,In-store,Stationery,Notebook,3,405.34,0.0,1216.02,727.97,488.05,Digital Wallet
+ORD00917,2025-01-31,CUST0179,Galle,In-store,Electronics,Keyboard,5,5084.38,0.0,25421.9,16640.48,8781.42,Card
+ORD00918,2025-07-27,CUST0364,Jaffna,In-store,Home & Kitchen,Blender,2,9904.24,0.1,17827.63,13836.9,3990.73,Digital Wallet
+ORD00919,2024-07-05,CUST0075,Kilinochchi,Online,Fashion,Jeans,2,5877.96,0.0,11755.92,6534.48,5221.44,Card
+ORD00920,2025-04-10,CUST0360,Galle,In-store,Electronics,Keyboard,1,5530.88,0.0,5530.88,3792.05,1738.83,Bank Transfer
+ORD00921,2025-09-29,CUST0254,Kurunegala,Online,Home & Kitchen,Water Bottle,4,1694.54,0.0,6778.16,4702.57,2075.59,Bank Transfer
+ORD00922,2025-02-22,CUST0234,Kurunegala,Online,Fashion,Sneakers,1,9500.85,0.0,9500.85,5377.75,4123.1,Bank Transfer
+ORD00923,2024-11-22,CUST0355,Colombo,In-store,Home & Kitchen,Rice Cooker,5,15195.07,0.0,75975.35,42190.44,33784.91,Cash
+ORD00924,2024-04-16,CUST0076,Kurunegala,In-store,Electronics,Wireless Mouse,2,3042.07,0.1,5475.73,4613.29,862.44,Card
+ORD00925,2024-06-30,CUST0293,Kilinochchi,In-store,Electronics,Keyboard,1,5127.62,0.0,5127.62,3282.09,1845.53,Card
+ORD00926,2025-11-22,CUST0108,Jaffna,In-store,Electronics,Keyboard,2,5762.85,0.0,11525.7,8356.94,3168.76,Digital Wallet
+ORD00927,2025-01-30,CUST0127,Kilinochchi,Online,Home & Kitchen,Blender,3,8937.8,0.0,26813.4,14799.29,12014.11,Bank Transfer
+ORD00928,2024-08-08,CUST0274,Galle,Online,Electronics,Wireless Mouse,4,3527.35,0.0,14109.4,8985.16,5124.24,Digital Wallet
+ORD00929,2024-11-01,CUST0393,Kilinochchi,In-store,Stationery,Notebook,2,416.91,0.0,833.82,525.19,308.63,Bank Transfer
+ORD00930,2025-02-26,CUST0391,Jaffna,In-store,Stationery,Backpack,3,3963.51,0.15,10106.95,6782.69,3324.26,Card
+ORD00931,2025-01-27,CUST0057,Jaffna,Online,Stationery,Backpack,5,3443.45,0.0,17217.25,11175.4,6041.85,Bank Transfer
+ORD00932,2025-05-26,CUST0222,Kurunegala,In-store,Fashion,T-Shirt,3,2162.66,0.0,6487.98,5316.1,1171.88,Bank Transfer
+ORD00933,2024-07-07,CUST0379,Kilinochchi,In-store,Home & Kitchen,Water Bottle,5,1945.19,0.1,8753.36,6967.41,1785.95,Bank Transfer
+ORD00934,2025-04-19,CUST0240,Kandy,Online,Home & Kitchen,Water Bottle,3,2015.27,0.15,5138.94,4161.98,976.96,Bank Transfer
+ORD00935,2024-11-19,CUST0171,Kurunegala,Online,Stationery,Backpack,4,3474.49,0.0,13897.96,11008.18,2889.78,Cash
+ORD00936,2025-11-18,CUST0162,Jaffna,Online,Home & Kitchen,Water Bottle,2,1940.34,0.0,3880.68,2851.93,1028.75,Bank Transfer
+ORD00937,2024-04-25,CUST0137,Colombo,Online,Home & Kitchen,Blender,4,9049.59,0.0,36198.36,23987.96,12210.4,Bank Transfer
+ORD00938,2024-04-18,CUST0336,Galle,In-store,Electronics,Keyboard,2,5262.15,0.05,9998.08,8308.63,1689.45,Bank Transfer
+ORD00939,2024-12-03,CUST0036,Colombo,Online,Electronics,Power Bank,3,7207.4,0.05,20541.09,14069.43,6471.66,Cash
+ORD00940,2025-01-06,CUST0278,Kilinochchi,Online,Fashion,Jeans,4,6213.05,0.0,24852.2,16252.1,8600.1,Card
+ORD00941,2025-05-20,CUST0083,Kurunegala,Online,Stationery,Desk Organizer,2,1625.94,0.0,3251.88,1976.65,1275.23,Digital Wallet
+ORD00942,2024-10-22,CUST0221,Kurunegala,In-store,Electronics,Keyboard,3,5163.58,0.15,13167.13,11255.55,1911.58,Digital Wallet
+ORD00943,2025-10-29,CUST0213,Kilinochchi,In-store,Home & Kitchen,Cookware Set,4,7062.69,0.05,26838.22,19441.03,7397.19,Digital Wallet
+ORD00944,2024-12-12,CUST0188,Jaffna,Online,Home & Kitchen,Cookware Set,2,7317.31,0.0,14634.62,11856.79,2777.83,Digital Wallet
+ORD00945,2024-04-04,CUST0278,Kilinochchi,In-store,Stationery,Backpack,4,3797.61,0.1,13671.4,8452.38,5219.02,Card
+ORD00946,2024-03-28,CUST0148,Kilinochchi,In-store,Home & Kitchen,Water Bottle,3,1632.56,0.0,4897.68,3233.72,1663.96,Cash
+ORD00947,2025-12-12,CUST0384,Colombo,In-store,Fashion,Jeans,2,7037.26,0.0,14074.52,9936.11,4138.41,Digital Wallet
+ORD00948,2024-04-08,CUST0171,Galle,Online,Fashion,Handbag,1,4858.01,0.0,4858.01,3279.23,1578.78,Card
+ORD00949,2025-11-23,CUST0305,Colombo,In-store,Home & Kitchen,Blender,4,9738.44,0.0,38953.76,24303.09,14650.67,Cash
+ORD00950,2024-07-22,CUST0176,Galle,Online,Fashion,Sneakers,3,8676.95,0.1,23427.77,14716.04,8711.73,Card
+ORD00951,2024-03-09,CUST0314,Galle,In-store,Home & Kitchen,Cookware Set,1,6901.26,0.05,6556.2,4078.99,2477.21,Cash
+ORD00952,2024-08-10,CUST0330,Jaffna,In-store,Electronics,Wireless Mouse,1,3159.26,0.05,3001.3,2113.22,888.08,Cash
+ORD00953,2025-03-25,CUST0279,Galle,In-store,Home & Kitchen,Cookware Set,3,7772.93,0.1,20986.91,17778.95,3207.96,Digital Wallet
+ORD00954,2024-11-08,CUST0325,Galle,In-store,Home & Kitchen,Water Bottle,3,1959.31,0.0,5877.93,4665.67,1212.26,Digital Wallet
+ORD00955,2025-07-28,CUST0336,Kandy,Online,Stationery,Backpack,1,3443.4,0.0,3443.4,2419.57,1023.83,Bank Transfer
+ORD00956,2025-03-22,CUST0254,Jaffna,Online,Home & Kitchen,Blender,3,8828.33,0.05,25160.74,17266.01,7894.73,Digital Wallet
+ORD00957,2024-10-19,CUST0352,Kandy,In-store,Electronics,Headphones,1,7814.87,0.15,6642.64,5741.54,901.1,Card
+ORD00958,2025-04-08,CUST0283,Kilinochchi,In-store,Electronics,Keyboard,3,5553.24,0.0,16659.72,11434.02,5225.7,Cash
+ORD00959,2025-12-11,CUST0146,Kurunegala,In-store,Stationery,Pen Set,4,706.07,0.0,2824.28,1735.64,1088.64,Digital Wallet
+ORD00960,2024-10-28,CUST0254,Colombo,In-store,Home & Kitchen,Rice Cooker,5,15395.71,0.0,76978.55,60545.11,16433.44,Card
+ORD00961,2024-04-22,CUST0300,Kurunegala,Online,Electronics,Power Bank,5,6356.46,0.0,31782.3,19392.33,12389.97,Bank Transfer
+ORD00962,2024-10-25,CUST0013,Galle,In-store,Stationery,Pen Set,5,604.01,0.05,2869.05,2232.96,636.09,Card
+ORD00963,2025-09-06,CUST0284,Galle,In-store,Home & Kitchen,Rice Cooker,3,15153.26,0.15,38640.81,30596.17,8044.64,Digital Wallet
+ORD00964,2024-06-08,CUST0396,Kandy,In-store,Electronics,Wireless Mouse,3,3025.62,0.1,8169.17,5351.52,2817.65,Digital Wallet
+ORD00965,2025-11-24,CUST0176,Kandy,In-store,Stationery,Pen Set,4,597.89,0.05,2271.98,1705.13,566.85,Card
+ORD00966,2025-03-06,CUST0131,Kandy,In-store,Fashion,Handbag,2,5245.3,0.0,10490.6,5967.72,4522.88,Bank Transfer
+ORD00967,2025-03-15,CUST0103,Galle,Online,Electronics,Headphones,3,8185.49,0.0,24556.47,18168.35,6388.12,Cash
+ORD00968,2024-08-19,CUST0105,Kurunegala,Online,Home & Kitchen,Water Bottle,1,1933.66,0.0,1933.66,1189.98,743.68,Digital Wallet
+ORD00969,2025-11-03,CUST0300,Kandy,In-store,Fashion,Sneakers,1,8537.57,0.0,8537.57,6416.08,2121.49,Digital Wallet
+ORD00970,2024-01-27,CUST0278,Kilinochchi,In-store,Fashion,T-Shirt,4,1996.18,0.0,7984.72,4954.95,3029.77,Cash
+ORD00971,2024-08-06,CUST0051,Jaffna,In-store,Electronics,Headphones,4,9103.41,0.15,30951.59,29351.94,1599.65,Cash
+ORD00972,2024-11-01,CUST0024,Jaffna,Online,Fashion,Jeans,1,6364.39,0.0,6364.39,3877.33,2487.06,Bank Transfer
+ORD00973,2024-12-14,CUST0314,Galle,In-store,Home & Kitchen,Blender,5,9042.37,0.0,45211.85,29547.36,15664.49,Cash
+ORD00974,2024-12-12,CUST0123,Kandy,Online,Stationery,Notebook,5,440.54,0.05,2092.57,1773.6,318.97,Bank Transfer
+ORD00975,2024-04-18,CUST0378,Kilinochchi,In-store,Electronics,Wireless Mouse,4,3463.53,0.0,13854.12,8974.52,4879.6,Bank Transfer
+ORD00976,2024-06-13,CUST0361,Kurunegala,In-store,Stationery,Pen Set,5,725.19,0.1,3263.36,2044.16,1219.2,Digital Wallet
+ORD00977,2024-03-10,CUST0032,Jaffna,In-store,Fashion,Handbag,2,5179.23,0.05,9840.54,8061.96,1778.58,Bank Transfer
+ORD00978,2025-02-22,CUST0278,Kurunegala,Online,Electronics,Wireless Mouse,2,3088.42,0.05,5868.0,3514.01,2353.99,Cash
+ORD00979,2024-09-13,CUST0390,Jaffna,In-store,Home & Kitchen,Rice Cooker,2,13780.02,0.0,27560.04,19792.79,7767.25,Cash
+ORD00980,2025-02-17,CUST0239,Kilinochchi,Online,Home & Kitchen,Water Bottle,3,1719.36,0.15,4384.37,3413.35,971.02,Card
+ORD00981,2025-03-07,CUST0326,Kurunegala,In-store,Fashion,Handbag,4,5256.39,0.0,21025.56,16319.48,4706.08,Card
+ORD00982,2025-05-28,CUST0377,Kilinochchi,In-store,Electronics,Wireless Mouse,2,2979.91,0.0,5959.82,4390.0,1569.82,Bank Transfer
+ORD00983,2025-02-03,CUST0154,Galle,In-store,Stationery,Backpack,3,4129.31,0.0,12387.93,6956.62,5431.31,Card
+ORD00984,2025-04-18,CUST0312,Kandy,In-store,Electronics,Power Bank,2,7136.33,0.1,12845.39,11543.09,1302.3,Digital Wallet
+ORD00985,2025-03-05,CUST0303,Jaffna,Online,Home & Kitchen,Rice Cooker,5,16006.93,0.15,68029.45,60621.9,7407.55,Bank Transfer
+ORD00986,2025-04-21,CUST0343,Kandy,In-store,Fashion,Sneakers,3,9415.82,0.15,24010.34,16252.54,7757.8,Digital Wallet
+ORD00987,2025-03-26,CUST0399,Galle,Online,Home & Kitchen,Blender,1,9853.02,0.0,9853.02,7951.97,1901.05,Digital Wallet
+ORD00988,2024-08-19,CUST0311,Kandy,In-store,Electronics,Wireless Mouse,5,3374.47,0.0,16872.35,12994.11,3878.24,Digital Wallet
+ORD00989,2024-06-29,CUST0235,Jaffna,Online,Stationery,Backpack,4,3985.87,0.0,15943.48,8778.64,7164.84,Cash
+ORD00990,2025-07-29,CUST0251,Colombo,In-store,Home & Kitchen,Water Bottle,3,1697.33,0.0,5091.99,4103.13,988.86,Card
+ORD00991,2024-09-07,CUST0007,Galle,In-store,Home & Kitchen,Water Bottle,2,1908.89,0.15,3245.11,2709.74,535.37,Cash
+ORD00992,2025-02-05,CUST0001,Kilinochchi,Online,Home & Kitchen,Water Bottle,3,1962.97,0.0,5888.91,4021.32,1867.59,Cash
+ORD00993,2024-05-23,CUST0311,Jaffna,Online,Electronics,Headphones,3,9221.3,0.0,27663.9,22170.16,5493.74,Cash
+ORD00994,2024-11-11,CUST0277,Kurunegala,Online,Home & Kitchen,Cookware Set,3,7102.87,0.1,19177.75,16948.78,2228.97,Bank Transfer
+ORD00995,2025-01-22,CUST0040,Galle,In-store,Fashion,T-Shirt,3,2127.44,0.05,6063.2,5030.08,1033.12,Cash
+ORD00996,2025-04-02,CUST0376,Kilinochchi,Online,Fashion,Handbag,3,4485.37,0.0,13456.11,8901.15,4554.96,Cash
+ORD00997,2025-01-19,CUST0039,Kandy,In-store,Home & Kitchen,Rice Cooker,3,13774.41,0.0,41323.23,33714.27,7608.96,Digital Wallet
+ORD00998,2024-09-20,CUST0396,Galle,In-store,Stationery,Notebook,4,425.84,0.05,1618.19,972.22,645.97,Bank Transfer
+ORD00999,2025-12-04,CUST0058,Kandy,In-store,Stationery,Desk Organizer,5,1500.89,0.0,7504.45,4334.21,3170.24,Cash
+ORD01000,2025-01-09,CUST0018,Kandy,Online,Stationery,Pen Set,3,707.83,0.0,2123.49,1471.22,652.27,Card
+ORD01001,2025-08-13,CUST0200,Colombo,In-store,Electronics,Power Bank,1,6920.66,0.05,6574.63,5112.84,1461.79,Digital Wallet
+ORD01002,2025-06-22,CUST0241,Colombo,In-store,Fashion,Sneakers,2,8878.94,0.0,17757.88,14305.21,3452.67,Bank Transfer
+ORD01003,2025-02-12,CUST0149,Kandy,In-store,Stationery,Notebook,3,438.0,0.0,1314.0,980.06,333.94,Digital Wallet
+ORD01004,2025-10-09,CUST0378,Jaffna,In-store,Electronics,Power Bank,5,6359.33,0.0,31796.65,23484.97,8311.68,Bank Transfer
+ORD01005,2024-04-03,CUST0027,Kandy,In-store,Fashion,Sneakers,5,9899.77,0.1,44548.97,30677.92,13871.05,Cash
+ORD01006,2025-11-04,CUST0130,Kurunegala,In-store,Fashion,T-Shirt,2,2116.78,0.0,4233.56,2652.38,1581.18,Card
+ORD01007,2025-09-13,CUST0240,Galle,In-store,Fashion,Sneakers,2,8697.8,0.1,15656.04,10003.08,5652.96,Bank Transfer
+ORD01008,2025-01-03,CUST0250,Kurunegala,In-store,Stationery,Backpack,2,4233.96,0.1,7621.13,5148.32,2472.81,Cash
+ORD01009,2025-06-20,CUST0162,Kurunegala,Online,Home & Kitchen,Water Bottle,3,1712.08,0.0,5136.24,3353.84,1782.4,Bank Transfer
+ORD01010,2025-01-15,CUST0158,Jaffna,In-store,Electronics,Keyboard,1,5783.59,0.05,5494.41,4105.86,1388.55,Bank Transfer
+ORD01011,2024-07-15,CUST0337,Jaffna,Online,Stationery,Backpack,4,3897.91,0.0,15591.64,10225.26,5366.38,Digital Wallet
+ORD01012,2025-08-07,CUST0160,Kandy,Online,Electronics,Power Bank,3,7177.9,0.0,21533.7,14246.11,7287.59,Bank Transfer
+ORD01013,2024-06-28,CUST0060,Galle,Online,Fashion,Sneakers,5,8510.68,0.1,38298.06,33789.91,4508.15,Digital Wallet
+ORD01014,2024-08-17,CUST0082,Kurunegala,In-store,Home & Kitchen,Rice Cooker,5,13120.11,0.15,55760.47,40670.34,15090.13,Bank Transfer
+ORD01015,2025-01-14,CUST0284,Kandy,Online,Home & Kitchen,Water Bottle,2,1752.68,0.05,3330.09,2837.42,492.67,Digital Wallet
+ORD01016,2025-09-04,CUST0095,Colombo,Online,Fashion,Handbag,2,4386.44,0.1,7895.59,6184.66,1710.93,Card
+ORD01017,2024-10-07,CUST0166,Colombo,Online,Home & Kitchen,Cookware Set,4,6999.49,0.1,25198.16,17424.56,7773.6,Cash
+ORD01018,2024-12-27,CUST0263,Jaffna,Online,Stationery,Notebook,3,427.86,0.0,1283.58,1026.15,257.43,Bank Transfer
+ORD01019,2024-01-31,CUST0356,Colombo,Online,Electronics,Keyboard,5,5274.94,0.05,25055.96,17161.39,7894.57,Cash
+ORD01020,2024-03-25,CUST0378,Kandy,In-store,Home & Kitchen,Cookware Set,1,6745.68,0.0,6745.68,3843.29,2902.39,Card
+ORD01021,2024-02-10,CUST0302,Jaffna,Online,Home & Kitchen,Rice Cooker,1,15380.38,0.1,13842.34,11315.5,2526.84,Bank Transfer
+ORD01022,2024-02-22,CUST0227,Kandy,Online,Fashion,T-Shirt,1,2157.49,0.0,2157.49,1668.66,488.83,Digital Wallet
+ORD01023,2025-09-26,CUST0345,Kandy,In-store,Stationery,Backpack,5,3582.69,0.05,17017.78,11541.86,5475.92,Card
+ORD01024,2025-09-07,CUST0107,Kurunegala,In-store,Fashion,Sneakers,5,9031.86,0.0,45159.3,33952.3,11207.0,Digital Wallet
+ORD01025,2025-08-23,CUST0254,Jaffna,In-store,Home & Kitchen,Rice Cooker,3,14304.77,0.0,42914.31,24827.69,18086.62,Card
+ORD01026,2024-02-10,CUST0100,Kurunegala,Online,Home & Kitchen,Cookware Set,4,7656.69,0.15,26032.75,20641.31,5391.44,Cash
+ORD01027,2024-02-26,CUST0398,Kurunegala,In-store,Home & Kitchen,Cookware Set,4,6919.9,0.0,27679.6,17798.37,9881.23,Digital Wallet
+ORD01028,2024-07-24,CUST0301,Galle,Online,Home & Kitchen,Rice Cooker,4,13430.99,0.05,51037.76,39228.32,11809.44,Card
+ORD01029,2025-02-17,CUST0204,Galle,Online,Stationery,Pen Set,2,589.45,0.0,1178.9,713.56,465.34,Cash
+ORD01030,2024-09-01,CUST0172,Kurunegala,Online,Home & Kitchen,Cookware Set,4,6537.88,0.0,26151.52,14830.77,11320.75,Digital Wallet
+ORD01031,2024-12-22,CUST0120,Jaffna,Online,Electronics,Keyboard,4,5329.82,0.1,19187.35,14463.56,4723.79,Digital Wallet
+ORD01032,2024-05-06,CUST0086,Colombo,Online,Fashion,T-Shirt,1,2311.51,0.1,2080.36,1339.69,740.67,Card
+ORD01033,2025-06-18,CUST0085,Galle,Online,Electronics,Headphones,3,8906.34,0.0,26719.02,20697.49,6021.53,Bank Transfer
+ORD01034,2024-08-17,CUST0021,Kurunegala,In-store,Electronics,Headphones,1,9340.33,0.1,8406.3,7173.84,1232.46,Cash
+ORD01035,2024-02-18,CUST0322,Jaffna,Online,Fashion,T-Shirt,4,2035.91,0.1,7329.28,4832.31,2496.97,Card
+ORD01036,2025-06-26,CUST0222,Galle,In-store,Home & Kitchen,Blender,2,10935.89,0.0,21871.78,16499.55,5372.23,Card
+ORD01037,2025-10-21,CUST0217,Galle,Online,Home & Kitchen,Blender,3,9264.05,0.0,27792.15,20055.72,7736.43,Cash
+ORD01038,2024-01-11,CUST0170,Kilinochchi,In-store,Home & Kitchen,Cookware Set,2,7266.76,0.05,13806.84,8418.5,5388.34,Card
+ORD01039,2024-11-15,CUST0033,Kurunegala,In-store,Home & Kitchen,Rice Cooker,5,14908.91,0.0,74544.55,52390.13,22154.42,Card
+ORD01040,2025-08-27,CUST0025,Kilinochchi,Online,Fashion,Jeans,3,6622.32,0.0,19866.96,14986.11,4880.85,Digital Wallet
+ORD01041,2025-05-31,CUST0391,Kurunegala,In-store,Home & Kitchen,Water Bottle,1,1852.95,0.1,1667.65,1485.61,182.04,Card
+ORD01042,2025-09-18,CUST0273,Galle,In-store,Stationery,Backpack,4,3993.29,0.0,15973.16,11532.36,4440.8,Card
+ORD01043,2024-10-30,CUST0093,Jaffna,Online,Stationery,Backpack,5,4136.3,0.0,20681.5,11897.1,8784.4,Bank Transfer
+ORD01044,2024-09-29,CUST0138,Galle,In-store,Stationery,Backpack,1,3881.03,0.1,3492.93,2379.76,1113.17,Digital Wallet
+ORD01045,2025-06-02,CUST0261,Kurunegala,In-store,Electronics,Headphones,1,9299.74,0.05,8834.75,7030.88,1803.87,Card
+ORD01046,2024-04-22,CUST0069,Kandy,Online,Stationery,Desk Organizer,1,1708.98,0.0,1708.98,1088.28,620.7,Card
+ORD01047,2024-06-24,CUST0395,Kilinochchi,In-store,Electronics,Headphones,3,8921.69,0.0,26765.07,20446.06,6319.01,Digital Wallet
+ORD01048,2025-03-15,CUST0080,Galle,In-store,Stationery,Notebook,3,412.82,0.15,1052.69,979.63,73.06,Bank Transfer
+ORD01049,2025-05-03,CUST0232,Galle,In-store,Stationery,Pen Set,4,679.15,0.1,2444.94,1973.27,471.67,Cash
+ORD01050,2024-03-28,CUST0145,Kurunegala,In-store,Home & Kitchen,Water Bottle,4,1797.45,0.1,6470.82,4762.94,1707.88,Cash
+ORD01051,2025-01-06,CUST0042,Colombo,In-store,Electronics,Power Bank,4,6492.49,0.0,25969.96,19968.05,6001.91,Bank Transfer
+ORD01052,2024-09-23,CUST0310,Jaffna,Online,Fashion,Sneakers,2,9976.47,0.15,16960.0,11315.8,5644.2,Digital Wallet
+ORD01053,2025-01-01,CUST0252,Galle,In-store,Electronics,Power Bank,5,6428.01,0.1,28926.05,22928.09,5997.96,Cash
+ORD01054,2025-12-01,CUST0003,Kilinochchi,Online,Fashion,Sneakers,2,8317.01,0.1,14970.62,9876.0,5094.62,Bank Transfer
+ORD01055,2024-02-26,CUST0133,Jaffna,In-store,Electronics,Wireless Mouse,3,3049.14,0.15,7775.31,7155.53,619.78,Digital Wallet
+ORD01056,2025-12-28,CUST0158,Kilinochchi,In-store,Stationery,Backpack,3,3890.02,0.1,10503.05,6931.54,3571.51,Bank Transfer
+ORD01057,2024-11-24,CUST0022,Kilinochchi,Online,Fashion,T-Shirt,2,2448.34,0.0,4896.68,2873.23,2023.45,Cash
+ORD01058,2025-07-18,CUST0106,Kilinochchi,Online,Fashion,Handbag,4,4998.01,0.0,19992.04,12058.41,7933.63,Digital Wallet
+ORD01059,2024-11-06,CUST0029,Jaffna,In-store,Electronics,Keyboard,1,5765.56,0.0,5765.56,3571.24,2194.32,Card
+ORD01060,2024-08-15,CUST0137,Kilinochchi,Online,Stationery,Pen Set,5,657.12,0.05,3121.32,2295.95,825.37,Bank Transfer
+ORD01061,2025-07-17,CUST0322,Colombo,Online,Fashion,Jeans,4,6992.81,0.05,26572.68,21363.85,5208.83,Digital Wallet
+ORD01062,2025-05-17,CUST0350,Jaffna,In-store,Home & Kitchen,Water Bottle,5,1740.67,0.0,8703.35,6824.44,1878.91,Cash
+ORD01063,2024-04-15,CUST0141,Galle,Online,Home & Kitchen,Water Bottle,5,1800.27,0.05,8551.28,6880.55,1670.73,Digital Wallet
+ORD01064,2025-05-30,CUST0381,Jaffna,In-store,Home & Kitchen,Cookware Set,3,7310.93,0.0,21932.79,13602.79,8330.0,Bank Transfer
+ORD01065,2025-07-04,CUST0234,Kandy,In-store,Fashion,T-Shirt,2,2238.64,0.0,4477.28,3488.13,989.15,Cash
+ORD01066,2024-10-10,CUST0255,Kandy,In-store,Home & Kitchen,Blender,5,9950.96,0.0,49754.8,39072.86,10681.94,Card
+ORD01067,2025-11-07,CUST0346,Galle,In-store,Fashion,Sneakers,4,9594.46,0.0,38377.84,25361.39,13016.45,Cash
+ORD01068,2025-04-13,CUST0265,Galle,In-store,Stationery,Pen Set,3,644.91,0.0,1934.73,1453.38,481.35,Card
+ORD01069,2024-08-31,CUST0383,Galle,In-store,Electronics,Headphones,4,8852.06,0.0,35408.24,20574.37,14833.87,Card
+ORD01070,2024-01-08,CUST0291,Galle,In-store,Electronics,Power Bank,5,7188.62,0.05,34145.94,21672.08,12473.86,Bank Transfer
+ORD01071,2025-05-08,CUST0095,Galle,In-store,Electronics,Keyboard,2,5715.99,0.0,11431.98,8956.49,2475.49,Card
+ORD01072,2024-06-01,CUST0044,Colombo,In-store,Fashion,T-Shirt,3,2211.71,0.0,6635.13,4352.27,2282.86,Bank Transfer
+ORD01073,2025-07-07,CUST0388,Kandy,Online,Home & Kitchen,Water Bottle,5,1642.73,0.0,8213.65,5230.32,2983.33,Cash
+ORD01074,2025-01-18,CUST0258,Kandy,In-store,Home & Kitchen,Rice Cooker,1,14078.21,0.15,11966.48,11466.87,499.61,Cash
+ORD01075,2024-12-07,CUST0128,Jaffna,In-store,Electronics,Headphones,1,8568.13,0.05,8139.72,5697.17,2442.55,Digital Wallet
+ORD01076,2024-04-29,CUST0031,Jaffna,Online,Stationery,Desk Organizer,5,1671.11,0.0,8355.55,6149.52,2206.03,Bank Transfer
+ORD01077,2025-06-04,CUST0189,Kurunegala,Online,Electronics,Headphones,2,9492.87,0.0,18985.74,11094.89,7890.85,Cash
+ORD01078,2024-05-01,CUST0278,Jaffna,In-store,Fashion,Handbag,4,4463.37,0.05,16960.81,13564.3,3396.51,Digital Wallet
+ORD01079,2024-11-01,CUST0314,Galle,In-store,Electronics,Wireless Mouse,4,3060.61,0.0,12242.44,9461.05,2781.39,Cash
+ORD01080,2025-09-03,CUST0318,Galle,In-store,Electronics,Headphones,1,8565.75,0.0,8565.75,5540.3,3025.45,Cash
+ORD01081,2025-11-03,CUST0056,Kandy,In-store,Electronics,Headphones,3,8042.71,0.0,24128.13,16384.0,7744.13,Bank Transfer
+ORD01082,2025-12-24,CUST0141,Colombo,In-store,Electronics,Headphones,1,8994.16,0.0,8994.16,6857.91,2136.25,Bank Transfer
+ORD01083,2025-12-01,CUST0185,Kurunegala,In-store,Electronics,Wireless Mouse,1,2919.51,0.0,2919.51,1636.97,1282.54,Digital Wallet
+ORD01084,2025-02-10,CUST0203,Colombo,In-store,Fashion,Handbag,4,5297.18,0.15,18010.41,13708.85,4301.56,Cash
+ORD01085,2024-05-26,CUST0031,Jaffna,In-store,Electronics,Headphones,3,8357.58,0.0,25072.74,18956.51,6116.23,Digital Wallet
+ORD01086,2025-09-05,CUST0256,Kurunegala,In-store,Fashion,Jeans,4,5862.16,0.05,22276.21,13974.07,8302.14,Bank Transfer
+ORD01087,2025-08-08,CUST0208,Kurunegala,In-store,Home & Kitchen,Water Bottle,4,1959.21,0.1,7053.16,5464.26,1588.9,Digital Wallet
+ORD01088,2025-12-24,CUST0055,Colombo,In-store,Stationery,Desk Organizer,2,1523.79,0.0,3047.58,1812.83,1234.75,Card
+ORD01089,2025-04-20,CUST0298,Kandy,Online,Fashion,T-Shirt,1,2110.64,0.05,2005.11,1387.97,617.14,Digital Wallet
+ORD01090,2024-04-13,CUST0032,Kandy,Online,Fashion,Sneakers,4,8488.28,0.15,28860.15,24901.0,3959.15,Digital Wallet
+ORD01091,2025-01-02,CUST0119,Galle,In-store,Electronics,Power Bank,3,6991.26,0.1,18876.4,12879.59,5996.81,Bank Transfer
+ORD01092,2024-11-23,CUST0291,Kandy,Online,Electronics,Keyboard,3,4944.39,0.05,14091.51,10798.57,3292.94,Card
+ORD01093,2025-09-08,CUST0151,Galle,In-store,Stationery,Notebook,5,437.75,0.05,2079.31,1534.45,544.86,Bank Transfer
+ORD01094,2024-10-13,CUST0164,Kilinochchi,Online,Electronics,Power Bank,2,6104.07,0.0,12208.14,7135.78,5072.36,Cash
+ORD01095,2024-08-28,CUST0399,Kurunegala,Online,Home & Kitchen,Cookware Set,1,7729.02,0.1,6956.12,6088.27,867.85,Card
+ORD01096,2024-02-28,CUST0380,Jaffna,Online,Stationery,Backpack,3,3681.87,0.1,9941.05,8438.49,1502.56,Digital Wallet
+ORD01097,2025-09-02,CUST0235,Kilinochchi,Online,Home & Kitchen,Rice Cooker,3,15091.77,0.05,43011.54,35655.62,7355.92,Bank Transfer
+ORD01098,2025-07-06,CUST0381,Galle,In-store,Electronics,Keyboard,4,4753.44,0.05,18063.07,10920.61,7142.46,Bank Transfer
+ORD01099,2024-01-31,CUST0008,Jaffna,In-store,Electronics,Power Bank,4,6895.61,0.0,27582.44,20341.99,7240.45,Card
+ORD01100,2024-11-13,CUST0312,Kurunegala,Online,Fashion,T-Shirt,2,2268.9,0.1,4084.02,3220.47,863.55,Digital Wallet
+ORD01101,2024-12-16,CUST0242,Jaffna,Online,Home & Kitchen,Rice Cooker,1,13481.92,0.05,12807.82,9406.58,3401.24,Cash
+ORD01102,2024-12-09,CUST0083,Kandy,In-store,Electronics,Keyboard,2,4924.73,0.0,9849.46,7686.24,2163.22,Bank Transfer
+ORD01103,2025-11-02,CUST0306,Galle,Online,Home & Kitchen,Blender,1,9695.8,0.0,9695.8,7029.99,2665.81,Card
+ORD01104,2024-04-20,CUST0010,Galle,In-store,Fashion,T-Shirt,2,2127.28,0.1,3829.1,3133.11,695.99,Cash
+ORD01105,2024-08-11,CUST0313,Colombo,In-store,Fashion,Jeans,5,6757.08,0.0,33785.4,23140.28,10645.12,Card
+ORD01106,2024-05-12,CUST0015,Jaffna,In-store,Fashion,Handbag,3,5147.47,0.05,14670.29,11628.7,3041.59,Cash
+ORD01107,2024-06-27,CUST0034,Jaffna,Online,Electronics,Power Bank,2,6282.99,0.0,12565.98,7505.17,5060.81,Cash
+ORD01108,2025-10-25,CUST0380,Kilinochchi,In-store,Home & Kitchen,Cookware Set,2,6858.45,0.0,13716.9,10557.24,3159.66,Card
+ORD01109,2025-11-18,CUST0389,Jaffna,In-store,Home & Kitchen,Blender,3,10158.11,0.0,30474.33,20309.68,10164.65,Digital Wallet
+ORD01110,2024-02-02,CUST0299,Colombo,In-store,Stationery,Notebook,5,445.62,0.05,2116.69,1229.66,887.03,Card
+ORD01111,2025-04-07,CUST0350,Galle,In-store,Home & Kitchen,Blender,4,10895.81,0.0,43583.24,28096.46,15486.78,Cash
+ORD01112,2024-06-19,CUST0324,Galle,Online,Stationery,Notebook,4,499.89,0.0,1999.56,1109.37,890.19,Card
+ORD01113,2024-05-20,CUST0199,Kurunegala,In-store,Electronics,Headphones,1,7778.94,0.1,7001.05,5929.11,1071.94,Digital Wallet
+ORD01114,2024-08-01,CUST0064,Jaffna,In-store,Home & Kitchen,Water Bottle,3,1736.87,0.0,5210.61,3329.61,1881.0,Digital Wallet
+ORD01115,2024-05-22,CUST0165,Jaffna,In-store,Home & Kitchen,Rice Cooker,4,15125.24,0.0,60500.96,43378.46,17122.5,Card
+ORD01116,2024-12-24,CUST0148,Kurunegala,In-store,Fashion,Handbag,4,4496.79,0.0,17987.16,11443.95,6543.21,Digital Wallet
+ORD01117,2025-12-28,CUST0305,Colombo,In-store,Stationery,Desk Organizer,2,1731.26,0.0,3462.52,2183.09,1279.43,Cash
+ORD01118,2025-03-04,CUST0251,Kilinochchi,In-store,Fashion,Sneakers,2,9357.77,0.05,17779.76,13520.97,4258.79,Digital Wallet
+ORD01119,2025-06-12,CUST0064,Kilinochchi,In-store,Fashion,Handbag,2,5351.46,0.0,10702.92,7003.73,3699.19,Digital Wallet
+ORD01120,2024-12-26,CUST0172,Colombo,Online,Home & Kitchen,Rice Cooker,1,16027.53,0.1,14424.78,10823.46,3601.32,Digital Wallet
+ORD01121,2024-01-11,CUST0318,Kurunegala,In-store,Stationery,Notebook,2,453.41,0.0,906.82,500.93,405.89,Digital Wallet
+ORD01122,2024-03-02,CUST0013,Colombo,Online,Fashion,Handbag,4,4793.87,0.05,18216.71,15152.99,3063.72,Card
+ORD01123,2024-07-15,CUST0208,Jaffna,Online,Stationery,Notebook,4,443.8,0.05,1686.44,1367.56,318.88,Bank Transfer
+ORD01124,2024-06-27,CUST0290,Kilinochchi,In-store,Home & Kitchen,Cookware Set,5,7310.03,0.1,32895.14,28263.69,4631.45,Cash
+ORD01125,2025-09-06,CUST0037,Jaffna,Online,Home & Kitchen,Water Bottle,5,1777.72,0.1,7999.74,5998.54,2001.2,Card
+ORD01126,2025-09-08,CUST0018,Kurunegala,In-store,Home & Kitchen,Water Bottle,2,1663.93,0.0,3327.86,2158.14,1169.72,Bank Transfer
+ORD01127,2025-09-16,CUST0190,Colombo,In-store,Electronics,Wireless Mouse,2,3167.71,0.15,5385.11,4156.71,1228.4,Cash
+ORD01128,2025-04-11,CUST0335,Jaffna,Online,Fashion,Sneakers,2,10158.74,0.05,19301.61,16632.48,2669.13,Cash
+ORD01129,2025-02-10,CUST0148,Galle,In-store,Stationery,Backpack,5,3819.75,0.1,17188.88,11510.28,5678.6,Card
+ORD01130,2025-04-19,CUST0139,Colombo,Online,Fashion,Handbag,1,4548.35,0.0,4548.35,3316.97,1231.38,Bank Transfer
+ORD01131,2024-10-24,CUST0318,Kandy,In-store,Electronics,Wireless Mouse,5,3364.46,0.0,16822.3,10776.56,6045.74,Digital Wallet
+ORD01132,2025-05-04,CUST0010,Colombo,In-store,Electronics,Headphones,5,7824.05,0.0,39120.25,30177.05,8943.2,Bank Transfer
+ORD01133,2025-08-03,CUST0330,Galle,In-store,Fashion,T-Shirt,3,2043.65,0.0,6130.95,3740.38,2390.57,Cash
+ORD01134,2025-07-11,CUST0389,Jaffna,Online,Fashion,Jeans,2,6299.3,0.0,12598.6,8563.27,4035.33,Bank Transfer
+ORD01135,2025-03-24,CUST0273,Kilinochchi,In-store,Fashion,Jeans,2,6492.2,0.1,11685.96,8478.98,3206.98,Bank Transfer
+ORD01136,2024-02-12,CUST0174,Kilinochchi,Online,Home & Kitchen,Blender,1,10643.18,0.0,10643.18,7485.02,3158.16,Bank Transfer
+ORD01137,2025-06-13,CUST0190,Kilinochchi,In-store,Fashion,T-Shirt,5,2402.13,0.0,12010.65,9394.43,2616.22,Card
+ORD01138,2024-09-24,CUST0260,Colombo,In-store,Home & Kitchen,Water Bottle,2,1657.08,0.05,3148.45,2198.45,950.0,Bank Transfer
+ORD01139,2025-06-27,CUST0243,Kandy,Online,Fashion,T-Shirt,3,2282.62,0.0,6847.86,4035.93,2811.93,Bank Transfer
+ORD01140,2025-01-29,CUST0020,Colombo,In-store,Fashion,T-Shirt,3,2327.56,0.0,6982.68,4691.73,2290.95,Card
+ORD01141,2025-10-06,CUST0020,Kilinochchi,In-store,Home & Kitchen,Blender,2,9945.66,0.15,16907.62,13464.53,3443.09,Cash
+ORD01142,2024-09-04,CUST0164,Kilinochchi,In-store,Electronics,Headphones,2,8258.44,0.1,14865.19,12110.74,2754.45,Bank Transfer
+ORD01143,2025-11-11,CUST0112,Jaffna,Online,Home & Kitchen,Cookware Set,4,6677.38,0.0,26709.52,16876.18,9833.34,Card
+ORD01144,2025-09-09,CUST0362,Galle,In-store,Electronics,Headphones,3,9515.41,0.0,28546.23,19518.48,9027.75,Digital Wallet
+ORD01145,2024-08-30,CUST0052,Kilinochchi,Online,Home & Kitchen,Water Bottle,1,1778.77,0.15,1511.95,1340.27,171.68,Digital Wallet
+ORD01146,2024-12-18,CUST0264,Galle,In-store,Fashion,Handbag,3,4810.05,0.0,14430.15,9963.27,4466.88,Card
+ORD01147,2025-01-23,CUST0188,Colombo,Online,Electronics,Wireless Mouse,3,3052.68,0.0,9158.04,6270.85,2887.19,Bank Transfer
+ORD01148,2025-07-15,CUST0012,Jaffna,Online,Home & Kitchen,Blender,1,10638.06,0.05,10106.16,7046.96,3059.2,Cash
+ORD01149,2025-05-18,CUST0319,Kurunegala,Online,Stationery,Desk Organizer,2,1487.48,0.0,2974.96,1641.34,1333.62,Digital Wallet
+ORD01150,2025-09-14,CUST0065,Colombo,In-store,Fashion,Sneakers,4,10258.88,0.0,41035.52,26265.9,14769.62,Bank Transfer
+ORD01151,2024-09-27,CUST0372,Colombo,Online,Stationery,Desk Organizer,5,1712.82,0.1,7707.69,5612.78,2094.91,Digital Wallet
+ORD01152,2025-01-04,CUST0047,Colombo,Online,Stationery,Backpack,4,3675.08,0.0,14700.32,10797.17,3903.15,Digital Wallet
+ORD01153,2024-11-10,CUST0076,Galle,In-store,Home & Kitchen,Cookware Set,3,6525.87,0.0,19577.61,12744.65,6832.96,Digital Wallet
+ORD01154,2025-10-26,CUST0332,Kilinochchi,Online,Fashion,Jeans,1,6195.6,0.0,6195.6,4586.78,1608.82,Digital Wallet
+ORD01155,2024-08-10,CUST0162,Kilinochchi,In-store,Electronics,Wireless Mouse,3,3513.61,0.0,10540.83,7020.91,3519.92,Bank Transfer
+ORD01156,2025-03-05,CUST0061,Kandy,Online,Stationery,Backpack,2,4017.28,0.0,8034.56,6269.21,1765.35,Digital Wallet
+ORD01157,2024-03-28,CUST0008,Colombo,Online,Electronics,Power Bank,4,7167.78,0.05,27237.56,20420.62,6816.94,Cash
+ORD01158,2025-09-13,CUST0371,Colombo,In-store,Home & Kitchen,Rice Cooker,5,16079.69,0.15,68338.68,54560.69,13777.99,Cash
+ORD01159,2024-10-07,CUST0375,Kandy,Online,Electronics,Power Bank,5,6651.57,0.0,33257.85,19005.97,14251.88,Digital Wallet
+ORD01160,2024-09-05,CUST0064,Colombo,In-store,Electronics,Power Bank,2,6411.0,0.0,12822.0,10285.69,2536.31,Bank Transfer
+ORD01161,2025-03-02,CUST0314,Kandy,Online,Fashion,Sneakers,2,8775.62,0.05,16673.68,9716.55,6957.13,Bank Transfer
+ORD01162,2024-12-30,CUST0257,Kilinochchi,In-store,Home & Kitchen,Cookware Set,5,6839.29,0.05,32486.63,21153.5,11333.13,Bank Transfer
+ORD01163,2025-09-11,CUST0051,Kurunegala,In-store,Stationery,Pen Set,5,633.18,0.1,2849.31,1822.88,1026.43,Card
+ORD01164,2025-01-23,CUST0188,Galle,In-store,Fashion,T-Shirt,5,2236.59,0.0,11182.95,6330.12,4852.83,Cash
+ORD01165,2025-01-12,CUST0065,Kurunegala,In-store,Fashion,Jeans,1,6391.17,0.05,6071.61,4648.32,1423.29,Digital Wallet
+ORD01166,2024-03-17,CUST0125,Kandy,Online,Fashion,Handbag,4,4376.84,0.0,17507.36,13581.4,3925.96,Cash
+ORD01167,2024-01-17,CUST0026,Kurunegala,In-store,Fashion,T-Shirt,2,2383.41,0.05,4528.48,2651.02,1877.46,Bank Transfer
+ORD01168,2024-10-18,CUST0275,Galle,In-store,Fashion,Jeans,2,6294.14,0.15,10700.04,9128.41,1571.63,Bank Transfer
+ORD01169,2025-12-30,CUST0015,Jaffna,Online,Electronics,Headphones,3,8829.27,0.0,26487.81,20025.28,6462.53,Card
+ORD01170,2025-11-01,CUST0309,Colombo,In-store,Fashion,Sneakers,1,10078.34,0.0,10078.34,7440.25,2638.09,Digital Wallet
+ORD01171,2025-04-04,CUST0342,Kandy,In-store,Electronics,Power Bank,5,6099.79,0.0,30498.95,18191.31,12307.64,Digital Wallet
+ORD01172,2025-04-06,CUST0192,Jaffna,In-store,Stationery,Pen Set,1,658.59,0.1,592.73,507.64,85.09,Cash
+ORD01173,2024-10-13,CUST0082,Kurunegala,In-store,Fashion,Jeans,5,6640.58,0.0,33202.9,24907.68,8295.22,Digital Wallet
+ORD01174,2024-05-09,CUST0268,Galle,Online,Fashion,Sneakers,5,9625.47,0.05,45720.98,33294.24,12426.74,Card
+ORD01175,2024-01-07,CUST0266,Kandy,In-store,Fashion,Sneakers,3,8536.36,0.05,24328.63,18551.72,5776.91,Cash
+ORD01176,2024-09-04,CUST0345,Galle,Online,Stationery,Notebook,3,460.54,0.0,1381.62,1034.75,346.87,Bank Transfer
+ORD01177,2024-08-19,CUST0381,Kurunegala,In-store,Electronics,Wireless Mouse,1,3280.3,0.0,3280.3,2339.39,940.91,Cash
+ORD01178,2024-05-20,CUST0334,Galle,Online,Fashion,Jeans,2,6559.77,0.0,13119.54,9290.81,3828.73,Card
+ORD01179,2024-07-08,CUST0072,Galle,Online,Fashion,Sneakers,2,9806.89,0.0,19613.78,11727.82,7885.96,Bank Transfer
+ORD01180,2024-01-19,CUST0285,Jaffna,In-store,Home & Kitchen,Water Bottle,3,1731.91,0.0,5195.73,3596.38,1599.35,Cash
+ORD01181,2025-03-20,CUST0027,Colombo,In-store,Stationery,Pen Set,2,699.55,0.05,1329.14,970.71,358.43,Cash
+ORD01182,2025-11-08,CUST0390,Jaffna,Online,Fashion,T-Shirt,2,2404.58,0.0,4809.16,3000.46,1808.7,Cash
+ORD01183,2025-05-19,CUST0230,Kurunegala,In-store,Electronics,Keyboard,2,5390.28,0.05,10241.53,6586.71,3654.82,Cash
+ORD01184,2024-11-23,CUST0146,Galle,Online,Electronics,Headphones,5,9473.28,0.0,47366.4,35703.66,11662.74,Card
+ORD01185,2024-11-03,CUST0391,Jaffna,Online,Stationery,Backpack,2,4255.21,0.05,8084.9,6400.85,1684.05,Cash
+ORD01186,2024-08-12,CUST0362,Kandy,In-store,Stationery,Backpack,4,3751.62,0.15,12755.51,11838.6,916.91,Bank Transfer
+ORD01187,2024-04-14,CUST0178,Kurunegala,Online,Electronics,Keyboard,1,4803.54,0.15,4083.01,2917.12,1165.89,Bank Transfer
+ORD01188,2025-03-13,CUST0232,Kandy,In-store,Electronics,Power Bank,5,6744.52,0.05,32036.47,20242.46,11794.01,Bank Transfer
+ORD01189,2025-02-18,CUST0211,Kilinochchi,Online,Fashion,T-Shirt,3,2101.14,0.1,5673.08,3766.24,1906.84,Card
+ORD01190,2024-01-06,CUST0055,Kurunegala,In-store,Home & Kitchen,Blender,5,10795.6,0.05,51279.1,30151.12,21127.98,Bank Transfer
+ORD01191,2024-10-30,CUST0157,Galle,Online,Fashion,T-Shirt,3,2020.1,0.1,5454.27,3762.39,1691.88,Card
+ORD01192,2024-07-22,CUST0367,Jaffna,In-store,Home & Kitchen,Cookware Set,1,7042.09,0.1,6337.88,4321.54,2016.34,Bank Transfer
+ORD01193,2024-05-04,CUST0016,Jaffna,Online,Stationery,Desk Organizer,5,1595.66,0.0,7978.3,5675.76,2302.54,Digital Wallet
+ORD01194,2025-05-28,CUST0060,Colombo,In-store,Home & Kitchen,Water Bottle,3,1984.0,0.0,5952.0,4284.7,1667.3,Cash
+ORD01195,2025-01-19,CUST0250,Kurunegala,In-store,Electronics,Power Bank,2,6764.6,0.0,13529.2,9905.07,3624.13,Bank Transfer
+ORD01196,2025-04-08,CUST0262,Jaffna,Online,Fashion,T-Shirt,5,2249.44,0.0,11247.2,8648.05,2599.15,Cash
+ORD01197,2025-06-05,CUST0036,Galle,In-store,Electronics,Headphones,4,8431.15,0.05,32038.37,19023.77,13014.6,Cash
+ORD01198,2025-12-18,CUST0030,Galle,Online,Electronics,Power Bank,4,6869.77,0.0,27479.08,16779.37,10699.71,Digital Wallet
+ORD01199,2025-08-09,CUST0301,Kurunegala,In-store,Stationery,Notebook,2,457.28,0.1,823.1,536.83,286.27,Cash
+ORD01200,2025-03-29,CUST0198,Kurunegala,In-store,Fashion,Sneakers,5,9261.09,0.0,46305.45,29792.82,16512.63,Bank Transfer
